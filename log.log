@@ -2264,3 +2264,392 @@ Fri 29 Dec 2017 09:29:27 INFO views.py 47 11768 13256 ACT18282900
 Fri 29 Dec 2017 09:29:27 INFO views.py 49 11768 13256 任务添加成功,开始爬取
 Fri 29 Dec 2017 09:29:27 INFO views.py 49 11768 13256 任务添加成功,开始爬取
 Fri 29 Dec 2017 09:29:27 INFO views.py 49 11768 13256 任务添加成功,开始爬取
+Fri 29 Dec 2017 17:57:39 INFO views.py 28 16476 3004 开始接受请求
+Fri 29 Dec 2017 17:57:39 INFO views.py 31 16476 3004 接受请求成功
+Fri 29 Dec 2017 17:57:39 INFO views.py 32 16476 3004 {'CustomerID': ['9'], 'CompanyID': ['18282900'], 'BatchMonth': ['8'], 'jobname': ['工程1'], 'BatchID': ['5590'], 'jobparams': ['工作中'], 'TaxId': ['440300771615767'], 'BatchYear': ['2017'], 'TaxPwd': ['83093013']}
+Fri 29 Dec 2017 17:57:39 INFO views.py 46 16476 3004 添加任务到数据库
+Fri 29 Dec 2017 17:57:39 INFO views.py 47 16476 3004 ACT18282900
+Fri 29 Dec 2017 17:57:40 INFO views.py 49 16476 3004 任务添加成功,开始爬取
+Fri 29 Dec 2017 17:57:48 INFO views.py 28 20412 3004 开始接受请求
+Fri 29 Dec 2017 17:57:48 INFO views.py 28 20412 3004 开始接受请求
+Fri 29 Dec 2017 17:57:48 INFO views.py 31 20412 3004 接受请求成功
+Fri 29 Dec 2017 17:57:48 INFO views.py 31 20412 3004 接受请求成功
+Fri 29 Dec 2017 17:57:48 INFO views.py 32 20412 3004 {'CustomerID': ['9'], 'CompanyID': ['18282900'], 'jobname': ['工程1'], 'BatchMonth': ['8'], 'BatchID': ['5590'], 'jobparams': ['工作中'], 'TaxId': ['440300771615767'], 'BatchYear': ['2017'], 'TaxPwd': ['83093013']}
+Fri 29 Dec 2017 17:57:48 INFO views.py 32 20412 3004 {'CustomerID': ['9'], 'CompanyID': ['18282900'], 'jobname': ['工程1'], 'BatchMonth': ['8'], 'BatchID': ['5590'], 'jobparams': ['工作中'], 'TaxId': ['440300771615767'], 'BatchYear': ['2017'], 'TaxPwd': ['83093013']}
+Fri 29 Dec 2017 17:57:48 INFO views.py 46 20412 3004 添加任务到数据库
+Fri 29 Dec 2017 17:57:48 INFO views.py 46 20412 3004 添加任务到数据库
+Fri 29 Dec 2017 17:57:48 INFO views.py 47 20412 3004 ACT18282900
+Fri 29 Dec 2017 17:57:48 INFO views.py 47 20412 3004 ACT18282900
+Fri 29 Dec 2017 17:57:49 INFO views.py 49 20412 3004 任务添加成功,开始爬取
+Fri 29 Dec 2017 17:57:49 INFO views.py 49 20412 3004 任务添加成功,开始爬取
+Fri 29 Dec 2017 17:59:50 INFO views.py 28 7256 5380 开始接受请求
+Fri 29 Dec 2017 17:59:50 INFO views.py 31 7256 5380 接受请求成功
+Fri 29 Dec 2017 17:59:50 INFO views.py 32 7256 5380 {'CustomerID': ['9'], 'TaxId': ['440300771615767'], 'BatchMonth': ['8'], 'jobname': ['工程1'], 'CompanyID': ['18282900'], 'BatchYear': ['2017'], 'TaxPwd': ['83093013'], 'BatchID': ['5590'], 'jobparams': ['工作中']}
+Fri 29 Dec 2017 17:59:50 INFO views.py 46 7256 5380 添加任务到数据库
+Fri 29 Dec 2017 17:59:50 INFO views.py 47 7256 5380 ACT18282900
+Fri 29 Dec 2017 17:59:50 INFO views.py 49 7256 5380 任务添加成功,开始爬取
+Fri 29 Dec 2017 18:04:14 INFO views.py 28 3228 13192 开始接受请求
+Fri 29 Dec 2017 18:04:14 INFO views.py 31 3228 13192 接受请求成功
+Fri 29 Dec 2017 18:04:14 INFO views.py 32 3228 13192 {'TaxPwd': ['83093013'], 'CustomerID': ['9'], 'TaxId': ['440300771615767'], 'CompanyID': ['18282900'], 'BatchMonth': ['8'], 'BatchYear': ['2017'], 'jobparams': ['工作中'], 'jobname': ['工程1'], 'BatchID': ['5590']}
+Fri 29 Dec 2017 18:04:14 INFO views.py 46 3228 13192 添加任务到数据库
+Fri 29 Dec 2017 18:04:14 INFO views.py 47 3228 13192 ACT18282900
+Fri 29 Dec 2017 18:04:14 INFO views.py 49 3228 13192 任务添加成功,开始爬取
+Wed 03 Jan 2018 16:18:31 INFO views.py 28 13380 2244 开始接受请求
+Wed 03 Jan 2018 16:18:31 INFO views.py 31 13380 2244 接受请求成功
+Wed 03 Jan 2018 16:18:31 INFO views.py 32 13380 2244 {'TaxId': ['440300754285743'], 'jobname': ['工程1'], 'BatchYear': ['2017'], 'CompanyID': ['18282900'], 'BatchID': ['45'], 'CustomerID': ['9'], 'jobparams': ['工作中'], 'TaxPwd': ['77766683'], 'BatchMonth': ['3']}
+Wed 03 Jan 2018 16:20:21 INFO views.py 28 828 16992 开始接受请求
+Wed 03 Jan 2018 16:20:21 INFO views.py 31 828 16992 接受请求成功
+Wed 03 Jan 2018 16:20:21 INFO views.py 32 828 16992 {'BatchYear': ['2017'], 'jobname': ['工程1'], 'BatchMonth': ['3'], 'CustomerID': ['9'], 'CompanyID': ['18282900'], 'jobparams': ['工作中'], 'TaxId': ['440300754285743'], 'TaxPwd': ['77766683'], 'Type': ['CUSTOMERINFO'], 'BatchID': ['45']}
+Wed 03 Jan 2018 16:21:06 INFO views.py 28 10236 16992 开始接受请求
+Wed 03 Jan 2018 16:21:06 INFO views.py 28 10236 16992 开始接受请求
+Wed 03 Jan 2018 16:21:06 INFO views.py 31 10236 16992 接受请求成功
+Wed 03 Jan 2018 16:21:06 INFO views.py 31 10236 16992 接受请求成功
+Wed 03 Jan 2018 16:21:06 INFO views.py 32 10236 16992 {'BatchYear': ['2017'], 'jobname': ['工程1'], 'BatchMonth': ['3'], 'CompanyID': ['18282900'], 'CustomerID': ['9'], 'jobparams': ['工作中'], 'TaxId': ['440300754285743'], 'TaxPwd': ['77766683'], 'Type': ['TAXDATA'], 'BatchID': ['45']}
+Wed 03 Jan 2018 16:21:06 INFO views.py 32 10236 16992 {'BatchYear': ['2017'], 'jobname': ['工程1'], 'BatchMonth': ['3'], 'CompanyID': ['18282900'], 'CustomerID': ['9'], 'jobparams': ['工作中'], 'TaxId': ['440300754285743'], 'TaxPwd': ['77766683'], 'Type': ['TAXDATA'], 'BatchID': ['45']}
+Wed 03 Jan 2018 16:21:06 INFO views.py 49 10236 16992 添加任务到数据库
+Wed 03 Jan 2018 16:21:06 INFO views.py 49 10236 16992 添加任务到数据库
+Wed 03 Jan 2018 16:21:06 INFO views.py 50 10236 16992 ACT18282900
+Wed 03 Jan 2018 16:21:06 INFO views.py 50 10236 16992 ACT18282900
+Wed 03 Jan 2018 16:21:12 INFO views.py 28 14400 16992 开始接受请求
+Wed 03 Jan 2018 16:21:12 INFO views.py 28 14400 16992 开始接受请求
+Wed 03 Jan 2018 16:21:12 INFO views.py 28 14400 16992 开始接受请求
+Wed 03 Jan 2018 16:21:12 INFO views.py 31 14400 16992 接受请求成功
+Wed 03 Jan 2018 16:21:12 INFO views.py 31 14400 16992 接受请求成功
+Wed 03 Jan 2018 16:21:12 INFO views.py 31 14400 16992 接受请求成功
+Wed 03 Jan 2018 16:21:12 INFO views.py 32 14400 16992 {'BatchYear': ['2017'], 'jobname': ['工程1'], 'BatchMonth': ['3'], 'CustomerID': ['9'], 'CompanyID': ['18282900'], 'jobparams': ['工作中'], 'TaxId': ['440300754285743'], 'TaxPwd': ['77766683'], 'Type': ['TAXDATA'], 'BatchID': ['45']}
+Wed 03 Jan 2018 16:21:12 INFO views.py 32 14400 16992 {'BatchYear': ['2017'], 'jobname': ['工程1'], 'BatchMonth': ['3'], 'CustomerID': ['9'], 'CompanyID': ['18282900'], 'jobparams': ['工作中'], 'TaxId': ['440300754285743'], 'TaxPwd': ['77766683'], 'Type': ['TAXDATA'], 'BatchID': ['45']}
+Wed 03 Jan 2018 16:21:12 INFO views.py 32 14400 16992 {'BatchYear': ['2017'], 'jobname': ['工程1'], 'BatchMonth': ['3'], 'CustomerID': ['9'], 'CompanyID': ['18282900'], 'jobparams': ['工作中'], 'TaxId': ['440300754285743'], 'TaxPwd': ['77766683'], 'Type': ['TAXDATA'], 'BatchID': ['45']}
+Wed 03 Jan 2018 16:21:12 INFO views.py 49 14400 16992 添加任务到数据库
+Wed 03 Jan 2018 16:21:12 INFO views.py 49 14400 16992 添加任务到数据库
+Wed 03 Jan 2018 16:21:12 INFO views.py 49 14400 16992 添加任务到数据库
+Wed 03 Jan 2018 16:21:12 INFO views.py 50 14400 16992 ACT18282900
+Wed 03 Jan 2018 16:21:12 INFO views.py 50 14400 16992 ACT18282900
+Wed 03 Jan 2018 16:21:12 INFO views.py 50 14400 16992 ACT18282900
+Wed 03 Jan 2018 16:21:18 INFO views.py 28 13676 16992 开始接受请求
+Wed 03 Jan 2018 16:21:18 INFO views.py 28 13676 16992 开始接受请求
+Wed 03 Jan 2018 16:21:18 INFO views.py 28 13676 16992 开始接受请求
+Wed 03 Jan 2018 16:21:18 INFO views.py 28 13676 16992 开始接受请求
+Wed 03 Jan 2018 16:21:18 INFO views.py 31 13676 16992 接受请求成功
+Wed 03 Jan 2018 16:21:18 INFO views.py 31 13676 16992 接受请求成功
+Wed 03 Jan 2018 16:21:18 INFO views.py 31 13676 16992 接受请求成功
+Wed 03 Jan 2018 16:21:18 INFO views.py 31 13676 16992 接受请求成功
+Wed 03 Jan 2018 16:21:18 INFO views.py 32 13676 16992 {'BatchYear': ['2017'], 'jobname': ['工程1'], 'BatchMonth': ['3'], 'CompanyID': ['18282900'], 'CustomerID': ['9'], 'jobparams': ['工作中'], 'TaxId': ['440300754285743'], 'TaxPwd': ['77766683'], 'Type': ['TAXDATA'], 'BatchID': ['45']}
+Wed 03 Jan 2018 16:21:18 INFO views.py 32 13676 16992 {'BatchYear': ['2017'], 'jobname': ['工程1'], 'BatchMonth': ['3'], 'CompanyID': ['18282900'], 'CustomerID': ['9'], 'jobparams': ['工作中'], 'TaxId': ['440300754285743'], 'TaxPwd': ['77766683'], 'Type': ['TAXDATA'], 'BatchID': ['45']}
+Wed 03 Jan 2018 16:21:18 INFO views.py 32 13676 16992 {'BatchYear': ['2017'], 'jobname': ['工程1'], 'BatchMonth': ['3'], 'CompanyID': ['18282900'], 'CustomerID': ['9'], 'jobparams': ['工作中'], 'TaxId': ['440300754285743'], 'TaxPwd': ['77766683'], 'Type': ['TAXDATA'], 'BatchID': ['45']}
+Wed 03 Jan 2018 16:21:18 INFO views.py 32 13676 16992 {'BatchYear': ['2017'], 'jobname': ['工程1'], 'BatchMonth': ['3'], 'CompanyID': ['18282900'], 'CustomerID': ['9'], 'jobparams': ['工作中'], 'TaxId': ['440300754285743'], 'TaxPwd': ['77766683'], 'Type': ['TAXDATA'], 'BatchID': ['45']}
+Wed 03 Jan 2018 16:21:18 INFO views.py 49 13676 16992 添加任务到数据库
+Wed 03 Jan 2018 16:21:18 INFO views.py 49 13676 16992 添加任务到数据库
+Wed 03 Jan 2018 16:21:18 INFO views.py 49 13676 16992 添加任务到数据库
+Wed 03 Jan 2018 16:21:18 INFO views.py 49 13676 16992 添加任务到数据库
+Wed 03 Jan 2018 16:21:18 INFO views.py 50 13676 16992 ACT18282900
+Wed 03 Jan 2018 16:21:18 INFO views.py 50 13676 16992 ACT18282900
+Wed 03 Jan 2018 16:21:18 INFO views.py 50 13676 16992 ACT18282900
+Wed 03 Jan 2018 16:21:18 INFO views.py 50 13676 16992 ACT18282900
+Wed 03 Jan 2018 16:21:35 INFO views.py 28 15588 14840 开始接受请求
+Wed 03 Jan 2018 16:21:35 INFO views.py 31 15588 14840 接受请求成功
+Wed 03 Jan 2018 16:21:35 INFO views.py 32 15588 14840 {'CompanyID': ['18282900'], 'jobparams': ['工作中'], 'BatchID': ['45'], 'CustomerID': ['9'], 'BatchYear': ['2017'], 'jobname': ['工程1'], 'TaxId': ['440300754285743'], 'Type': ['TAXDATA'], 'BatchMonth': ['3'], 'TaxPwd': ['77766683']}
+Wed 03 Jan 2018 16:21:35 INFO views.py 49 15588 14840 添加任务到数据库
+Wed 03 Jan 2018 16:21:35 INFO views.py 50 15588 14840 ACT18282900
+Wed 03 Jan 2018 16:37:19 INFO views.py 28 11112 8060 开始接受请求
+Wed 03 Jan 2018 16:37:19 INFO views.py 31 11112 8060 接受请求成功
+Wed 03 Jan 2018 16:37:19 INFO views.py 32 11112 8060 {'CustomerID': ['9'], 'jobname': ['工程1'], 'CompanyID': ['18282900'], 'Type': ['TAXDATA'], 'BatchMonth': ['3'], 'BatchID': ['45'], 'TaxPwd': ['77766683'], 'TaxId': ['440300754285743'], 'BatchYear': ['2017'], 'jobparams': ['工作中']}
+Wed 03 Jan 2018 16:37:20 INFO views.py 49 11112 8060 添加任务到数据库
+Wed 03 Jan 2018 16:37:20 INFO views.py 50 11112 8060 ACT18282900
+Wed 03 Jan 2018 16:37:20 INFO views.py 52 11112 8060 任务添加成功,开始爬取
+Wed 03 Jan 2018 16:38:18 INFO views.py 28 16396 4224 开始接受请求
+Wed 03 Jan 2018 16:38:18 INFO views.py 31 16396 4224 接受请求成功
+Wed 03 Jan 2018 16:38:18 INFO views.py 32 16396 4224 {'CompanyID': ['18282900'], 'BatchYear': ['2017'], 'BatchMonth': ['3'], 'BatchID': ['45'], 'TaxId': ['440300754285743'], 'CustomerID': ['9'], 'jobname': ['工程1'], 'jobparams': ['工作中'], 'Type': ['CUSTOMERINFO'], 'TaxPwd': ['77766683']}
+Wed 03 Jan 2018 16:58:28 INFO views.py 28 14840 1504 开始接受请求
+Wed 03 Jan 2018 16:58:28 INFO views.py 31 14840 1504 接受请求成功
+Wed 03 Jan 2018 16:58:28 INFO views.py 32 14840 1504 {'CompanyID': ['18282900'], 'BatchYear': ['2017'], 'BatchMonth': ['3'], 'Type': ['CUSTOMERINFO'], 'CustomerID': ['9'], 'jobname': ['工程1'], 'SocialID': ['440301106895802'], 'jobparams': ['工作中'], 'CustomerName': ['深圳市华谊智测科技股份有限公司'], 'BatchID': ['45']}
+Wed 03 Jan 2018 16:58:28 INFO views.py 81 14840 1504 添加任务到数据库
+Wed 03 Jan 2018 16:58:28 INFO views.py 82 14840 1504 ACT18282900
+Wed 03 Jan 2018 16:58:29 INFO views.py 84 14840 1504 任务添加成功,开始爬取
+Wed 03 Jan 2018 17:01:27 INFO views.py 28 3324 4832 开始接受请求
+Wed 03 Jan 2018 17:01:27 INFO views.py 31 3324 4832 接受请求成功
+Wed 03 Jan 2018 17:01:27 INFO views.py 32 3324 4832 {'jobparams': ['工作中'], 'jobname': ['工程1'], 'CustomerName': ['\t深圳市大百科饰品有限公司'], 'Type': ['CUSTOMERINFO'], 'CustomerID': ['9'], 'BatchID': ['45'], 'CompanyID': ['18282900'], 'BatchYear': ['2017'], 'BatchMonth': ['3'], 'SocialID': ['440301112440967']}
+Wed 03 Jan 2018 17:01:27 INFO views.py 84 3324 4832 添加任务到数据库
+Wed 03 Jan 2018 17:01:27 INFO views.py 85 3324 4832 ACT18282900
+Wed 03 Jan 2018 17:01:27 INFO views.py 88 3324 4832 任务添加成功,开始爬取
+Wed 03 Jan 2018 17:12:32 INFO views.py 28 9696 14108 开始接受请求
+Wed 03 Jan 2018 17:12:32 INFO views.py 28 13876 14108 开始接受请求
+Wed 03 Jan 2018 17:12:32 INFO views.py 28 13876 14108 开始接受请求
+Wed 03 Jan 2018 17:12:32 INFO views.py 31 9696 14108 接受请求成功
+Wed 03 Jan 2018 17:12:32 INFO views.py 31 9696 14108 接受请求成功
+Wed 03 Jan 2018 17:12:32 INFO views.py 28 4660 14108 开始接受请求
+Wed 03 Jan 2018 17:12:32 INFO views.py 31 9696 14108 接受请求成功
+Wed 03 Jan 2018 17:12:32 INFO views.py 28 4660 14108 开始接受请求
+Wed 03 Jan 2018 17:12:32 INFO views.py 32 9696 14108 {'jobparams': ['{"BatchID":"0116f9940108d552cc9ed1d823","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":375,"Type":"CUSTOMERINFO","TaxId":"深圳市金朔文化用品有限公司","TaxPwd":"91440300063863866C","JobName":"刷新深圳市金朔文化用品有限公司完善公司信息","JobParams":null,"CustomerName":null,"SocialID":null}'], 'CustomerID': ['375'], 'jobname': ['刷新深圳市金朔文化用品有限公司完善公司信息'], 'CompanyID': ['18282900'], 'BatchID': ['0116f9940108d552cc9ed1d823'], 'CustomerName': ['', ''], 'BatchYear': ['0'], 'Type': ['CUSTOMERINFO'], 'BatchMonth': ['0']}
+Wed 03 Jan 2018 17:12:32 INFO views.py 28 4660 14108 开始接受请求
+Wed 03 Jan 2018 17:12:32 INFO views.py 32 9696 14108 {'jobparams': ['{"BatchID":"0116f9940108d552cc9ed1d823","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":375,"Type":"CUSTOMERINFO","TaxId":"深圳市金朔文化用品有限公司","TaxPwd":"91440300063863866C","JobName":"刷新深圳市金朔文化用品有限公司完善公司信息","JobParams":null,"CustomerName":null,"SocialID":null}'], 'CustomerID': ['375'], 'jobname': ['刷新深圳市金朔文化用品有限公司完善公司信息'], 'CompanyID': ['18282900'], 'BatchID': ['0116f9940108d552cc9ed1d823'], 'CustomerName': ['', ''], 'BatchYear': ['0'], 'Type': ['CUSTOMERINFO'], 'BatchMonth': ['0']}
+Wed 03 Jan 2018 17:12:32 INFO views.py 32 9696 14108 {'jobparams': ['{"BatchID":"0116f9940108d552cc9ed1d823","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":375,"Type":"CUSTOMERINFO","TaxId":"深圳市金朔文化用品有限公司","TaxPwd":"91440300063863866C","JobName":"刷新深圳市金朔文化用品有限公司完善公司信息","JobParams":null,"CustomerName":null,"SocialID":null}'], 'CustomerID': ['375'], 'jobname': ['刷新深圳市金朔文化用品有限公司完善公司信息'], 'CompanyID': ['18282900'], 'BatchID': ['0116f9940108d552cc9ed1d823'], 'CustomerName': ['', ''], 'BatchYear': ['0'], 'Type': ['CUSTOMERINFO'], 'BatchMonth': ['0']}
+Wed 03 Jan 2018 17:12:39 INFO views.py 28 11080 13332 开始接受请求
+Wed 03 Jan 2018 17:12:44 INFO views.py 28 11220 13332 开始接受请求
+Wed 03 Jan 2018 17:12:44 INFO views.py 28 11220 13332 开始接受请求
+Wed 03 Jan 2018 17:12:57 INFO views.py 28 9492 13332 开始接受请求
+Wed 03 Jan 2018 17:12:57 INFO views.py 28 9492 13332 开始接受请求
+Wed 03 Jan 2018 17:12:57 INFO views.py 28 9492 13332 开始接受请求
+Wed 03 Jan 2018 17:12:57 INFO views.py 28 15016 13332 开始接受请求
+Wed 03 Jan 2018 17:12:57 INFO views.py 28 15016 13332 开始接受请求
+Wed 03 Jan 2018 17:12:57 INFO views.py 28 15016 13332 开始接受请求
+Wed 03 Jan 2018 17:12:57 INFO views.py 28 15016 13332 开始接受请求
+Wed 03 Jan 2018 17:13:02 INFO views.py 28 7236 13332 开始接受请求
+Wed 03 Jan 2018 17:13:02 INFO views.py 28 7236 13332 开始接受请求
+Wed 03 Jan 2018 17:13:02 INFO views.py 28 7236 13332 开始接受请求
+Wed 03 Jan 2018 17:13:02 INFO views.py 28 7236 13332 开始接受请求
+Wed 03 Jan 2018 17:13:02 INFO views.py 28 7236 13332 开始接受请求
+Wed 03 Jan 2018 17:14:52 INFO views.py 28 11916 13332 开始接受请求
+Wed 03 Jan 2018 17:14:52 INFO views.py 28 11916 13332 开始接受请求
+Wed 03 Jan 2018 17:14:52 INFO views.py 28 11916 13332 开始接受请求
+Wed 03 Jan 2018 17:14:52 INFO views.py 28 11916 13332 开始接受请求
+Wed 03 Jan 2018 17:14:52 INFO views.py 28 11916 13332 开始接受请求
+Wed 03 Jan 2018 17:14:52 INFO views.py 28 11916 13332 开始接受请求
+Wed 03 Jan 2018 17:14:57 INFO views.py 28 14500 13332 开始接受请求
+Wed 03 Jan 2018 17:14:57 INFO views.py 28 14500 13332 开始接受请求
+Wed 03 Jan 2018 17:14:57 INFO views.py 28 14500 13332 开始接受请求
+Wed 03 Jan 2018 17:14:57 INFO views.py 28 14500 13332 开始接受请求
+Wed 03 Jan 2018 17:14:57 INFO views.py 28 14500 13332 开始接受请求
+Wed 03 Jan 2018 17:14:57 INFO views.py 28 14500 13332 开始接受请求
+Wed 03 Jan 2018 17:14:57 INFO views.py 28 14500 13332 开始接受请求
+Wed 03 Jan 2018 17:15:13 INFO views.py 28 7328 13332 开始接受请求
+Wed 03 Jan 2018 17:15:13 INFO views.py 28 7328 13332 开始接受请求
+Wed 03 Jan 2018 17:15:13 INFO views.py 28 7328 13332 开始接受请求
+Wed 03 Jan 2018 17:15:13 INFO views.py 28 7328 13332 开始接受请求
+Wed 03 Jan 2018 17:15:13 INFO views.py 28 7328 13332 开始接受请求
+Wed 03 Jan 2018 17:15:13 INFO views.py 28 7328 13332 开始接受请求
+Wed 03 Jan 2018 17:15:13 INFO views.py 28 7328 13332 开始接受请求
+Wed 03 Jan 2018 17:15:13 INFO views.py 28 7328 13332 开始接受请求
+Wed 03 Jan 2018 17:16:48 INFO views.py 28 14532 13332 开始接受请求
+Wed 03 Jan 2018 17:16:48 INFO views.py 28 14532 13332 开始接受请求
+Wed 03 Jan 2018 17:16:48 INFO views.py 28 14532 13332 开始接受请求
+Wed 03 Jan 2018 17:16:48 INFO views.py 28 14532 13332 开始接受请求
+Wed 03 Jan 2018 17:16:48 INFO views.py 28 14532 13332 开始接受请求
+Wed 03 Jan 2018 17:16:48 INFO views.py 28 14532 13332 开始接受请求
+Wed 03 Jan 2018 17:16:48 INFO views.py 28 14532 13332 开始接受请求
+Wed 03 Jan 2018 17:16:48 INFO views.py 28 14532 13332 开始接受请求
+Wed 03 Jan 2018 17:16:48 INFO views.py 28 14532 13332 开始接受请求
+Wed 03 Jan 2018 17:16:48 INFO views.py 31 14532 13332 接受请求成功
+Wed 03 Jan 2018 17:16:48 INFO views.py 31 14532 13332 接受请求成功
+Wed 03 Jan 2018 17:16:48 INFO views.py 31 14532 13332 接受请求成功
+Wed 03 Jan 2018 17:16:48 INFO views.py 31 14532 13332 接受请求成功
+Wed 03 Jan 2018 17:16:48 INFO views.py 31 14532 13332 接受请求成功
+Wed 03 Jan 2018 17:16:48 INFO views.py 31 14532 13332 接受请求成功
+Wed 03 Jan 2018 17:16:48 INFO views.py 31 14532 13332 接受请求成功
+Wed 03 Jan 2018 17:16:48 INFO views.py 31 14532 13332 接受请求成功
+Wed 03 Jan 2018 17:16:48 INFO views.py 31 14532 13332 接受请求成功
+Wed 03 Jan 2018 17:16:48 INFO views.py 32 14532 13332 {'CustomerName': ['深圳市金朔文化用品有限公司'], 'BatchMonth': ['0'], 'CustomerID': ['375'], 'Type': ['CUSTOMERINFO'], 'jobname': ['刷新深圳市金朔文化用品有限公司完善公司信息'], 'CompanyID': ['18282900'], 'BatchYear': ['0'], 'BatchID': ['0116f9940108d552cdc36c6a82'], 'jobparams': ['{"BatchID":"0116f9940108d552cdc36c6a82","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":375,"Type":"CUSTOMERINFO","TaxId":null,"TaxPwd":null,"JobName":"刷新深圳市金朔文化用品有限公司完善公司信息","JobParams":null,"CustomerName":"深圳市金朔文化用品有限公司","SocialID":"91440300063863866C"}'], 'SocialID': ['91440300063863866C']}
+Wed 03 Jan 2018 17:16:48 INFO views.py 32 14532 13332 {'CustomerName': ['深圳市金朔文化用品有限公司'], 'BatchMonth': ['0'], 'CustomerID': ['375'], 'Type': ['CUSTOMERINFO'], 'jobname': ['刷新深圳市金朔文化用品有限公司完善公司信息'], 'CompanyID': ['18282900'], 'BatchYear': ['0'], 'BatchID': ['0116f9940108d552cdc36c6a82'], 'jobparams': ['{"BatchID":"0116f9940108d552cdc36c6a82","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":375,"Type":"CUSTOMERINFO","TaxId":null,"TaxPwd":null,"JobName":"刷新深圳市金朔文化用品有限公司完善公司信息","JobParams":null,"CustomerName":"深圳市金朔文化用品有限公司","SocialID":"91440300063863866C"}'], 'SocialID': ['91440300063863866C']}
+Wed 03 Jan 2018 17:16:48 INFO views.py 32 14532 13332 {'CustomerName': ['深圳市金朔文化用品有限公司'], 'BatchMonth': ['0'], 'CustomerID': ['375'], 'Type': ['CUSTOMERINFO'], 'jobname': ['刷新深圳市金朔文化用品有限公司完善公司信息'], 'CompanyID': ['18282900'], 'BatchYear': ['0'], 'BatchID': ['0116f9940108d552cdc36c6a82'], 'jobparams': ['{"BatchID":"0116f9940108d552cdc36c6a82","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":375,"Type":"CUSTOMERINFO","TaxId":null,"TaxPwd":null,"JobName":"刷新深圳市金朔文化用品有限公司完善公司信息","JobParams":null,"CustomerName":"深圳市金朔文化用品有限公司","SocialID":"91440300063863866C"}'], 'SocialID': ['91440300063863866C']}
+Wed 03 Jan 2018 17:16:48 INFO views.py 32 14532 13332 {'CustomerName': ['深圳市金朔文化用品有限公司'], 'BatchMonth': ['0'], 'CustomerID': ['375'], 'Type': ['CUSTOMERINFO'], 'jobname': ['刷新深圳市金朔文化用品有限公司完善公司信息'], 'CompanyID': ['18282900'], 'BatchYear': ['0'], 'BatchID': ['0116f9940108d552cdc36c6a82'], 'jobparams': ['{"BatchID":"0116f9940108d552cdc36c6a82","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":375,"Type":"CUSTOMERINFO","TaxId":null,"TaxPwd":null,"JobName":"刷新深圳市金朔文化用品有限公司完善公司信息","JobParams":null,"CustomerName":"深圳市金朔文化用品有限公司","SocialID":"91440300063863866C"}'], 'SocialID': ['91440300063863866C']}
+Wed 03 Jan 2018 17:16:48 INFO views.py 32 14532 13332 {'CustomerName': ['深圳市金朔文化用品有限公司'], 'BatchMonth': ['0'], 'CustomerID': ['375'], 'Type': ['CUSTOMERINFO'], 'jobname': ['刷新深圳市金朔文化用品有限公司完善公司信息'], 'CompanyID': ['18282900'], 'BatchYear': ['0'], 'BatchID': ['0116f9940108d552cdc36c6a82'], 'jobparams': ['{"BatchID":"0116f9940108d552cdc36c6a82","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":375,"Type":"CUSTOMERINFO","TaxId":null,"TaxPwd":null,"JobName":"刷新深圳市金朔文化用品有限公司完善公司信息","JobParams":null,"CustomerName":"深圳市金朔文化用品有限公司","SocialID":"91440300063863866C"}'], 'SocialID': ['91440300063863866C']}
+Wed 03 Jan 2018 17:16:48 INFO views.py 32 14532 13332 {'CustomerName': ['深圳市金朔文化用品有限公司'], 'BatchMonth': ['0'], 'CustomerID': ['375'], 'Type': ['CUSTOMERINFO'], 'jobname': ['刷新深圳市金朔文化用品有限公司完善公司信息'], 'CompanyID': ['18282900'], 'BatchYear': ['0'], 'BatchID': ['0116f9940108d552cdc36c6a82'], 'jobparams': ['{"BatchID":"0116f9940108d552cdc36c6a82","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":375,"Type":"CUSTOMERINFO","TaxId":null,"TaxPwd":null,"JobName":"刷新深圳市金朔文化用品有限公司完善公司信息","JobParams":null,"CustomerName":"深圳市金朔文化用品有限公司","SocialID":"91440300063863866C"}'], 'SocialID': ['91440300063863866C']}
+Wed 03 Jan 2018 17:16:48 INFO views.py 32 14532 13332 {'CustomerName': ['深圳市金朔文化用品有限公司'], 'BatchMonth': ['0'], 'CustomerID': ['375'], 'Type': ['CUSTOMERINFO'], 'jobname': ['刷新深圳市金朔文化用品有限公司完善公司信息'], 'CompanyID': ['18282900'], 'BatchYear': ['0'], 'BatchID': ['0116f9940108d552cdc36c6a82'], 'jobparams': ['{"BatchID":"0116f9940108d552cdc36c6a82","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":375,"Type":"CUSTOMERINFO","TaxId":null,"TaxPwd":null,"JobName":"刷新深圳市金朔文化用品有限公司完善公司信息","JobParams":null,"CustomerName":"深圳市金朔文化用品有限公司","SocialID":"91440300063863866C"}'], 'SocialID': ['91440300063863866C']}
+Wed 03 Jan 2018 17:16:48 INFO views.py 32 14532 13332 {'CustomerName': ['深圳市金朔文化用品有限公司'], 'BatchMonth': ['0'], 'CustomerID': ['375'], 'Type': ['CUSTOMERINFO'], 'jobname': ['刷新深圳市金朔文化用品有限公司完善公司信息'], 'CompanyID': ['18282900'], 'BatchYear': ['0'], 'BatchID': ['0116f9940108d552cdc36c6a82'], 'jobparams': ['{"BatchID":"0116f9940108d552cdc36c6a82","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":375,"Type":"CUSTOMERINFO","TaxId":null,"TaxPwd":null,"JobName":"刷新深圳市金朔文化用品有限公司完善公司信息","JobParams":null,"CustomerName":"深圳市金朔文化用品有限公司","SocialID":"91440300063863866C"}'], 'SocialID': ['91440300063863866C']}
+Wed 03 Jan 2018 17:16:48 INFO views.py 32 14532 13332 {'CustomerName': ['深圳市金朔文化用品有限公司'], 'BatchMonth': ['0'], 'CustomerID': ['375'], 'Type': ['CUSTOMERINFO'], 'jobname': ['刷新深圳市金朔文化用品有限公司完善公司信息'], 'CompanyID': ['18282900'], 'BatchYear': ['0'], 'BatchID': ['0116f9940108d552cdc36c6a82'], 'jobparams': ['{"BatchID":"0116f9940108d552cdc36c6a82","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":375,"Type":"CUSTOMERINFO","TaxId":null,"TaxPwd":null,"JobName":"刷新深圳市金朔文化用品有限公司完善公司信息","JobParams":null,"CustomerName":"深圳市金朔文化用品有限公司","SocialID":"91440300063863866C"}'], 'SocialID': ['91440300063863866C']}
+Wed 03 Jan 2018 17:16:48 INFO views.py 84 14532 13332 添加任务到数据库
+Wed 03 Jan 2018 17:16:48 INFO views.py 84 14532 13332 添加任务到数据库
+Wed 03 Jan 2018 17:16:48 INFO views.py 84 14532 13332 添加任务到数据库
+Wed 03 Jan 2018 17:16:48 INFO views.py 84 14532 13332 添加任务到数据库
+Wed 03 Jan 2018 17:16:48 INFO views.py 84 14532 13332 添加任务到数据库
+Wed 03 Jan 2018 17:16:48 INFO views.py 84 14532 13332 添加任务到数据库
+Wed 03 Jan 2018 17:16:48 INFO views.py 84 14532 13332 添加任务到数据库
+Wed 03 Jan 2018 17:16:48 INFO views.py 84 14532 13332 添加任务到数据库
+Wed 03 Jan 2018 17:16:48 INFO views.py 84 14532 13332 添加任务到数据库
+Wed 03 Jan 2018 17:16:48 INFO views.py 85 14532 13332 ACT18282900
+Wed 03 Jan 2018 17:16:48 INFO views.py 85 14532 13332 ACT18282900
+Wed 03 Jan 2018 17:16:48 INFO views.py 85 14532 13332 ACT18282900
+Wed 03 Jan 2018 17:16:48 INFO views.py 85 14532 13332 ACT18282900
+Wed 03 Jan 2018 17:16:48 INFO views.py 85 14532 13332 ACT18282900
+Wed 03 Jan 2018 17:16:48 INFO views.py 85 14532 13332 ACT18282900
+Wed 03 Jan 2018 17:16:48 INFO views.py 85 14532 13332 ACT18282900
+Wed 03 Jan 2018 17:16:48 INFO views.py 85 14532 13332 ACT18282900
+Wed 03 Jan 2018 17:16:48 INFO views.py 85 14532 13332 ACT18282900
+Wed 03 Jan 2018 17:16:48 INFO views.py 88 14532 13332 任务添加成功,开始爬取
+Wed 03 Jan 2018 17:16:48 INFO views.py 88 14532 13332 任务添加成功,开始爬取
+Wed 03 Jan 2018 17:16:48 INFO views.py 88 14532 13332 任务添加成功,开始爬取
+Wed 03 Jan 2018 17:16:48 INFO views.py 88 14532 13332 任务添加成功,开始爬取
+Wed 03 Jan 2018 17:16:48 INFO views.py 88 14532 13332 任务添加成功,开始爬取
+Wed 03 Jan 2018 17:16:48 INFO views.py 88 14532 13332 任务添加成功,开始爬取
+Wed 03 Jan 2018 17:16:48 INFO views.py 88 14532 13332 任务添加成功,开始爬取
+Wed 03 Jan 2018 17:16:48 INFO views.py 88 14532 13332 任务添加成功,开始爬取
+Wed 03 Jan 2018 17:16:48 INFO views.py 88 14532 13332 任务添加成功,开始爬取
+Wed 03 Jan 2018 17:22:29 INFO views.py 28 14928 13332 开始接受请求
+Wed 03 Jan 2018 17:22:29 INFO views.py 28 14928 13332 开始接受请求
+Wed 03 Jan 2018 17:22:29 INFO views.py 28 14928 13332 开始接受请求
+Wed 03 Jan 2018 17:22:29 INFO views.py 28 14928 13332 开始接受请求
+Wed 03 Jan 2018 17:22:29 INFO views.py 28 14928 13332 开始接受请求
+Wed 03 Jan 2018 17:22:29 INFO views.py 28 14928 13332 开始接受请求
+Wed 03 Jan 2018 17:22:29 INFO views.py 28 14928 13332 开始接受请求
+Wed 03 Jan 2018 17:22:29 INFO views.py 28 14928 13332 开始接受请求
+Wed 03 Jan 2018 17:22:29 INFO views.py 28 14928 13332 开始接受请求
+Wed 03 Jan 2018 17:22:29 INFO views.py 28 14928 13332 开始接受请求
+Wed 03 Jan 2018 17:22:29 INFO views.py 31 14928 13332 接受请求成功
+Wed 03 Jan 2018 17:22:29 INFO views.py 31 14928 13332 接受请求成功
+Wed 03 Jan 2018 17:22:29 INFO views.py 31 14928 13332 接受请求成功
+Wed 03 Jan 2018 17:22:29 INFO views.py 31 14928 13332 接受请求成功
+Wed 03 Jan 2018 17:22:29 INFO views.py 31 14928 13332 接受请求成功
+Wed 03 Jan 2018 17:22:29 INFO views.py 31 14928 13332 接受请求成功
+Wed 03 Jan 2018 17:22:29 INFO views.py 31 14928 13332 接受请求成功
+Wed 03 Jan 2018 17:22:29 INFO views.py 31 14928 13332 接受请求成功
+Wed 03 Jan 2018 17:22:29 INFO views.py 31 14928 13332 接受请求成功
+Wed 03 Jan 2018 17:22:29 INFO views.py 31 14928 13332 接受请求成功
+Wed 03 Jan 2018 17:22:29 INFO views.py 32 14928 13332 {'CustomerName': ['深圳市新丽资汽车养护有限公司'], 'BatchMonth': ['0'], 'CustomerID': ['377'], 'Type': ['CUSTOMERINFO'], 'jobname': ['刷新深圳市新丽资汽车养护有限公司完善公司信息'], 'CompanyID': ['18282900'], 'BatchYear': ['0'], 'BatchID': ['0116f9940108d552ce8eb3e2b7'], 'jobparams': ['{"BatchID":"0116f9940108d552ce8eb3e2b7","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":377,"Type":"CUSTOMERINFO","TaxId":null,"TaxPwd":null,"JobName":"刷新深圳市新丽资汽车养护有限公司完善公司信息","JobParams":null,"CustomerName":"深圳市新丽资汽车养护有限公司","SocialID":"914403000818635285"}'], 'SocialID': ['914403000818635285']}
+Wed 03 Jan 2018 17:22:29 INFO views.py 32 14928 13332 {'CustomerName': ['深圳市新丽资汽车养护有限公司'], 'BatchMonth': ['0'], 'CustomerID': ['377'], 'Type': ['CUSTOMERINFO'], 'jobname': ['刷新深圳市新丽资汽车养护有限公司完善公司信息'], 'CompanyID': ['18282900'], 'BatchYear': ['0'], 'BatchID': ['0116f9940108d552ce8eb3e2b7'], 'jobparams': ['{"BatchID":"0116f9940108d552ce8eb3e2b7","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":377,"Type":"CUSTOMERINFO","TaxId":null,"TaxPwd":null,"JobName":"刷新深圳市新丽资汽车养护有限公司完善公司信息","JobParams":null,"CustomerName":"深圳市新丽资汽车养护有限公司","SocialID":"914403000818635285"}'], 'SocialID': ['914403000818635285']}
+Wed 03 Jan 2018 17:22:29 INFO views.py 32 14928 13332 {'CustomerName': ['深圳市新丽资汽车养护有限公司'], 'BatchMonth': ['0'], 'CustomerID': ['377'], 'Type': ['CUSTOMERINFO'], 'jobname': ['刷新深圳市新丽资汽车养护有限公司完善公司信息'], 'CompanyID': ['18282900'], 'BatchYear': ['0'], 'BatchID': ['0116f9940108d552ce8eb3e2b7'], 'jobparams': ['{"BatchID":"0116f9940108d552ce8eb3e2b7","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":377,"Type":"CUSTOMERINFO","TaxId":null,"TaxPwd":null,"JobName":"刷新深圳市新丽资汽车养护有限公司完善公司信息","JobParams":null,"CustomerName":"深圳市新丽资汽车养护有限公司","SocialID":"914403000818635285"}'], 'SocialID': ['914403000818635285']}
+Wed 03 Jan 2018 17:22:29 INFO views.py 32 14928 13332 {'CustomerName': ['深圳市新丽资汽车养护有限公司'], 'BatchMonth': ['0'], 'CustomerID': ['377'], 'Type': ['CUSTOMERINFO'], 'jobname': ['刷新深圳市新丽资汽车养护有限公司完善公司信息'], 'CompanyID': ['18282900'], 'BatchYear': ['0'], 'BatchID': ['0116f9940108d552ce8eb3e2b7'], 'jobparams': ['{"BatchID":"0116f9940108d552ce8eb3e2b7","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":377,"Type":"CUSTOMERINFO","TaxId":null,"TaxPwd":null,"JobName":"刷新深圳市新丽资汽车养护有限公司完善公司信息","JobParams":null,"CustomerName":"深圳市新丽资汽车养护有限公司","SocialID":"914403000818635285"}'], 'SocialID': ['914403000818635285']}
+Wed 03 Jan 2018 17:22:29 INFO views.py 32 14928 13332 {'CustomerName': ['深圳市新丽资汽车养护有限公司'], 'BatchMonth': ['0'], 'CustomerID': ['377'], 'Type': ['CUSTOMERINFO'], 'jobname': ['刷新深圳市新丽资汽车养护有限公司完善公司信息'], 'CompanyID': ['18282900'], 'BatchYear': ['0'], 'BatchID': ['0116f9940108d552ce8eb3e2b7'], 'jobparams': ['{"BatchID":"0116f9940108d552ce8eb3e2b7","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":377,"Type":"CUSTOMERINFO","TaxId":null,"TaxPwd":null,"JobName":"刷新深圳市新丽资汽车养护有限公司完善公司信息","JobParams":null,"CustomerName":"深圳市新丽资汽车养护有限公司","SocialID":"914403000818635285"}'], 'SocialID': ['914403000818635285']}
+Wed 03 Jan 2018 17:22:29 INFO views.py 32 14928 13332 {'CustomerName': ['深圳市新丽资汽车养护有限公司'], 'BatchMonth': ['0'], 'CustomerID': ['377'], 'Type': ['CUSTOMERINFO'], 'jobname': ['刷新深圳市新丽资汽车养护有限公司完善公司信息'], 'CompanyID': ['18282900'], 'BatchYear': ['0'], 'BatchID': ['0116f9940108d552ce8eb3e2b7'], 'jobparams': ['{"BatchID":"0116f9940108d552ce8eb3e2b7","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":377,"Type":"CUSTOMERINFO","TaxId":null,"TaxPwd":null,"JobName":"刷新深圳市新丽资汽车养护有限公司完善公司信息","JobParams":null,"CustomerName":"深圳市新丽资汽车养护有限公司","SocialID":"914403000818635285"}'], 'SocialID': ['914403000818635285']}
+Wed 03 Jan 2018 17:22:29 INFO views.py 32 14928 13332 {'CustomerName': ['深圳市新丽资汽车养护有限公司'], 'BatchMonth': ['0'], 'CustomerID': ['377'], 'Type': ['CUSTOMERINFO'], 'jobname': ['刷新深圳市新丽资汽车养护有限公司完善公司信息'], 'CompanyID': ['18282900'], 'BatchYear': ['0'], 'BatchID': ['0116f9940108d552ce8eb3e2b7'], 'jobparams': ['{"BatchID":"0116f9940108d552ce8eb3e2b7","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":377,"Type":"CUSTOMERINFO","TaxId":null,"TaxPwd":null,"JobName":"刷新深圳市新丽资汽车养护有限公司完善公司信息","JobParams":null,"CustomerName":"深圳市新丽资汽车养护有限公司","SocialID":"914403000818635285"}'], 'SocialID': ['914403000818635285']}
+Wed 03 Jan 2018 17:22:29 INFO views.py 32 14928 13332 {'CustomerName': ['深圳市新丽资汽车养护有限公司'], 'BatchMonth': ['0'], 'CustomerID': ['377'], 'Type': ['CUSTOMERINFO'], 'jobname': ['刷新深圳市新丽资汽车养护有限公司完善公司信息'], 'CompanyID': ['18282900'], 'BatchYear': ['0'], 'BatchID': ['0116f9940108d552ce8eb3e2b7'], 'jobparams': ['{"BatchID":"0116f9940108d552ce8eb3e2b7","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":377,"Type":"CUSTOMERINFO","TaxId":null,"TaxPwd":null,"JobName":"刷新深圳市新丽资汽车养护有限公司完善公司信息","JobParams":null,"CustomerName":"深圳市新丽资汽车养护有限公司","SocialID":"914403000818635285"}'], 'SocialID': ['914403000818635285']}
+Wed 03 Jan 2018 17:22:29 INFO views.py 32 14928 13332 {'CustomerName': ['深圳市新丽资汽车养护有限公司'], 'BatchMonth': ['0'], 'CustomerID': ['377'], 'Type': ['CUSTOMERINFO'], 'jobname': ['刷新深圳市新丽资汽车养护有限公司完善公司信息'], 'CompanyID': ['18282900'], 'BatchYear': ['0'], 'BatchID': ['0116f9940108d552ce8eb3e2b7'], 'jobparams': ['{"BatchID":"0116f9940108d552ce8eb3e2b7","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":377,"Type":"CUSTOMERINFO","TaxId":null,"TaxPwd":null,"JobName":"刷新深圳市新丽资汽车养护有限公司完善公司信息","JobParams":null,"CustomerName":"深圳市新丽资汽车养护有限公司","SocialID":"914403000818635285"}'], 'SocialID': ['914403000818635285']}
+Wed 03 Jan 2018 17:22:29 INFO views.py 32 14928 13332 {'CustomerName': ['深圳市新丽资汽车养护有限公司'], 'BatchMonth': ['0'], 'CustomerID': ['377'], 'Type': ['CUSTOMERINFO'], 'jobname': ['刷新深圳市新丽资汽车养护有限公司完善公司信息'], 'CompanyID': ['18282900'], 'BatchYear': ['0'], 'BatchID': ['0116f9940108d552ce8eb3e2b7'], 'jobparams': ['{"BatchID":"0116f9940108d552ce8eb3e2b7","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":377,"Type":"CUSTOMERINFO","TaxId":null,"TaxPwd":null,"JobName":"刷新深圳市新丽资汽车养护有限公司完善公司信息","JobParams":null,"CustomerName":"深圳市新丽资汽车养护有限公司","SocialID":"914403000818635285"}'], 'SocialID': ['914403000818635285']}
+Wed 03 Jan 2018 17:22:29 INFO views.py 84 14928 13332 添加任务到数据库
+Wed 03 Jan 2018 17:22:29 INFO views.py 84 14928 13332 添加任务到数据库
+Wed 03 Jan 2018 17:22:29 INFO views.py 84 14928 13332 添加任务到数据库
+Wed 03 Jan 2018 17:22:29 INFO views.py 84 14928 13332 添加任务到数据库
+Wed 03 Jan 2018 17:22:29 INFO views.py 84 14928 13332 添加任务到数据库
+Wed 03 Jan 2018 17:22:29 INFO views.py 84 14928 13332 添加任务到数据库
+Wed 03 Jan 2018 17:22:29 INFO views.py 84 14928 13332 添加任务到数据库
+Wed 03 Jan 2018 17:22:29 INFO views.py 84 14928 13332 添加任务到数据库
+Wed 03 Jan 2018 17:22:29 INFO views.py 84 14928 13332 添加任务到数据库
+Wed 03 Jan 2018 17:22:29 INFO views.py 84 14928 13332 添加任务到数据库
+Wed 03 Jan 2018 17:22:29 INFO views.py 85 14928 13332 ACT18282900
+Wed 03 Jan 2018 17:22:29 INFO views.py 85 14928 13332 ACT18282900
+Wed 03 Jan 2018 17:22:29 INFO views.py 85 14928 13332 ACT18282900
+Wed 03 Jan 2018 17:22:29 INFO views.py 85 14928 13332 ACT18282900
+Wed 03 Jan 2018 17:22:29 INFO views.py 85 14928 13332 ACT18282900
+Wed 03 Jan 2018 17:22:29 INFO views.py 85 14928 13332 ACT18282900
+Wed 03 Jan 2018 17:22:29 INFO views.py 85 14928 13332 ACT18282900
+Wed 03 Jan 2018 17:22:29 INFO views.py 85 14928 13332 ACT18282900
+Wed 03 Jan 2018 17:22:29 INFO views.py 85 14928 13332 ACT18282900
+Wed 03 Jan 2018 17:22:29 INFO views.py 85 14928 13332 ACT18282900
+Wed 03 Jan 2018 17:22:29 INFO views.py 88 14928 13332 任务添加成功,开始爬取
+Wed 03 Jan 2018 17:22:29 INFO views.py 88 14928 13332 任务添加成功,开始爬取
+Wed 03 Jan 2018 17:22:29 INFO views.py 88 14928 13332 任务添加成功,开始爬取
+Wed 03 Jan 2018 17:22:29 INFO views.py 88 14928 13332 任务添加成功,开始爬取
+Wed 03 Jan 2018 17:22:29 INFO views.py 88 14928 13332 任务添加成功,开始爬取
+Wed 03 Jan 2018 17:22:29 INFO views.py 88 14928 13332 任务添加成功,开始爬取
+Wed 03 Jan 2018 17:22:29 INFO views.py 88 14928 13332 任务添加成功,开始爬取
+Wed 03 Jan 2018 17:22:29 INFO views.py 88 14928 13332 任务添加成功,开始爬取
+Wed 03 Jan 2018 17:22:29 INFO views.py 88 14928 13332 任务添加成功,开始爬取
+Wed 03 Jan 2018 17:22:29 INFO views.py 88 14928 13332 任务添加成功,开始爬取
+Wed 03 Jan 2018 17:27:24 INFO views.py 28 976 13332 开始接受请求
+Wed 03 Jan 2018 17:27:24 INFO views.py 28 976 13332 开始接受请求
+Wed 03 Jan 2018 17:27:24 INFO views.py 28 976 13332 开始接受请求
+Wed 03 Jan 2018 17:27:24 INFO views.py 28 976 13332 开始接受请求
+Wed 03 Jan 2018 17:27:24 INFO views.py 28 976 13332 开始接受请求
+Wed 03 Jan 2018 17:27:24 INFO views.py 28 15148 13332 开始接受请求
+Wed 03 Jan 2018 17:27:24 INFO views.py 28 15148 13332 开始接受请求
+Wed 03 Jan 2018 17:27:24 INFO views.py 28 15148 13332 开始接受请求
+Wed 03 Jan 2018 17:27:24 INFO views.py 28 15148 13332 开始接受请求
+Wed 03 Jan 2018 17:27:24 INFO views.py 28 976 13332 开始接受请求
+Wed 03 Jan 2018 17:27:24 INFO views.py 28 976 13332 开始接受请求
+Wed 03 Jan 2018 17:27:24 INFO views.py 28 976 13332 开始接受请求
+Wed 03 Jan 2018 17:27:24 INFO views.py 28 976 13332 开始接受请求
+Wed 03 Jan 2018 17:27:24 INFO views.py 28 15148 13332 开始接受请求
+Wed 03 Jan 2018 17:27:24 INFO views.py 28 976 13332 开始接受请求
+Wed 03 Jan 2018 17:27:24 INFO views.py 28 15148 13332 开始接受请求
+Wed 03 Jan 2018 17:27:24 INFO views.py 28 976 13332 开始接受请求
+Wed 03 Jan 2018 17:27:24 INFO views.py 28 976 13332 开始接受请求
+Wed 03 Jan 2018 17:27:24 INFO views.py 28 15148 13332 开始接受请求
+Wed 03 Jan 2018 17:27:24 INFO views.py 28 15148 13332 开始接受请求
+Wed 03 Jan 2018 17:27:24 INFO views.py 28 15148 13332 开始接受请求
+Wed 03 Jan 2018 17:27:24 INFO views.py 28 15148 13332 开始接受请求
+Wed 03 Jan 2018 17:27:24 INFO views.py 28 15148 13332 开始接受请求
+Wed 03 Jan 2018 17:27:24 INFO views.py 28 15148 13332 开始接受请求
+Wed 03 Jan 2018 17:27:25 INFO views.py 28 14420 13332 开始接受请求
+Wed 03 Jan 2018 17:27:25 INFO views.py 28 14420 13332 开始接受请求
+Wed 03 Jan 2018 17:27:25 INFO views.py 28 14420 13332 开始接受请求
+Wed 03 Jan 2018 17:27:25 INFO views.py 28 14420 13332 开始接受请求
+Wed 03 Jan 2018 17:27:25 INFO views.py 28 14420 13332 开始接受请求
+Wed 03 Jan 2018 17:27:25 INFO views.py 28 14420 13332 开始接受请求
+Wed 03 Jan 2018 17:27:25 INFO views.py 28 14420 13332 开始接受请求
+Wed 03 Jan 2018 17:27:25 INFO views.py 28 14420 13332 开始接受请求
+Wed 03 Jan 2018 17:27:25 INFO views.py 28 14420 13332 开始接受请求
+Wed 03 Jan 2018 17:27:25 INFO views.py 28 14420 13332 开始接受请求
+Wed 03 Jan 2018 17:27:25 INFO views.py 28 14420 13332 开始接受请求
+Wed 03 Jan 2018 17:27:25 INFO views.py 28 14420 13332 开始接受请求
+Wed 03 Jan 2018 17:27:25 INFO views.py 28 14420 13332 开始接受请求
+Wed 03 Jan 2018 17:27:25 INFO views.py 31 14420 13332 接受请求成功
+Wed 03 Jan 2018 17:27:25 INFO views.py 31 14420 13332 接受请求成功
+Wed 03 Jan 2018 17:27:25 INFO views.py 31 14420 13332 接受请求成功
+Wed 03 Jan 2018 17:27:25 INFO views.py 31 14420 13332 接受请求成功
+Wed 03 Jan 2018 17:27:25 INFO views.py 31 14420 13332 接受请求成功
+Wed 03 Jan 2018 17:27:25 INFO views.py 31 14420 13332 接受请求成功
+Wed 03 Jan 2018 17:27:25 INFO views.py 31 14420 13332 接受请求成功
+Wed 03 Jan 2018 17:27:25 INFO views.py 31 14420 13332 接受请求成功
+Wed 03 Jan 2018 17:27:25 INFO views.py 31 14420 13332 接受请求成功
+Wed 03 Jan 2018 17:27:25 INFO views.py 31 14420 13332 接受请求成功
+Wed 03 Jan 2018 17:27:25 INFO views.py 31 14420 13332 接受请求成功
+Wed 03 Jan 2018 17:27:25 INFO views.py 31 14420 13332 接受请求成功
+Wed 03 Jan 2018 17:27:25 INFO views.py 31 14420 13332 接受请求成功
+Wed 03 Jan 2018 17:27:25 INFO views.py 32 14420 13332 {'CustomerName': ['深圳市合为信电子科技有限公司'], 'BatchMonth': ['0'], 'CustomerID': ['379'], 'Type': ['CUSTOMERINFO'], 'jobname': ['刷新深圳市合为信电子科技有限公司完善公司信息'], 'CompanyID': ['18282900'], 'BatchYear': ['0'], 'BatchID': ['0116f9940108d552cf41a556a1'], 'jobparams': ['{"BatchID":"0116f9940108d552cf41a556a1","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":379,"Type":"CUSTOMERINFO","TaxId":null,"TaxPwd":null,"JobName":"刷新深圳市合为信电子科技有限公司完善公司信息","JobParams":null,"CustomerName":"深圳市合为信电子科技有限公司","SocialID":"914403005967523686"}'], 'SocialID': ['914403005967523686']}
+Wed 03 Jan 2018 17:27:25 INFO views.py 32 14420 13332 {'CustomerName': ['深圳市合为信电子科技有限公司'], 'BatchMonth': ['0'], 'CustomerID': ['379'], 'Type': ['CUSTOMERINFO'], 'jobname': ['刷新深圳市合为信电子科技有限公司完善公司信息'], 'CompanyID': ['18282900'], 'BatchYear': ['0'], 'BatchID': ['0116f9940108d552cf41a556a1'], 'jobparams': ['{"BatchID":"0116f9940108d552cf41a556a1","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":379,"Type":"CUSTOMERINFO","TaxId":null,"TaxPwd":null,"JobName":"刷新深圳市合为信电子科技有限公司完善公司信息","JobParams":null,"CustomerName":"深圳市合为信电子科技有限公司","SocialID":"914403005967523686"}'], 'SocialID': ['914403005967523686']}
+Wed 03 Jan 2018 17:27:25 INFO views.py 32 14420 13332 {'CustomerName': ['深圳市合为信电子科技有限公司'], 'BatchMonth': ['0'], 'CustomerID': ['379'], 'Type': ['CUSTOMERINFO'], 'jobname': ['刷新深圳市合为信电子科技有限公司完善公司信息'], 'CompanyID': ['18282900'], 'BatchYear': ['0'], 'BatchID': ['0116f9940108d552cf41a556a1'], 'jobparams': ['{"BatchID":"0116f9940108d552cf41a556a1","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":379,"Type":"CUSTOMERINFO","TaxId":null,"TaxPwd":null,"JobName":"刷新深圳市合为信电子科技有限公司完善公司信息","JobParams":null,"CustomerName":"深圳市合为信电子科技有限公司","SocialID":"914403005967523686"}'], 'SocialID': ['914403005967523686']}
+Wed 03 Jan 2018 17:27:25 INFO views.py 32 14420 13332 {'CustomerName': ['深圳市合为信电子科技有限公司'], 'BatchMonth': ['0'], 'CustomerID': ['379'], 'Type': ['CUSTOMERINFO'], 'jobname': ['刷新深圳市合为信电子科技有限公司完善公司信息'], 'CompanyID': ['18282900'], 'BatchYear': ['0'], 'BatchID': ['0116f9940108d552cf41a556a1'], 'jobparams': ['{"BatchID":"0116f9940108d552cf41a556a1","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":379,"Type":"CUSTOMERINFO","TaxId":null,"TaxPwd":null,"JobName":"刷新深圳市合为信电子科技有限公司完善公司信息","JobParams":null,"CustomerName":"深圳市合为信电子科技有限公司","SocialID":"914403005967523686"}'], 'SocialID': ['914403005967523686']}
+Wed 03 Jan 2018 17:27:25 INFO views.py 32 14420 13332 {'CustomerName': ['深圳市合为信电子科技有限公司'], 'BatchMonth': ['0'], 'CustomerID': ['379'], 'Type': ['CUSTOMERINFO'], 'jobname': ['刷新深圳市合为信电子科技有限公司完善公司信息'], 'CompanyID': ['18282900'], 'BatchYear': ['0'], 'BatchID': ['0116f9940108d552cf41a556a1'], 'jobparams': ['{"BatchID":"0116f9940108d552cf41a556a1","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":379,"Type":"CUSTOMERINFO","TaxId":null,"TaxPwd":null,"JobName":"刷新深圳市合为信电子科技有限公司完善公司信息","JobParams":null,"CustomerName":"深圳市合为信电子科技有限公司","SocialID":"914403005967523686"}'], 'SocialID': ['914403005967523686']}
+Wed 03 Jan 2018 17:27:25 INFO views.py 32 14420 13332 {'CustomerName': ['深圳市合为信电子科技有限公司'], 'BatchMonth': ['0'], 'CustomerID': ['379'], 'Type': ['CUSTOMERINFO'], 'jobname': ['刷新深圳市合为信电子科技有限公司完善公司信息'], 'CompanyID': ['18282900'], 'BatchYear': ['0'], 'BatchID': ['0116f9940108d552cf41a556a1'], 'jobparams': ['{"BatchID":"0116f9940108d552cf41a556a1","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":379,"Type":"CUSTOMERINFO","TaxId":null,"TaxPwd":null,"JobName":"刷新深圳市合为信电子科技有限公司完善公司信息","JobParams":null,"CustomerName":"深圳市合为信电子科技有限公司","SocialID":"914403005967523686"}'], 'SocialID': ['914403005967523686']}
+Wed 03 Jan 2018 17:27:25 INFO views.py 32 14420 13332 {'CustomerName': ['深圳市合为信电子科技有限公司'], 'BatchMonth': ['0'], 'CustomerID': ['379'], 'Type': ['CUSTOMERINFO'], 'jobname': ['刷新深圳市合为信电子科技有限公司完善公司信息'], 'CompanyID': ['18282900'], 'BatchYear': ['0'], 'BatchID': ['0116f9940108d552cf41a556a1'], 'jobparams': ['{"BatchID":"0116f9940108d552cf41a556a1","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":379,"Type":"CUSTOMERINFO","TaxId":null,"TaxPwd":null,"JobName":"刷新深圳市合为信电子科技有限公司完善公司信息","JobParams":null,"CustomerName":"深圳市合为信电子科技有限公司","SocialID":"914403005967523686"}'], 'SocialID': ['914403005967523686']}
+Wed 03 Jan 2018 17:27:25 INFO views.py 32 14420 13332 {'CustomerName': ['深圳市合为信电子科技有限公司'], 'BatchMonth': ['0'], 'CustomerID': ['379'], 'Type': ['CUSTOMERINFO'], 'jobname': ['刷新深圳市合为信电子科技有限公司完善公司信息'], 'CompanyID': ['18282900'], 'BatchYear': ['0'], 'BatchID': ['0116f9940108d552cf41a556a1'], 'jobparams': ['{"BatchID":"0116f9940108d552cf41a556a1","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":379,"Type":"CUSTOMERINFO","TaxId":null,"TaxPwd":null,"JobName":"刷新深圳市合为信电子科技有限公司完善公司信息","JobParams":null,"CustomerName":"深圳市合为信电子科技有限公司","SocialID":"914403005967523686"}'], 'SocialID': ['914403005967523686']}
+Wed 03 Jan 2018 17:27:25 INFO views.py 32 14420 13332 {'CustomerName': ['深圳市合为信电子科技有限公司'], 'BatchMonth': ['0'], 'CustomerID': ['379'], 'Type': ['CUSTOMERINFO'], 'jobname': ['刷新深圳市合为信电子科技有限公司完善公司信息'], 'CompanyID': ['18282900'], 'BatchYear': ['0'], 'BatchID': ['0116f9940108d552cf41a556a1'], 'jobparams': ['{"BatchID":"0116f9940108d552cf41a556a1","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":379,"Type":"CUSTOMERINFO","TaxId":null,"TaxPwd":null,"JobName":"刷新深圳市合为信电子科技有限公司完善公司信息","JobParams":null,"CustomerName":"深圳市合为信电子科技有限公司","SocialID":"914403005967523686"}'], 'SocialID': ['914403005967523686']}
+Wed 03 Jan 2018 17:27:25 INFO views.py 32 14420 13332 {'CustomerName': ['深圳市合为信电子科技有限公司'], 'BatchMonth': ['0'], 'CustomerID': ['379'], 'Type': ['CUSTOMERINFO'], 'jobname': ['刷新深圳市合为信电子科技有限公司完善公司信息'], 'CompanyID': ['18282900'], 'BatchYear': ['0'], 'BatchID': ['0116f9940108d552cf41a556a1'], 'jobparams': ['{"BatchID":"0116f9940108d552cf41a556a1","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":379,"Type":"CUSTOMERINFO","TaxId":null,"TaxPwd":null,"JobName":"刷新深圳市合为信电子科技有限公司完善公司信息","JobParams":null,"CustomerName":"深圳市合为信电子科技有限公司","SocialID":"914403005967523686"}'], 'SocialID': ['914403005967523686']}
+Wed 03 Jan 2018 17:27:25 INFO views.py 32 14420 13332 {'CustomerName': ['深圳市合为信电子科技有限公司'], 'BatchMonth': ['0'], 'CustomerID': ['379'], 'Type': ['CUSTOMERINFO'], 'jobname': ['刷新深圳市合为信电子科技有限公司完善公司信息'], 'CompanyID': ['18282900'], 'BatchYear': ['0'], 'BatchID': ['0116f9940108d552cf41a556a1'], 'jobparams': ['{"BatchID":"0116f9940108d552cf41a556a1","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":379,"Type":"CUSTOMERINFO","TaxId":null,"TaxPwd":null,"JobName":"刷新深圳市合为信电子科技有限公司完善公司信息","JobParams":null,"CustomerName":"深圳市合为信电子科技有限公司","SocialID":"914403005967523686"}'], 'SocialID': ['914403005967523686']}
+Wed 03 Jan 2018 17:27:25 INFO views.py 32 14420 13332 {'CustomerName': ['深圳市合为信电子科技有限公司'], 'BatchMonth': ['0'], 'CustomerID': ['379'], 'Type': ['CUSTOMERINFO'], 'jobname': ['刷新深圳市合为信电子科技有限公司完善公司信息'], 'CompanyID': ['18282900'], 'BatchYear': ['0'], 'BatchID': ['0116f9940108d552cf41a556a1'], 'jobparams': ['{"BatchID":"0116f9940108d552cf41a556a1","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":379,"Type":"CUSTOMERINFO","TaxId":null,"TaxPwd":null,"JobName":"刷新深圳市合为信电子科技有限公司完善公司信息","JobParams":null,"CustomerName":"深圳市合为信电子科技有限公司","SocialID":"914403005967523686"}'], 'SocialID': ['914403005967523686']}
+Wed 03 Jan 2018 17:27:25 INFO views.py 32 14420 13332 {'CustomerName': ['深圳市合为信电子科技有限公司'], 'BatchMonth': ['0'], 'CustomerID': ['379'], 'Type': ['CUSTOMERINFO'], 'jobname': ['刷新深圳市合为信电子科技有限公司完善公司信息'], 'CompanyID': ['18282900'], 'BatchYear': ['0'], 'BatchID': ['0116f9940108d552cf41a556a1'], 'jobparams': ['{"BatchID":"0116f9940108d552cf41a556a1","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":379,"Type":"CUSTOMERINFO","TaxId":null,"TaxPwd":null,"JobName":"刷新深圳市合为信电子科技有限公司完善公司信息","JobParams":null,"CustomerName":"深圳市合为信电子科技有限公司","SocialID":"914403005967523686"}'], 'SocialID': ['914403005967523686']}
+Wed 03 Jan 2018 17:27:25 INFO views.py 84 14420 13332 添加任务到数据库
+Wed 03 Jan 2018 17:27:25 INFO views.py 84 14420 13332 添加任务到数据库
+Wed 03 Jan 2018 17:27:25 INFO views.py 84 14420 13332 添加任务到数据库
+Wed 03 Jan 2018 17:27:25 INFO views.py 84 14420 13332 添加任务到数据库
+Wed 03 Jan 2018 17:27:25 INFO views.py 84 14420 13332 添加任务到数据库
+Wed 03 Jan 2018 17:27:25 INFO views.py 84 14420 13332 添加任务到数据库
+Wed 03 Jan 2018 17:27:25 INFO views.py 84 14420 13332 添加任务到数据库
+Wed 03 Jan 2018 17:27:25 INFO views.py 84 14420 13332 添加任务到数据库
+Wed 03 Jan 2018 17:27:25 INFO views.py 84 14420 13332 添加任务到数据库
+Wed 03 Jan 2018 17:27:25 INFO views.py 84 14420 13332 添加任务到数据库
+Wed 03 Jan 2018 17:27:25 INFO views.py 84 14420 13332 添加任务到数据库
+Wed 03 Jan 2018 17:27:25 INFO views.py 84 14420 13332 添加任务到数据库
+Wed 03 Jan 2018 17:27:25 INFO views.py 84 14420 13332 添加任务到数据库
+Wed 03 Jan 2018 17:27:25 INFO views.py 85 14420 13332 ACT18282900
+Wed 03 Jan 2018 17:27:25 INFO views.py 85 14420 13332 ACT18282900
+Wed 03 Jan 2018 17:27:25 INFO views.py 85 14420 13332 ACT18282900
+Wed 03 Jan 2018 17:27:25 INFO views.py 85 14420 13332 ACT18282900
+Wed 03 Jan 2018 17:27:25 INFO views.py 85 14420 13332 ACT18282900
+Wed 03 Jan 2018 17:27:25 INFO views.py 85 14420 13332 ACT18282900
+Wed 03 Jan 2018 17:27:25 INFO views.py 85 14420 13332 ACT18282900
+Wed 03 Jan 2018 17:27:25 INFO views.py 85 14420 13332 ACT18282900
+Wed 03 Jan 2018 17:27:25 INFO views.py 85 14420 13332 ACT18282900
+Wed 03 Jan 2018 17:27:25 INFO views.py 85 14420 13332 ACT18282900
+Wed 03 Jan 2018 17:27:25 INFO views.py 85 14420 13332 ACT18282900
+Wed 03 Jan 2018 17:27:25 INFO views.py 85 14420 13332 ACT18282900
+Wed 03 Jan 2018 17:27:25 INFO views.py 85 14420 13332 ACT18282900
+Wed 03 Jan 2018 17:27:25 INFO views.py 88 14420 13332 任务添加成功,开始爬取
+Wed 03 Jan 2018 17:27:25 INFO views.py 88 14420 13332 任务添加成功,开始爬取
+Wed 03 Jan 2018 17:27:25 INFO views.py 88 14420 13332 任务添加成功,开始爬取
+Wed 03 Jan 2018 17:27:25 INFO views.py 88 14420 13332 任务添加成功,开始爬取
+Wed 03 Jan 2018 17:27:25 INFO views.py 88 14420 13332 任务添加成功,开始爬取
+Wed 03 Jan 2018 17:27:25 INFO views.py 88 14420 13332 任务添加成功,开始爬取
+Wed 03 Jan 2018 17:27:25 INFO views.py 88 14420 13332 任务添加成功,开始爬取
+Wed 03 Jan 2018 17:27:25 INFO views.py 88 14420 13332 任务添加成功,开始爬取
+Wed 03 Jan 2018 17:27:25 INFO views.py 88 14420 13332 任务添加成功,开始爬取
+Wed 03 Jan 2018 17:27:25 INFO views.py 88 14420 13332 任务添加成功,开始爬取
+Wed 03 Jan 2018 17:27:25 INFO views.py 88 14420 13332 任务添加成功,开始爬取
+Wed 03 Jan 2018 17:27:25 INFO views.py 88 14420 13332 任务添加成功,开始爬取
+Wed 03 Jan 2018 17:27:25 INFO views.py 88 14420 13332 任务添加成功,开始爬取
+Wed 03 Jan 2018 17:27:45 INFO views.py 28 13680 10236 开始接受请求
+Wed 03 Jan 2018 17:27:45 INFO views.py 31 13680 10236 接受请求成功
+Wed 03 Jan 2018 17:27:45 INFO views.py 32 13680 10236 {'Type': ['CUSTOMERINFO'], 'CompanyID': ['18282900'], 'CustomerName': ['深圳市金朔文化用品有限公司'], 'BatchMonth': ['0'], 'BatchID': ['0116f9940108d552cf4db1dd07'], 'CustomerID': ['375'], 'jobparams': ['{"BatchID":"0116f9940108d552cf4db1dd07","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":375,"Type":"CUSTOMERINFO","TaxId":null,"TaxPwd":null,"JobName":"刷新深圳市金朔文化用品有限公司完善公司信息","JobParams":null,"CustomerName":"深圳市金朔文化用品有限公司","SocialID":"91440300063863866C"}'], 'jobname': ['刷新深圳市金朔文化用品有限公司完善公司信息'], 'SocialID': ['91440300063863866C'], 'BatchYear': ['0']}
+Wed 03 Jan 2018 17:27:45 INFO views.py 84 13680 10236 添加任务到数据库
+Wed 03 Jan 2018 17:27:45 INFO views.py 85 13680 10236 ACT18282900
+Wed 03 Jan 2018 17:27:45 INFO views.py 88 13680 10236 任务添加成功,开始爬取
+Wed 03 Jan 2018 17:28:14 INFO views.py 28 11812 10236 开始接受请求
+Wed 03 Jan 2018 17:28:14 INFO views.py 28 11812 10236 开始接受请求
+Wed 03 Jan 2018 17:28:14 INFO views.py 31 11812 10236 接受请求成功
+Wed 03 Jan 2018 17:28:14 INFO views.py 31 11812 10236 接受请求成功
+Wed 03 Jan 2018 17:28:14 INFO views.py 32 11812 10236 {'Type': ['CUSTOMERINFO'], 'CompanyID': ['18282900'], 'CustomerName': ['深圳市金朔文化用品有限公司'], 'BatchMonth': ['0'], 'BatchID': ['0116f9940108d552cf5e98ebd3'], 'CustomerID': ['375'], 'jobparams': ['{"BatchID":"0116f9940108d552cf5e98ebd3","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":375,"Type":"CUSTOMERINFO","TaxId":null,"TaxPwd":null,"JobName":"刷新深圳市金朔文化用品有限公司完善公司信息","JobParams":null,"CustomerName":"深圳市金朔文化用品有限公司","SocialID":"91440300063863866C"}'], 'jobname': ['刷新深圳市金朔文化用品有限公司完善公司信息'], 'SocialID': ['91440300063863866C'], 'BatchYear': ['0']}
+Wed 03 Jan 2018 17:28:14 INFO views.py 32 11812 10236 {'Type': ['CUSTOMERINFO'], 'CompanyID': ['18282900'], 'CustomerName': ['深圳市金朔文化用品有限公司'], 'BatchMonth': ['0'], 'BatchID': ['0116f9940108d552cf5e98ebd3'], 'CustomerID': ['375'], 'jobparams': ['{"BatchID":"0116f9940108d552cf5e98ebd3","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":375,"Type":"CUSTOMERINFO","TaxId":null,"TaxPwd":null,"JobName":"刷新深圳市金朔文化用品有限公司完善公司信息","JobParams":null,"CustomerName":"深圳市金朔文化用品有限公司","SocialID":"91440300063863866C"}'], 'jobname': ['刷新深圳市金朔文化用品有限公司完善公司信息'], 'SocialID': ['91440300063863866C'], 'BatchYear': ['0']}
+Wed 03 Jan 2018 17:28:14 INFO views.py 84 11812 10236 添加任务到数据库
+Wed 03 Jan 2018 17:28:14 INFO views.py 84 11812 10236 添加任务到数据库
+Wed 03 Jan 2018 17:28:14 INFO views.py 85 11812 10236 ACT18282900
+Wed 03 Jan 2018 17:28:14 INFO views.py 85 11812 10236 ACT18282900
+Wed 03 Jan 2018 17:28:14 INFO views.py 88 11812 10236 任务添加成功,开始爬取
+Wed 03 Jan 2018 17:28:14 INFO views.py 88 11812 10236 任务添加成功,开始爬取
