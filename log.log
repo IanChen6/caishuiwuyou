@@ -2653,3 +2653,399 @@ Wed 03 Jan 2018 17:28:14 INFO views.py 85 11812 10236 ACT18282900
 Wed 03 Jan 2018 17:28:14 INFO views.py 85 11812 10236 ACT18282900
 Wed 03 Jan 2018 17:28:14 INFO views.py 88 11812 10236 任务添加成功,开始爬取
 Wed 03 Jan 2018 17:28:14 INFO views.py 88 11812 10236 任务添加成功,开始爬取
+Wed 03 Jan 2018 18:11:12 INFO views.py 28 15080 9024 开始接受请求
+Wed 03 Jan 2018 18:11:12 INFO views.py 31 15080 9024 接受请求成功
+Wed 03 Jan 2018 18:11:12 INFO views.py 32 15080 9024 {'Type': ['CUSTOMERINFO'], 'BatchID': ['45'], 'BatchYear': ['2017'], 'CompanyID': ['18282900'], 'jobparams': ['工作中'], 'BatchMonth': ['3'], 'SocialID': ['440301112440967'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'CustomerName': ['深圳市大百科饰品有限公司']}
+Wed 03 Jan 2018 18:11:12 INFO views.py 84 15080 9024 添加任务到数据库
+Wed 03 Jan 2018 18:11:12 INFO views.py 85 15080 9024 ACT18282900
+Wed 03 Jan 2018 18:11:12 INFO views.py 88 15080 9024 任务添加成功,开始爬取
+Wed 03 Jan 2018 18:12:37 INFO views.py 28 6160 9024 开始接受请求
+Wed 03 Jan 2018 18:12:37 INFO views.py 28 6160 9024 开始接受请求
+Wed 03 Jan 2018 18:12:37 INFO views.py 31 6160 9024 接受请求成功
+Wed 03 Jan 2018 18:12:37 INFO views.py 31 6160 9024 接受请求成功
+Wed 03 Jan 2018 18:12:37 INFO views.py 32 6160 9024 {'Type': ['CUSTOMERINFO'], 'BatchID': ['45'], 'BatchYear': ['2017'], 'CompanyID': ['18282900'], 'jobparams': ['工作中'], 'BatchMonth': ['3'], 'SocialID': ['440301112440967'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'CustomerName': ['深圳市大百科饰品有限公司']}
+Wed 03 Jan 2018 18:12:37 INFO views.py 32 6160 9024 {'Type': ['CUSTOMERINFO'], 'BatchID': ['45'], 'BatchYear': ['2017'], 'CompanyID': ['18282900'], 'jobparams': ['工作中'], 'BatchMonth': ['3'], 'SocialID': ['440301112440967'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'CustomerName': ['深圳市大百科饰品有限公司']}
+Wed 03 Jan 2018 18:12:37 INFO views.py 84 6160 9024 添加任务到数据库
+Wed 03 Jan 2018 18:12:37 INFO views.py 84 6160 9024 添加任务到数据库
+Wed 03 Jan 2018 18:12:37 INFO views.py 85 6160 9024 ACT18282900
+Wed 03 Jan 2018 18:12:37 INFO views.py 85 6160 9024 ACT18282900
+Wed 03 Jan 2018 18:12:37 INFO views.py 88 6160 9024 任务添加成功,开始爬取
+Wed 03 Jan 2018 18:12:37 INFO views.py 88 6160 9024 任务添加成功,开始爬取
+Wed 03 Jan 2018 18:13:22 INFO views.py 28 6768 9024 开始接受请求
+Wed 03 Jan 2018 18:13:22 INFO views.py 28 6768 9024 开始接受请求
+Wed 03 Jan 2018 18:13:22 INFO views.py 28 6768 9024 开始接受请求
+Wed 03 Jan 2018 18:13:22 INFO views.py 31 6768 9024 接受请求成功
+Wed 03 Jan 2018 18:13:22 INFO views.py 31 6768 9024 接受请求成功
+Wed 03 Jan 2018 18:13:22 INFO views.py 31 6768 9024 接受请求成功
+Wed 03 Jan 2018 18:13:22 INFO views.py 32 6768 9024 {'Type': ['CUSTOMERINFO'], 'BatchID': ['45'], 'BatchYear': ['2017'], 'CompanyID': ['18282900'], 'jobparams': ['工作中'], 'BatchMonth': ['3'], 'SocialID': ['440301112440967'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'CustomerName': ['深圳市大百科饰品有限公司']}
+Wed 03 Jan 2018 18:13:22 INFO views.py 32 6768 9024 {'Type': ['CUSTOMERINFO'], 'BatchID': ['45'], 'BatchYear': ['2017'], 'CompanyID': ['18282900'], 'jobparams': ['工作中'], 'BatchMonth': ['3'], 'SocialID': ['440301112440967'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'CustomerName': ['深圳市大百科饰品有限公司']}
+Wed 03 Jan 2018 18:13:22 INFO views.py 32 6768 9024 {'Type': ['CUSTOMERINFO'], 'BatchID': ['45'], 'BatchYear': ['2017'], 'CompanyID': ['18282900'], 'jobparams': ['工作中'], 'BatchMonth': ['3'], 'SocialID': ['440301112440967'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'CustomerName': ['深圳市大百科饰品有限公司']}
+Wed 03 Jan 2018 18:13:22 INFO views.py 84 6768 9024 添加任务到数据库
+Wed 03 Jan 2018 18:13:22 INFO views.py 84 6768 9024 添加任务到数据库
+Wed 03 Jan 2018 18:13:22 INFO views.py 84 6768 9024 添加任务到数据库
+Wed 03 Jan 2018 18:13:22 INFO views.py 85 6768 9024 ACT18282900
+Wed 03 Jan 2018 18:13:22 INFO views.py 85 6768 9024 ACT18282900
+Wed 03 Jan 2018 18:13:22 INFO views.py 85 6768 9024 ACT18282900
+Wed 03 Jan 2018 18:13:22 INFO views.py 88 6768 9024 任务添加成功,开始爬取
+Wed 03 Jan 2018 18:13:22 INFO views.py 88 6768 9024 任务添加成功,开始爬取
+Wed 03 Jan 2018 18:13:22 INFO views.py 88 6768 9024 任务添加成功,开始爬取
+Wed 03 Jan 2018 18:15:22 INFO views.py 28 1884 9024 开始接受请求
+Wed 03 Jan 2018 18:15:22 INFO views.py 28 1884 9024 开始接受请求
+Wed 03 Jan 2018 18:15:22 INFO views.py 28 1884 9024 开始接受请求
+Wed 03 Jan 2018 18:15:22 INFO views.py 28 1884 9024 开始接受请求
+Wed 03 Jan 2018 18:15:22 INFO views.py 31 1884 9024 接受请求成功
+Wed 03 Jan 2018 18:15:22 INFO views.py 31 1884 9024 接受请求成功
+Wed 03 Jan 2018 18:15:22 INFO views.py 31 1884 9024 接受请求成功
+Wed 03 Jan 2018 18:15:22 INFO views.py 31 1884 9024 接受请求成功
+Wed 03 Jan 2018 18:15:22 INFO views.py 32 1884 9024 {'Type': ['CUSTOMERINFO'], 'BatchID': ['45'], 'BatchYear': ['2017'], 'CompanyID': ['18282900'], 'jobparams': ['工作中'], 'BatchMonth': ['3'], 'SocialID': ['440301112440967'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'CustomerName': ['深圳市大百科饰品有限公司']}
+Wed 03 Jan 2018 18:15:22 INFO views.py 32 1884 9024 {'Type': ['CUSTOMERINFO'], 'BatchID': ['45'], 'BatchYear': ['2017'], 'CompanyID': ['18282900'], 'jobparams': ['工作中'], 'BatchMonth': ['3'], 'SocialID': ['440301112440967'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'CustomerName': ['深圳市大百科饰品有限公司']}
+Wed 03 Jan 2018 18:15:22 INFO views.py 32 1884 9024 {'Type': ['CUSTOMERINFO'], 'BatchID': ['45'], 'BatchYear': ['2017'], 'CompanyID': ['18282900'], 'jobparams': ['工作中'], 'BatchMonth': ['3'], 'SocialID': ['440301112440967'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'CustomerName': ['深圳市大百科饰品有限公司']}
+Wed 03 Jan 2018 18:15:22 INFO views.py 32 1884 9024 {'Type': ['CUSTOMERINFO'], 'BatchID': ['45'], 'BatchYear': ['2017'], 'CompanyID': ['18282900'], 'jobparams': ['工作中'], 'BatchMonth': ['3'], 'SocialID': ['440301112440967'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'CustomerName': ['深圳市大百科饰品有限公司']}
+Wed 03 Jan 2018 18:15:22 INFO views.py 84 1884 9024 添加任务到数据库
+Wed 03 Jan 2018 18:15:22 INFO views.py 84 1884 9024 添加任务到数据库
+Wed 03 Jan 2018 18:15:22 INFO views.py 84 1884 9024 添加任务到数据库
+Wed 03 Jan 2018 18:15:22 INFO views.py 84 1884 9024 添加任务到数据库
+Wed 03 Jan 2018 18:15:22 INFO views.py 85 1884 9024 ACT18282900
+Wed 03 Jan 2018 18:15:22 INFO views.py 85 1884 9024 ACT18282900
+Wed 03 Jan 2018 18:15:22 INFO views.py 85 1884 9024 ACT18282900
+Wed 03 Jan 2018 18:15:22 INFO views.py 85 1884 9024 ACT18282900
+Wed 03 Jan 2018 18:15:22 INFO views.py 88 1884 9024 任务添加成功,开始爬取
+Wed 03 Jan 2018 18:15:22 INFO views.py 88 1884 9024 任务添加成功,开始爬取
+Wed 03 Jan 2018 18:15:22 INFO views.py 88 1884 9024 任务添加成功,开始爬取
+Wed 03 Jan 2018 18:15:22 INFO views.py 88 1884 9024 任务添加成功,开始爬取
+Wed 03 Jan 2018 18:16:04 INFO views.py 28 204 9024 开始接受请求
+Wed 03 Jan 2018 18:16:04 INFO views.py 28 204 9024 开始接受请求
+Wed 03 Jan 2018 18:16:04 INFO views.py 28 204 9024 开始接受请求
+Wed 03 Jan 2018 18:16:04 INFO views.py 28 204 9024 开始接受请求
+Wed 03 Jan 2018 18:16:04 INFO views.py 28 204 9024 开始接受请求
+Wed 03 Jan 2018 18:16:04 INFO views.py 31 204 9024 接受请求成功
+Wed 03 Jan 2018 18:16:04 INFO views.py 31 204 9024 接受请求成功
+Wed 03 Jan 2018 18:16:04 INFO views.py 31 204 9024 接受请求成功
+Wed 03 Jan 2018 18:16:04 INFO views.py 31 204 9024 接受请求成功
+Wed 03 Jan 2018 18:16:04 INFO views.py 31 204 9024 接受请求成功
+Wed 03 Jan 2018 18:16:04 INFO views.py 32 204 9024 {'Type': ['CUSTOMERINFO'], 'BatchID': ['45'], 'BatchYear': ['2017'], 'CompanyID': ['18282900'], 'jobparams': ['工作中'], 'BatchMonth': ['3'], 'SocialID': ['440301112440967'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'CustomerName': ['深圳市大百科饰品有限公司']}
+Wed 03 Jan 2018 18:16:04 INFO views.py 32 204 9024 {'Type': ['CUSTOMERINFO'], 'BatchID': ['45'], 'BatchYear': ['2017'], 'CompanyID': ['18282900'], 'jobparams': ['工作中'], 'BatchMonth': ['3'], 'SocialID': ['440301112440967'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'CustomerName': ['深圳市大百科饰品有限公司']}
+Wed 03 Jan 2018 18:16:04 INFO views.py 32 204 9024 {'Type': ['CUSTOMERINFO'], 'BatchID': ['45'], 'BatchYear': ['2017'], 'CompanyID': ['18282900'], 'jobparams': ['工作中'], 'BatchMonth': ['3'], 'SocialID': ['440301112440967'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'CustomerName': ['深圳市大百科饰品有限公司']}
+Wed 03 Jan 2018 18:16:04 INFO views.py 32 204 9024 {'Type': ['CUSTOMERINFO'], 'BatchID': ['45'], 'BatchYear': ['2017'], 'CompanyID': ['18282900'], 'jobparams': ['工作中'], 'BatchMonth': ['3'], 'SocialID': ['440301112440967'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'CustomerName': ['深圳市大百科饰品有限公司']}
+Wed 03 Jan 2018 18:16:04 INFO views.py 32 204 9024 {'Type': ['CUSTOMERINFO'], 'BatchID': ['45'], 'BatchYear': ['2017'], 'CompanyID': ['18282900'], 'jobparams': ['工作中'], 'BatchMonth': ['3'], 'SocialID': ['440301112440967'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'CustomerName': ['深圳市大百科饰品有限公司']}
+Wed 03 Jan 2018 18:16:04 INFO views.py 84 204 9024 添加任务到数据库
+Wed 03 Jan 2018 18:16:04 INFO views.py 84 204 9024 添加任务到数据库
+Wed 03 Jan 2018 18:16:04 INFO views.py 84 204 9024 添加任务到数据库
+Wed 03 Jan 2018 18:16:04 INFO views.py 84 204 9024 添加任务到数据库
+Wed 03 Jan 2018 18:16:04 INFO views.py 84 204 9024 添加任务到数据库
+Wed 03 Jan 2018 18:16:04 INFO views.py 85 204 9024 ACT18282900
+Wed 03 Jan 2018 18:16:04 INFO views.py 85 204 9024 ACT18282900
+Wed 03 Jan 2018 18:16:04 INFO views.py 85 204 9024 ACT18282900
+Wed 03 Jan 2018 18:16:04 INFO views.py 85 204 9024 ACT18282900
+Wed 03 Jan 2018 18:16:04 INFO views.py 85 204 9024 ACT18282900
+Wed 03 Jan 2018 18:16:04 INFO views.py 88 204 9024 任务添加成功,开始爬取
+Wed 03 Jan 2018 18:16:04 INFO views.py 88 204 9024 任务添加成功,开始爬取
+Wed 03 Jan 2018 18:16:04 INFO views.py 88 204 9024 任务添加成功,开始爬取
+Wed 03 Jan 2018 18:16:04 INFO views.py 88 204 9024 任务添加成功,开始爬取
+Wed 03 Jan 2018 18:16:04 INFO views.py 88 204 9024 任务添加成功,开始爬取
+Wed 03 Jan 2018 18:17:56 INFO views.py 28 12396 9024 开始接受请求
+Wed 03 Jan 2018 18:17:56 INFO views.py 28 12396 9024 开始接受请求
+Wed 03 Jan 2018 18:17:56 INFO views.py 28 12396 9024 开始接受请求
+Wed 03 Jan 2018 18:17:56 INFO views.py 28 12396 9024 开始接受请求
+Wed 03 Jan 2018 18:17:56 INFO views.py 28 12396 9024 开始接受请求
+Wed 03 Jan 2018 18:17:56 INFO views.py 28 12396 9024 开始接受请求
+Wed 03 Jan 2018 18:17:56 INFO views.py 31 12396 9024 接受请求成功
+Wed 03 Jan 2018 18:17:56 INFO views.py 31 12396 9024 接受请求成功
+Wed 03 Jan 2018 18:17:56 INFO views.py 31 12396 9024 接受请求成功
+Wed 03 Jan 2018 18:17:56 INFO views.py 31 12396 9024 接受请求成功
+Wed 03 Jan 2018 18:17:56 INFO views.py 31 12396 9024 接受请求成功
+Wed 03 Jan 2018 18:17:56 INFO views.py 31 12396 9024 接受请求成功
+Wed 03 Jan 2018 18:17:56 INFO views.py 32 12396 9024 {'Type': ['CUSTOMERINFO'], 'BatchID': ['45'], 'BatchYear': ['2017'], 'CompanyID': ['18282900'], 'jobparams': ['工作中'], 'BatchMonth': ['3'], 'SocialID': ['440301112440967'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'CustomerName': ['深圳市大百科饰品有限公司']}
+Wed 03 Jan 2018 18:17:56 INFO views.py 32 12396 9024 {'Type': ['CUSTOMERINFO'], 'BatchID': ['45'], 'BatchYear': ['2017'], 'CompanyID': ['18282900'], 'jobparams': ['工作中'], 'BatchMonth': ['3'], 'SocialID': ['440301112440967'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'CustomerName': ['深圳市大百科饰品有限公司']}
+Wed 03 Jan 2018 18:17:56 INFO views.py 32 12396 9024 {'Type': ['CUSTOMERINFO'], 'BatchID': ['45'], 'BatchYear': ['2017'], 'CompanyID': ['18282900'], 'jobparams': ['工作中'], 'BatchMonth': ['3'], 'SocialID': ['440301112440967'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'CustomerName': ['深圳市大百科饰品有限公司']}
+Wed 03 Jan 2018 18:17:56 INFO views.py 32 12396 9024 {'Type': ['CUSTOMERINFO'], 'BatchID': ['45'], 'BatchYear': ['2017'], 'CompanyID': ['18282900'], 'jobparams': ['工作中'], 'BatchMonth': ['3'], 'SocialID': ['440301112440967'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'CustomerName': ['深圳市大百科饰品有限公司']}
+Wed 03 Jan 2018 18:17:56 INFO views.py 32 12396 9024 {'Type': ['CUSTOMERINFO'], 'BatchID': ['45'], 'BatchYear': ['2017'], 'CompanyID': ['18282900'], 'jobparams': ['工作中'], 'BatchMonth': ['3'], 'SocialID': ['440301112440967'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'CustomerName': ['深圳市大百科饰品有限公司']}
+Wed 03 Jan 2018 18:17:56 INFO views.py 32 12396 9024 {'Type': ['CUSTOMERINFO'], 'BatchID': ['45'], 'BatchYear': ['2017'], 'CompanyID': ['18282900'], 'jobparams': ['工作中'], 'BatchMonth': ['3'], 'SocialID': ['440301112440967'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'CustomerName': ['深圳市大百科饰品有限公司']}
+Wed 03 Jan 2018 18:17:56 INFO views.py 84 12396 9024 添加任务到数据库
+Wed 03 Jan 2018 18:17:56 INFO views.py 84 12396 9024 添加任务到数据库
+Wed 03 Jan 2018 18:17:56 INFO views.py 84 12396 9024 添加任务到数据库
+Wed 03 Jan 2018 18:17:56 INFO views.py 84 12396 9024 添加任务到数据库
+Wed 03 Jan 2018 18:17:56 INFO views.py 84 12396 9024 添加任务到数据库
+Wed 03 Jan 2018 18:17:56 INFO views.py 84 12396 9024 添加任务到数据库
+Wed 03 Jan 2018 18:17:56 INFO views.py 85 12396 9024 ACT18282900
+Wed 03 Jan 2018 18:17:56 INFO views.py 85 12396 9024 ACT18282900
+Wed 03 Jan 2018 18:17:56 INFO views.py 85 12396 9024 ACT18282900
+Wed 03 Jan 2018 18:17:56 INFO views.py 85 12396 9024 ACT18282900
+Wed 03 Jan 2018 18:17:56 INFO views.py 85 12396 9024 ACT18282900
+Wed 03 Jan 2018 18:17:56 INFO views.py 85 12396 9024 ACT18282900
+Wed 03 Jan 2018 18:17:56 INFO views.py 88 12396 9024 任务添加成功,开始爬取
+Wed 03 Jan 2018 18:17:56 INFO views.py 88 12396 9024 任务添加成功,开始爬取
+Wed 03 Jan 2018 18:17:56 INFO views.py 88 12396 9024 任务添加成功,开始爬取
+Wed 03 Jan 2018 18:17:56 INFO views.py 88 12396 9024 任务添加成功,开始爬取
+Wed 03 Jan 2018 18:17:56 INFO views.py 88 12396 9024 任务添加成功,开始爬取
+Wed 03 Jan 2018 18:17:56 INFO views.py 88 12396 9024 任务添加成功,开始爬取
+Wed 03 Jan 2018 18:19:19 INFO views.py 28 5196 9024 开始接受请求
+Wed 03 Jan 2018 18:19:19 INFO views.py 28 5196 9024 开始接受请求
+Wed 03 Jan 2018 18:19:19 INFO views.py 28 5196 9024 开始接受请求
+Wed 03 Jan 2018 18:19:19 INFO views.py 28 5196 9024 开始接受请求
+Wed 03 Jan 2018 18:19:19 INFO views.py 28 5196 9024 开始接受请求
+Wed 03 Jan 2018 18:19:19 INFO views.py 28 5196 9024 开始接受请求
+Wed 03 Jan 2018 18:19:19 INFO views.py 28 5196 9024 开始接受请求
+Wed 03 Jan 2018 18:19:19 INFO views.py 31 5196 9024 接受请求成功
+Wed 03 Jan 2018 18:19:19 INFO views.py 31 5196 9024 接受请求成功
+Wed 03 Jan 2018 18:19:19 INFO views.py 31 5196 9024 接受请求成功
+Wed 03 Jan 2018 18:19:19 INFO views.py 31 5196 9024 接受请求成功
+Wed 03 Jan 2018 18:19:19 INFO views.py 31 5196 9024 接受请求成功
+Wed 03 Jan 2018 18:19:19 INFO views.py 31 5196 9024 接受请求成功
+Wed 03 Jan 2018 18:19:19 INFO views.py 31 5196 9024 接受请求成功
+Wed 03 Jan 2018 18:19:19 INFO views.py 32 5196 9024 {'Type': ['CUSTOMERINFO'], 'BatchID': ['45'], 'BatchYear': ['2017'], 'CompanyID': ['18282900'], 'jobparams': ['工作中'], 'BatchMonth': ['3'], 'SocialID': ['440301112440967'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'CustomerName': ['深圳市大百科饰品有限公司']}
+Wed 03 Jan 2018 18:19:19 INFO views.py 32 5196 9024 {'Type': ['CUSTOMERINFO'], 'BatchID': ['45'], 'BatchYear': ['2017'], 'CompanyID': ['18282900'], 'jobparams': ['工作中'], 'BatchMonth': ['3'], 'SocialID': ['440301112440967'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'CustomerName': ['深圳市大百科饰品有限公司']}
+Wed 03 Jan 2018 18:19:19 INFO views.py 32 5196 9024 {'Type': ['CUSTOMERINFO'], 'BatchID': ['45'], 'BatchYear': ['2017'], 'CompanyID': ['18282900'], 'jobparams': ['工作中'], 'BatchMonth': ['3'], 'SocialID': ['440301112440967'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'CustomerName': ['深圳市大百科饰品有限公司']}
+Wed 03 Jan 2018 18:19:19 INFO views.py 32 5196 9024 {'Type': ['CUSTOMERINFO'], 'BatchID': ['45'], 'BatchYear': ['2017'], 'CompanyID': ['18282900'], 'jobparams': ['工作中'], 'BatchMonth': ['3'], 'SocialID': ['440301112440967'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'CustomerName': ['深圳市大百科饰品有限公司']}
+Wed 03 Jan 2018 18:19:19 INFO views.py 32 5196 9024 {'Type': ['CUSTOMERINFO'], 'BatchID': ['45'], 'BatchYear': ['2017'], 'CompanyID': ['18282900'], 'jobparams': ['工作中'], 'BatchMonth': ['3'], 'SocialID': ['440301112440967'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'CustomerName': ['深圳市大百科饰品有限公司']}
+Wed 03 Jan 2018 18:19:19 INFO views.py 32 5196 9024 {'Type': ['CUSTOMERINFO'], 'BatchID': ['45'], 'BatchYear': ['2017'], 'CompanyID': ['18282900'], 'jobparams': ['工作中'], 'BatchMonth': ['3'], 'SocialID': ['440301112440967'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'CustomerName': ['深圳市大百科饰品有限公司']}
+Wed 03 Jan 2018 18:19:19 INFO views.py 32 5196 9024 {'Type': ['CUSTOMERINFO'], 'BatchID': ['45'], 'BatchYear': ['2017'], 'CompanyID': ['18282900'], 'jobparams': ['工作中'], 'BatchMonth': ['3'], 'SocialID': ['440301112440967'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'CustomerName': ['深圳市大百科饰品有限公司']}
+Wed 03 Jan 2018 18:19:19 INFO views.py 84 5196 9024 添加任务到数据库
+Wed 03 Jan 2018 18:19:19 INFO views.py 84 5196 9024 添加任务到数据库
+Wed 03 Jan 2018 18:19:19 INFO views.py 84 5196 9024 添加任务到数据库
+Wed 03 Jan 2018 18:19:19 INFO views.py 84 5196 9024 添加任务到数据库
+Wed 03 Jan 2018 18:19:19 INFO views.py 84 5196 9024 添加任务到数据库
+Wed 03 Jan 2018 18:19:19 INFO views.py 84 5196 9024 添加任务到数据库
+Wed 03 Jan 2018 18:19:19 INFO views.py 84 5196 9024 添加任务到数据库
+Wed 03 Jan 2018 18:19:19 INFO views.py 85 5196 9024 ACT18282900
+Wed 03 Jan 2018 18:19:19 INFO views.py 85 5196 9024 ACT18282900
+Wed 03 Jan 2018 18:19:19 INFO views.py 85 5196 9024 ACT18282900
+Wed 03 Jan 2018 18:19:19 INFO views.py 85 5196 9024 ACT18282900
+Wed 03 Jan 2018 18:19:19 INFO views.py 85 5196 9024 ACT18282900
+Wed 03 Jan 2018 18:19:19 INFO views.py 85 5196 9024 ACT18282900
+Wed 03 Jan 2018 18:19:19 INFO views.py 85 5196 9024 ACT18282900
+Wed 03 Jan 2018 18:19:19 INFO views.py 88 5196 9024 任务添加成功,开始爬取
+Wed 03 Jan 2018 18:19:19 INFO views.py 88 5196 9024 任务添加成功,开始爬取
+Wed 03 Jan 2018 18:19:19 INFO views.py 88 5196 9024 任务添加成功,开始爬取
+Wed 03 Jan 2018 18:19:19 INFO views.py 88 5196 9024 任务添加成功,开始爬取
+Wed 03 Jan 2018 18:19:19 INFO views.py 88 5196 9024 任务添加成功,开始爬取
+Wed 03 Jan 2018 18:19:19 INFO views.py 88 5196 9024 任务添加成功,开始爬取
+Wed 03 Jan 2018 18:19:19 INFO views.py 88 5196 9024 任务添加成功,开始爬取
+Wed 03 Jan 2018 18:23:53 INFO views.py 28 16808 9024 开始接受请求
+Wed 03 Jan 2018 18:23:53 INFO views.py 28 16808 9024 开始接受请求
+Wed 03 Jan 2018 18:23:53 INFO views.py 28 16808 9024 开始接受请求
+Wed 03 Jan 2018 18:23:53 INFO views.py 28 16808 9024 开始接受请求
+Wed 03 Jan 2018 18:23:53 INFO views.py 28 16808 9024 开始接受请求
+Wed 03 Jan 2018 18:23:53 INFO views.py 28 16808 9024 开始接受请求
+Wed 03 Jan 2018 18:23:53 INFO views.py 28 16808 9024 开始接受请求
+Wed 03 Jan 2018 18:23:53 INFO views.py 28 16808 9024 开始接受请求
+Wed 03 Jan 2018 18:23:53 INFO views.py 31 16808 9024 接受请求成功
+Wed 03 Jan 2018 18:23:53 INFO views.py 31 16808 9024 接受请求成功
+Wed 03 Jan 2018 18:23:53 INFO views.py 31 16808 9024 接受请求成功
+Wed 03 Jan 2018 18:23:53 INFO views.py 31 16808 9024 接受请求成功
+Wed 03 Jan 2018 18:23:53 INFO views.py 31 16808 9024 接受请求成功
+Wed 03 Jan 2018 18:23:53 INFO views.py 31 16808 9024 接受请求成功
+Wed 03 Jan 2018 18:23:53 INFO views.py 31 16808 9024 接受请求成功
+Wed 03 Jan 2018 18:23:53 INFO views.py 31 16808 9024 接受请求成功
+Wed 03 Jan 2018 18:23:53 INFO views.py 32 16808 9024 {'Type': ['CUSTOMERINFO'], 'BatchID': ['45'], 'BatchYear': ['2017'], 'CompanyID': ['18282900'], 'jobparams': ['工作中'], 'BatchMonth': ['3'], 'SocialID': ['440301112440967'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'CustomerName': ['深圳市大百科饰品有限公司']}
+Wed 03 Jan 2018 18:23:53 INFO views.py 32 16808 9024 {'Type': ['CUSTOMERINFO'], 'BatchID': ['45'], 'BatchYear': ['2017'], 'CompanyID': ['18282900'], 'jobparams': ['工作中'], 'BatchMonth': ['3'], 'SocialID': ['440301112440967'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'CustomerName': ['深圳市大百科饰品有限公司']}
+Wed 03 Jan 2018 18:23:53 INFO views.py 32 16808 9024 {'Type': ['CUSTOMERINFO'], 'BatchID': ['45'], 'BatchYear': ['2017'], 'CompanyID': ['18282900'], 'jobparams': ['工作中'], 'BatchMonth': ['3'], 'SocialID': ['440301112440967'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'CustomerName': ['深圳市大百科饰品有限公司']}
+Wed 03 Jan 2018 18:23:53 INFO views.py 32 16808 9024 {'Type': ['CUSTOMERINFO'], 'BatchID': ['45'], 'BatchYear': ['2017'], 'CompanyID': ['18282900'], 'jobparams': ['工作中'], 'BatchMonth': ['3'], 'SocialID': ['440301112440967'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'CustomerName': ['深圳市大百科饰品有限公司']}
+Wed 03 Jan 2018 18:23:53 INFO views.py 32 16808 9024 {'Type': ['CUSTOMERINFO'], 'BatchID': ['45'], 'BatchYear': ['2017'], 'CompanyID': ['18282900'], 'jobparams': ['工作中'], 'BatchMonth': ['3'], 'SocialID': ['440301112440967'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'CustomerName': ['深圳市大百科饰品有限公司']}
+Wed 03 Jan 2018 18:23:53 INFO views.py 32 16808 9024 {'Type': ['CUSTOMERINFO'], 'BatchID': ['45'], 'BatchYear': ['2017'], 'CompanyID': ['18282900'], 'jobparams': ['工作中'], 'BatchMonth': ['3'], 'SocialID': ['440301112440967'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'CustomerName': ['深圳市大百科饰品有限公司']}
+Wed 03 Jan 2018 18:23:53 INFO views.py 32 16808 9024 {'Type': ['CUSTOMERINFO'], 'BatchID': ['45'], 'BatchYear': ['2017'], 'CompanyID': ['18282900'], 'jobparams': ['工作中'], 'BatchMonth': ['3'], 'SocialID': ['440301112440967'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'CustomerName': ['深圳市大百科饰品有限公司']}
+Wed 03 Jan 2018 18:23:53 INFO views.py 32 16808 9024 {'Type': ['CUSTOMERINFO'], 'BatchID': ['45'], 'BatchYear': ['2017'], 'CompanyID': ['18282900'], 'jobparams': ['工作中'], 'BatchMonth': ['3'], 'SocialID': ['440301112440967'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'CustomerName': ['深圳市大百科饰品有限公司']}
+Wed 03 Jan 2018 18:23:53 INFO views.py 84 16808 9024 添加任务到数据库
+Wed 03 Jan 2018 18:23:53 INFO views.py 84 16808 9024 添加任务到数据库
+Wed 03 Jan 2018 18:23:53 INFO views.py 84 16808 9024 添加任务到数据库
+Wed 03 Jan 2018 18:23:53 INFO views.py 84 16808 9024 添加任务到数据库
+Wed 03 Jan 2018 18:23:53 INFO views.py 84 16808 9024 添加任务到数据库
+Wed 03 Jan 2018 18:23:53 INFO views.py 84 16808 9024 添加任务到数据库
+Wed 03 Jan 2018 18:23:53 INFO views.py 84 16808 9024 添加任务到数据库
+Wed 03 Jan 2018 18:23:53 INFO views.py 84 16808 9024 添加任务到数据库
+Wed 03 Jan 2018 18:23:53 INFO views.py 85 16808 9024 ACT18282900
+Wed 03 Jan 2018 18:23:53 INFO views.py 85 16808 9024 ACT18282900
+Wed 03 Jan 2018 18:23:53 INFO views.py 85 16808 9024 ACT18282900
+Wed 03 Jan 2018 18:23:53 INFO views.py 85 16808 9024 ACT18282900
+Wed 03 Jan 2018 18:23:53 INFO views.py 85 16808 9024 ACT18282900
+Wed 03 Jan 2018 18:23:53 INFO views.py 85 16808 9024 ACT18282900
+Wed 03 Jan 2018 18:23:53 INFO views.py 85 16808 9024 ACT18282900
+Wed 03 Jan 2018 18:23:53 INFO views.py 85 16808 9024 ACT18282900
+Wed 03 Jan 2018 18:23:53 INFO views.py 88 16808 9024 任务添加成功,开始爬取
+Wed 03 Jan 2018 18:23:53 INFO views.py 88 16808 9024 任务添加成功,开始爬取
+Wed 03 Jan 2018 18:23:53 INFO views.py 88 16808 9024 任务添加成功,开始爬取
+Wed 03 Jan 2018 18:23:53 INFO views.py 88 16808 9024 任务添加成功,开始爬取
+Wed 03 Jan 2018 18:23:53 INFO views.py 88 16808 9024 任务添加成功,开始爬取
+Wed 03 Jan 2018 18:23:53 INFO views.py 88 16808 9024 任务添加成功,开始爬取
+Wed 03 Jan 2018 18:23:53 INFO views.py 88 16808 9024 任务添加成功,开始爬取
+Wed 03 Jan 2018 18:23:53 INFO views.py 88 16808 9024 任务添加成功,开始爬取
+Wed 03 Jan 2018 18:40:10 INFO views.py 28 3304 9024 开始接受请求
+Wed 03 Jan 2018 18:40:10 INFO views.py 28 3304 9024 开始接受请求
+Wed 03 Jan 2018 18:40:10 INFO views.py 28 3304 9024 开始接受请求
+Wed 03 Jan 2018 18:40:10 INFO views.py 28 3304 9024 开始接受请求
+Wed 03 Jan 2018 18:40:10 INFO views.py 28 3304 9024 开始接受请求
+Wed 03 Jan 2018 18:40:10 INFO views.py 28 3304 9024 开始接受请求
+Wed 03 Jan 2018 18:40:10 INFO views.py 28 3304 9024 开始接受请求
+Wed 03 Jan 2018 18:40:10 INFO views.py 28 3304 9024 开始接受请求
+Wed 03 Jan 2018 18:40:10 INFO views.py 28 3304 9024 开始接受请求
+Wed 03 Jan 2018 18:40:10 INFO views.py 31 3304 9024 接受请求成功
+Wed 03 Jan 2018 18:40:10 INFO views.py 31 3304 9024 接受请求成功
+Wed 03 Jan 2018 18:40:10 INFO views.py 31 3304 9024 接受请求成功
+Wed 03 Jan 2018 18:40:10 INFO views.py 31 3304 9024 接受请求成功
+Wed 03 Jan 2018 18:40:10 INFO views.py 31 3304 9024 接受请求成功
+Wed 03 Jan 2018 18:40:10 INFO views.py 31 3304 9024 接受请求成功
+Wed 03 Jan 2018 18:40:10 INFO views.py 31 3304 9024 接受请求成功
+Wed 03 Jan 2018 18:40:10 INFO views.py 31 3304 9024 接受请求成功
+Wed 03 Jan 2018 18:40:10 INFO views.py 31 3304 9024 接受请求成功
+Wed 03 Jan 2018 18:40:10 INFO views.py 32 3304 9024 {'Type': ['CUSTOMERINFO'], 'BatchID': ['45'], 'BatchYear': ['2017'], 'CompanyID': ['18282900'], 'jobparams': ['工作中'], 'BatchMonth': ['3'], 'SocialID': ['440301112440967'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'CustomerName': ['深圳市大百科饰品有限公司']}
+Wed 03 Jan 2018 18:40:10 INFO views.py 32 3304 9024 {'Type': ['CUSTOMERINFO'], 'BatchID': ['45'], 'BatchYear': ['2017'], 'CompanyID': ['18282900'], 'jobparams': ['工作中'], 'BatchMonth': ['3'], 'SocialID': ['440301112440967'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'CustomerName': ['深圳市大百科饰品有限公司']}
+Wed 03 Jan 2018 18:40:10 INFO views.py 32 3304 9024 {'Type': ['CUSTOMERINFO'], 'BatchID': ['45'], 'BatchYear': ['2017'], 'CompanyID': ['18282900'], 'jobparams': ['工作中'], 'BatchMonth': ['3'], 'SocialID': ['440301112440967'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'CustomerName': ['深圳市大百科饰品有限公司']}
+Wed 03 Jan 2018 18:40:10 INFO views.py 32 3304 9024 {'Type': ['CUSTOMERINFO'], 'BatchID': ['45'], 'BatchYear': ['2017'], 'CompanyID': ['18282900'], 'jobparams': ['工作中'], 'BatchMonth': ['3'], 'SocialID': ['440301112440967'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'CustomerName': ['深圳市大百科饰品有限公司']}
+Wed 03 Jan 2018 18:40:10 INFO views.py 32 3304 9024 {'Type': ['CUSTOMERINFO'], 'BatchID': ['45'], 'BatchYear': ['2017'], 'CompanyID': ['18282900'], 'jobparams': ['工作中'], 'BatchMonth': ['3'], 'SocialID': ['440301112440967'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'CustomerName': ['深圳市大百科饰品有限公司']}
+Wed 03 Jan 2018 18:40:10 INFO views.py 32 3304 9024 {'Type': ['CUSTOMERINFO'], 'BatchID': ['45'], 'BatchYear': ['2017'], 'CompanyID': ['18282900'], 'jobparams': ['工作中'], 'BatchMonth': ['3'], 'SocialID': ['440301112440967'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'CustomerName': ['深圳市大百科饰品有限公司']}
+Wed 03 Jan 2018 18:40:10 INFO views.py 32 3304 9024 {'Type': ['CUSTOMERINFO'], 'BatchID': ['45'], 'BatchYear': ['2017'], 'CompanyID': ['18282900'], 'jobparams': ['工作中'], 'BatchMonth': ['3'], 'SocialID': ['440301112440967'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'CustomerName': ['深圳市大百科饰品有限公司']}
+Wed 03 Jan 2018 18:40:10 INFO views.py 32 3304 9024 {'Type': ['CUSTOMERINFO'], 'BatchID': ['45'], 'BatchYear': ['2017'], 'CompanyID': ['18282900'], 'jobparams': ['工作中'], 'BatchMonth': ['3'], 'SocialID': ['440301112440967'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'CustomerName': ['深圳市大百科饰品有限公司']}
+Wed 03 Jan 2018 18:40:10 INFO views.py 32 3304 9024 {'Type': ['CUSTOMERINFO'], 'BatchID': ['45'], 'BatchYear': ['2017'], 'CompanyID': ['18282900'], 'jobparams': ['工作中'], 'BatchMonth': ['3'], 'SocialID': ['440301112440967'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'CustomerName': ['深圳市大百科饰品有限公司']}
+Wed 03 Jan 2018 18:40:10 INFO views.py 84 3304 9024 添加任务到数据库
+Wed 03 Jan 2018 18:40:10 INFO views.py 84 3304 9024 添加任务到数据库
+Wed 03 Jan 2018 18:40:10 INFO views.py 84 3304 9024 添加任务到数据库
+Wed 03 Jan 2018 18:40:10 INFO views.py 84 3304 9024 添加任务到数据库
+Wed 03 Jan 2018 18:40:10 INFO views.py 84 3304 9024 添加任务到数据库
+Wed 03 Jan 2018 18:40:10 INFO views.py 84 3304 9024 添加任务到数据库
+Wed 03 Jan 2018 18:40:10 INFO views.py 84 3304 9024 添加任务到数据库
+Wed 03 Jan 2018 18:40:10 INFO views.py 84 3304 9024 添加任务到数据库
+Wed 03 Jan 2018 18:40:10 INFO views.py 84 3304 9024 添加任务到数据库
+Wed 03 Jan 2018 18:40:10 INFO views.py 85 3304 9024 ACT18282900
+Wed 03 Jan 2018 18:40:10 INFO views.py 85 3304 9024 ACT18282900
+Wed 03 Jan 2018 18:40:10 INFO views.py 85 3304 9024 ACT18282900
+Wed 03 Jan 2018 18:40:10 INFO views.py 85 3304 9024 ACT18282900
+Wed 03 Jan 2018 18:40:10 INFO views.py 85 3304 9024 ACT18282900
+Wed 03 Jan 2018 18:40:10 INFO views.py 85 3304 9024 ACT18282900
+Wed 03 Jan 2018 18:40:10 INFO views.py 85 3304 9024 ACT18282900
+Wed 03 Jan 2018 18:40:10 INFO views.py 85 3304 9024 ACT18282900
+Wed 03 Jan 2018 18:40:10 INFO views.py 85 3304 9024 ACT18282900
+Wed 03 Jan 2018 18:40:13 INFO views.py 88 3304 9024 任务添加成功,开始爬取
+Wed 03 Jan 2018 18:40:13 INFO views.py 88 3304 9024 任务添加成功,开始爬取
+Wed 03 Jan 2018 18:40:13 INFO views.py 88 3304 9024 任务添加成功,开始爬取
+Wed 03 Jan 2018 18:40:13 INFO views.py 88 3304 9024 任务添加成功,开始爬取
+Wed 03 Jan 2018 18:40:13 INFO views.py 88 3304 9024 任务添加成功,开始爬取
+Wed 03 Jan 2018 18:40:13 INFO views.py 88 3304 9024 任务添加成功,开始爬取
+Wed 03 Jan 2018 18:40:13 INFO views.py 88 3304 9024 任务添加成功,开始爬取
+Wed 03 Jan 2018 18:40:13 INFO views.py 88 3304 9024 任务添加成功,开始爬取
+Wed 03 Jan 2018 18:40:13 INFO views.py 88 3304 9024 任务添加成功,开始爬取
+Wed 03 Jan 2018 18:49:16 INFO views.py 28 3312 9024 开始接受请求
+Wed 03 Jan 2018 18:49:16 INFO views.py 28 3312 9024 开始接受请求
+Wed 03 Jan 2018 18:49:16 INFO views.py 28 3312 9024 开始接受请求
+Wed 03 Jan 2018 18:49:16 INFO views.py 28 3312 9024 开始接受请求
+Wed 03 Jan 2018 18:49:16 INFO views.py 28 3312 9024 开始接受请求
+Wed 03 Jan 2018 18:49:16 INFO views.py 28 3312 9024 开始接受请求
+Wed 03 Jan 2018 18:49:16 INFO views.py 28 3312 9024 开始接受请求
+Wed 03 Jan 2018 18:49:16 INFO views.py 28 3312 9024 开始接受请求
+Wed 03 Jan 2018 18:49:16 INFO views.py 28 3312 9024 开始接受请求
+Wed 03 Jan 2018 18:49:16 INFO views.py 28 3312 9024 开始接受请求
+Wed 03 Jan 2018 18:49:16 INFO views.py 31 3312 9024 接受请求成功
+Wed 03 Jan 2018 18:49:16 INFO views.py 31 3312 9024 接受请求成功
+Wed 03 Jan 2018 18:49:16 INFO views.py 31 3312 9024 接受请求成功
+Wed 03 Jan 2018 18:49:16 INFO views.py 31 3312 9024 接受请求成功
+Wed 03 Jan 2018 18:49:16 INFO views.py 31 3312 9024 接受请求成功
+Wed 03 Jan 2018 18:49:16 INFO views.py 31 3312 9024 接受请求成功
+Wed 03 Jan 2018 18:49:16 INFO views.py 31 3312 9024 接受请求成功
+Wed 03 Jan 2018 18:49:16 INFO views.py 31 3312 9024 接受请求成功
+Wed 03 Jan 2018 18:49:16 INFO views.py 31 3312 9024 接受请求成功
+Wed 03 Jan 2018 18:49:16 INFO views.py 31 3312 9024 接受请求成功
+Wed 03 Jan 2018 18:49:16 INFO views.py 32 3312 9024 {'Type': ['CUSTOMERINFO'], 'BatchID': ['45'], 'BatchYear': ['2017'], 'CompanyID': ['18282900'], 'jobparams': ['工作中'], 'BatchMonth': ['3'], 'SocialID': ['440301112440967'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'CustomerName': ['深圳市大百科饰品有限公司']}
+Wed 03 Jan 2018 18:49:16 INFO views.py 32 3312 9024 {'Type': ['CUSTOMERINFO'], 'BatchID': ['45'], 'BatchYear': ['2017'], 'CompanyID': ['18282900'], 'jobparams': ['工作中'], 'BatchMonth': ['3'], 'SocialID': ['440301112440967'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'CustomerName': ['深圳市大百科饰品有限公司']}
+Wed 03 Jan 2018 18:49:16 INFO views.py 32 3312 9024 {'Type': ['CUSTOMERINFO'], 'BatchID': ['45'], 'BatchYear': ['2017'], 'CompanyID': ['18282900'], 'jobparams': ['工作中'], 'BatchMonth': ['3'], 'SocialID': ['440301112440967'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'CustomerName': ['深圳市大百科饰品有限公司']}
+Wed 03 Jan 2018 18:49:16 INFO views.py 32 3312 9024 {'Type': ['CUSTOMERINFO'], 'BatchID': ['45'], 'BatchYear': ['2017'], 'CompanyID': ['18282900'], 'jobparams': ['工作中'], 'BatchMonth': ['3'], 'SocialID': ['440301112440967'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'CustomerName': ['深圳市大百科饰品有限公司']}
+Wed 03 Jan 2018 18:49:16 INFO views.py 32 3312 9024 {'Type': ['CUSTOMERINFO'], 'BatchID': ['45'], 'BatchYear': ['2017'], 'CompanyID': ['18282900'], 'jobparams': ['工作中'], 'BatchMonth': ['3'], 'SocialID': ['440301112440967'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'CustomerName': ['深圳市大百科饰品有限公司']}
+Wed 03 Jan 2018 18:49:16 INFO views.py 32 3312 9024 {'Type': ['CUSTOMERINFO'], 'BatchID': ['45'], 'BatchYear': ['2017'], 'CompanyID': ['18282900'], 'jobparams': ['工作中'], 'BatchMonth': ['3'], 'SocialID': ['440301112440967'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'CustomerName': ['深圳市大百科饰品有限公司']}
+Wed 03 Jan 2018 18:49:16 INFO views.py 32 3312 9024 {'Type': ['CUSTOMERINFO'], 'BatchID': ['45'], 'BatchYear': ['2017'], 'CompanyID': ['18282900'], 'jobparams': ['工作中'], 'BatchMonth': ['3'], 'SocialID': ['440301112440967'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'CustomerName': ['深圳市大百科饰品有限公司']}
+Wed 03 Jan 2018 18:49:16 INFO views.py 32 3312 9024 {'Type': ['CUSTOMERINFO'], 'BatchID': ['45'], 'BatchYear': ['2017'], 'CompanyID': ['18282900'], 'jobparams': ['工作中'], 'BatchMonth': ['3'], 'SocialID': ['440301112440967'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'CustomerName': ['深圳市大百科饰品有限公司']}
+Wed 03 Jan 2018 18:49:16 INFO views.py 32 3312 9024 {'Type': ['CUSTOMERINFO'], 'BatchID': ['45'], 'BatchYear': ['2017'], 'CompanyID': ['18282900'], 'jobparams': ['工作中'], 'BatchMonth': ['3'], 'SocialID': ['440301112440967'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'CustomerName': ['深圳市大百科饰品有限公司']}
+Wed 03 Jan 2018 18:49:16 INFO views.py 32 3312 9024 {'Type': ['CUSTOMERINFO'], 'BatchID': ['45'], 'BatchYear': ['2017'], 'CompanyID': ['18282900'], 'jobparams': ['工作中'], 'BatchMonth': ['3'], 'SocialID': ['440301112440967'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'CustomerName': ['深圳市大百科饰品有限公司']}
+Wed 03 Jan 2018 18:49:16 INFO views.py 84 3312 9024 添加任务到数据库
+Wed 03 Jan 2018 18:49:16 INFO views.py 84 3312 9024 添加任务到数据库
+Wed 03 Jan 2018 18:49:16 INFO views.py 84 3312 9024 添加任务到数据库
+Wed 03 Jan 2018 18:49:16 INFO views.py 84 3312 9024 添加任务到数据库
+Wed 03 Jan 2018 18:49:16 INFO views.py 84 3312 9024 添加任务到数据库
+Wed 03 Jan 2018 18:49:16 INFO views.py 84 3312 9024 添加任务到数据库
+Wed 03 Jan 2018 18:49:16 INFO views.py 84 3312 9024 添加任务到数据库
+Wed 03 Jan 2018 18:49:16 INFO views.py 84 3312 9024 添加任务到数据库
+Wed 03 Jan 2018 18:49:16 INFO views.py 84 3312 9024 添加任务到数据库
+Wed 03 Jan 2018 18:49:16 INFO views.py 84 3312 9024 添加任务到数据库
+Wed 03 Jan 2018 18:49:16 INFO views.py 85 3312 9024 ACT18282900
+Wed 03 Jan 2018 18:49:16 INFO views.py 85 3312 9024 ACT18282900
+Wed 03 Jan 2018 18:49:16 INFO views.py 85 3312 9024 ACT18282900
+Wed 03 Jan 2018 18:49:16 INFO views.py 85 3312 9024 ACT18282900
+Wed 03 Jan 2018 18:49:16 INFO views.py 85 3312 9024 ACT18282900
+Wed 03 Jan 2018 18:49:16 INFO views.py 85 3312 9024 ACT18282900
+Wed 03 Jan 2018 18:49:16 INFO views.py 85 3312 9024 ACT18282900
+Wed 03 Jan 2018 18:49:16 INFO views.py 85 3312 9024 ACT18282900
+Wed 03 Jan 2018 18:49:16 INFO views.py 85 3312 9024 ACT18282900
+Wed 03 Jan 2018 18:49:16 INFO views.py 85 3312 9024 ACT18282900
+Wed 03 Jan 2018 18:49:16 INFO views.py 88 3312 9024 任务添加成功,开始爬取
+Wed 03 Jan 2018 18:49:16 INFO views.py 88 3312 9024 任务添加成功,开始爬取
+Wed 03 Jan 2018 18:49:16 INFO views.py 88 3312 9024 任务添加成功,开始爬取
+Wed 03 Jan 2018 18:49:16 INFO views.py 88 3312 9024 任务添加成功,开始爬取
+Wed 03 Jan 2018 18:49:16 INFO views.py 88 3312 9024 任务添加成功,开始爬取
+Wed 03 Jan 2018 18:49:16 INFO views.py 88 3312 9024 任务添加成功,开始爬取
+Wed 03 Jan 2018 18:49:16 INFO views.py 88 3312 9024 任务添加成功,开始爬取
+Wed 03 Jan 2018 18:49:16 INFO views.py 88 3312 9024 任务添加成功,开始爬取
+Wed 03 Jan 2018 18:49:16 INFO views.py 88 3312 9024 任务添加成功,开始爬取
+Wed 03 Jan 2018 18:49:16 INFO views.py 88 3312 9024 任务添加成功,开始爬取
+Wed 03 Jan 2018 18:49:27 INFO views.py 28 304 9024 开始接受请求
+Wed 03 Jan 2018 18:49:27 INFO views.py 28 304 9024 开始接受请求
+Wed 03 Jan 2018 18:49:27 INFO views.py 28 304 9024 开始接受请求
+Wed 03 Jan 2018 18:49:27 INFO views.py 28 304 9024 开始接受请求
+Wed 03 Jan 2018 18:49:27 INFO views.py 28 304 9024 开始接受请求
+Wed 03 Jan 2018 18:49:27 INFO views.py 28 304 9024 开始接受请求
+Wed 03 Jan 2018 18:49:27 INFO views.py 28 304 9024 开始接受请求
+Wed 03 Jan 2018 18:49:27 INFO views.py 28 304 9024 开始接受请求
+Wed 03 Jan 2018 18:49:27 INFO views.py 28 304 9024 开始接受请求
+Wed 03 Jan 2018 18:49:27 INFO views.py 28 304 9024 开始接受请求
+Wed 03 Jan 2018 18:49:27 INFO views.py 28 304 9024 开始接受请求
+Wed 03 Jan 2018 18:49:27 INFO views.py 31 304 9024 接受请求成功
+Wed 03 Jan 2018 18:49:27 INFO views.py 31 304 9024 接受请求成功
+Wed 03 Jan 2018 18:49:27 INFO views.py 31 304 9024 接受请求成功
+Wed 03 Jan 2018 18:49:27 INFO views.py 31 304 9024 接受请求成功
+Wed 03 Jan 2018 18:49:27 INFO views.py 31 304 9024 接受请求成功
+Wed 03 Jan 2018 18:49:27 INFO views.py 31 304 9024 接受请求成功
+Wed 03 Jan 2018 18:49:27 INFO views.py 31 304 9024 接受请求成功
+Wed 03 Jan 2018 18:49:27 INFO views.py 31 304 9024 接受请求成功
+Wed 03 Jan 2018 18:49:27 INFO views.py 31 304 9024 接受请求成功
+Wed 03 Jan 2018 18:49:27 INFO views.py 31 304 9024 接受请求成功
+Wed 03 Jan 2018 18:49:27 INFO views.py 31 304 9024 接受请求成功
+Wed 03 Jan 2018 18:49:27 INFO views.py 32 304 9024 {'Type': ['CUSTOMERINFO'], 'BatchID': ['45'], 'BatchYear': ['2017'], 'CompanyID': ['18282900'], 'jobparams': ['工作中'], 'BatchMonth': ['3'], 'SocialID': ['440301112440967'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'CustomerName': ['深圳市大百科饰品有限公司']}
+Wed 03 Jan 2018 18:49:27 INFO views.py 32 304 9024 {'Type': ['CUSTOMERINFO'], 'BatchID': ['45'], 'BatchYear': ['2017'], 'CompanyID': ['18282900'], 'jobparams': ['工作中'], 'BatchMonth': ['3'], 'SocialID': ['440301112440967'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'CustomerName': ['深圳市大百科饰品有限公司']}
+Wed 03 Jan 2018 18:49:27 INFO views.py 32 304 9024 {'Type': ['CUSTOMERINFO'], 'BatchID': ['45'], 'BatchYear': ['2017'], 'CompanyID': ['18282900'], 'jobparams': ['工作中'], 'BatchMonth': ['3'], 'SocialID': ['440301112440967'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'CustomerName': ['深圳市大百科饰品有限公司']}
+Wed 03 Jan 2018 18:49:27 INFO views.py 32 304 9024 {'Type': ['CUSTOMERINFO'], 'BatchID': ['45'], 'BatchYear': ['2017'], 'CompanyID': ['18282900'], 'jobparams': ['工作中'], 'BatchMonth': ['3'], 'SocialID': ['440301112440967'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'CustomerName': ['深圳市大百科饰品有限公司']}
+Wed 03 Jan 2018 18:49:27 INFO views.py 32 304 9024 {'Type': ['CUSTOMERINFO'], 'BatchID': ['45'], 'BatchYear': ['2017'], 'CompanyID': ['18282900'], 'jobparams': ['工作中'], 'BatchMonth': ['3'], 'SocialID': ['440301112440967'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'CustomerName': ['深圳市大百科饰品有限公司']}
+Wed 03 Jan 2018 18:49:27 INFO views.py 32 304 9024 {'Type': ['CUSTOMERINFO'], 'BatchID': ['45'], 'BatchYear': ['2017'], 'CompanyID': ['18282900'], 'jobparams': ['工作中'], 'BatchMonth': ['3'], 'SocialID': ['440301112440967'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'CustomerName': ['深圳市大百科饰品有限公司']}
+Wed 03 Jan 2018 18:49:27 INFO views.py 32 304 9024 {'Type': ['CUSTOMERINFO'], 'BatchID': ['45'], 'BatchYear': ['2017'], 'CompanyID': ['18282900'], 'jobparams': ['工作中'], 'BatchMonth': ['3'], 'SocialID': ['440301112440967'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'CustomerName': ['深圳市大百科饰品有限公司']}
+Wed 03 Jan 2018 18:49:27 INFO views.py 32 304 9024 {'Type': ['CUSTOMERINFO'], 'BatchID': ['45'], 'BatchYear': ['2017'], 'CompanyID': ['18282900'], 'jobparams': ['工作中'], 'BatchMonth': ['3'], 'SocialID': ['440301112440967'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'CustomerName': ['深圳市大百科饰品有限公司']}
+Wed 03 Jan 2018 18:49:27 INFO views.py 32 304 9024 {'Type': ['CUSTOMERINFO'], 'BatchID': ['45'], 'BatchYear': ['2017'], 'CompanyID': ['18282900'], 'jobparams': ['工作中'], 'BatchMonth': ['3'], 'SocialID': ['440301112440967'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'CustomerName': ['深圳市大百科饰品有限公司']}
+Wed 03 Jan 2018 18:49:27 INFO views.py 32 304 9024 {'Type': ['CUSTOMERINFO'], 'BatchID': ['45'], 'BatchYear': ['2017'], 'CompanyID': ['18282900'], 'jobparams': ['工作中'], 'BatchMonth': ['3'], 'SocialID': ['440301112440967'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'CustomerName': ['深圳市大百科饰品有限公司']}
+Wed 03 Jan 2018 18:49:27 INFO views.py 32 304 9024 {'Type': ['CUSTOMERINFO'], 'BatchID': ['45'], 'BatchYear': ['2017'], 'CompanyID': ['18282900'], 'jobparams': ['工作中'], 'BatchMonth': ['3'], 'SocialID': ['440301112440967'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'CustomerName': ['深圳市大百科饰品有限公司']}
+Wed 03 Jan 2018 18:49:27 INFO views.py 84 304 9024 添加任务到数据库
+Wed 03 Jan 2018 18:49:27 INFO views.py 84 304 9024 添加任务到数据库
+Wed 03 Jan 2018 18:49:27 INFO views.py 84 304 9024 添加任务到数据库
+Wed 03 Jan 2018 18:49:27 INFO views.py 84 304 9024 添加任务到数据库
+Wed 03 Jan 2018 18:49:27 INFO views.py 84 304 9024 添加任务到数据库
+Wed 03 Jan 2018 18:49:27 INFO views.py 84 304 9024 添加任务到数据库
+Wed 03 Jan 2018 18:49:27 INFO views.py 84 304 9024 添加任务到数据库
+Wed 03 Jan 2018 18:49:27 INFO views.py 84 304 9024 添加任务到数据库
+Wed 03 Jan 2018 18:49:27 INFO views.py 84 304 9024 添加任务到数据库
+Wed 03 Jan 2018 18:49:27 INFO views.py 84 304 9024 添加任务到数据库
+Wed 03 Jan 2018 18:49:27 INFO views.py 84 304 9024 添加任务到数据库
+Wed 03 Jan 2018 18:49:27 INFO views.py 85 304 9024 ACT18282900
+Wed 03 Jan 2018 18:49:27 INFO views.py 85 304 9024 ACT18282900
+Wed 03 Jan 2018 18:49:27 INFO views.py 85 304 9024 ACT18282900
+Wed 03 Jan 2018 18:49:27 INFO views.py 85 304 9024 ACT18282900
+Wed 03 Jan 2018 18:49:27 INFO views.py 85 304 9024 ACT18282900
+Wed 03 Jan 2018 18:49:27 INFO views.py 85 304 9024 ACT18282900
+Wed 03 Jan 2018 18:49:27 INFO views.py 85 304 9024 ACT18282900
+Wed 03 Jan 2018 18:49:27 INFO views.py 85 304 9024 ACT18282900
+Wed 03 Jan 2018 18:49:27 INFO views.py 85 304 9024 ACT18282900
+Wed 03 Jan 2018 18:49:27 INFO views.py 85 304 9024 ACT18282900
+Wed 03 Jan 2018 18:49:27 INFO views.py 85 304 9024 ACT18282900
+Wed 03 Jan 2018 18:49:28 INFO views.py 88 304 9024 任务添加成功,开始爬取
+Wed 03 Jan 2018 18:49:28 INFO views.py 88 304 9024 任务添加成功,开始爬取
+Wed 03 Jan 2018 18:49:28 INFO views.py 88 304 9024 任务添加成功,开始爬取
+Wed 03 Jan 2018 18:49:28 INFO views.py 88 304 9024 任务添加成功,开始爬取
+Wed 03 Jan 2018 18:49:28 INFO views.py 88 304 9024 任务添加成功,开始爬取
+Wed 03 Jan 2018 18:49:28 INFO views.py 88 304 9024 任务添加成功,开始爬取
+Wed 03 Jan 2018 18:49:28 INFO views.py 88 304 9024 任务添加成功,开始爬取
+Wed 03 Jan 2018 18:49:28 INFO views.py 88 304 9024 任务添加成功,开始爬取
+Wed 03 Jan 2018 18:49:28 INFO views.py 88 304 9024 任务添加成功,开始爬取
+Wed 03 Jan 2018 18:49:28 INFO views.py 88 304 9024 任务添加成功,开始爬取
+Wed 03 Jan 2018 18:49:28 INFO views.py 88 304 9024 任务添加成功,开始爬取
