@@ -56,7 +56,7 @@ def tasks(request):
                     pdict = {"1": account, "2": pwd, "3": batchid, "4": batchyear, "5": batchmonth, "6": companyid,
                              "7": customerid, "8": host, "9": port, "10": db}
                     pjson = json.dumps(pdict)
-                    redis_cli.lpush("list", pjson)
+                    redis_cli.lpush("szgslist", pjson)
                     # ss=redis_cli.lpop("list")
                     # print(redis_cli.lpop("list"))
                     # result=run_test_suit.delay(user=account, pwd=pwd, batchid=batchid, batchyear=batchyear, batchmonth=batchmonth,companyid=companyid, customerid=customerid,host=host,port=port,db=db)
