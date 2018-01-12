@@ -63,6 +63,7 @@ def tasks(request):
                     return HttpResponse("job is runing background~")
                 else:
                     return HttpResponse("wrong message")
+
             if post_data['Type'][0] == "CUSTOMERINFO":
                 if post_data['BatchID'] and post_data[
                     'CompanyID'] and post_data['CustomerID'] and post_data[
@@ -93,6 +94,37 @@ def tasks(request):
                     # ss=redis_cli.lpop("list")
                     # print(redis_cli.lpop("list"))
                     # result=run_test_suit.delay(user=account, pwd=pwd, batchid=batchid, batchyear=batchyear, batchmonth=batchmonth,companyid=companyid, customerid=customerid,host=host,port=port,db=db)
+                    return HttpResponse("job is runing background~")
+                else:
+                    return HttpResponse("wrong message")
+
+            if post_data['Type'][0] == "CUSTOMERINVOICE":
+                if post_data['BatchID'] and post_data[
+                    'CompanyID'] and post_data['CustomerID'] and post_data[
+                    'Pwd'] and post_data['User'] and post_data[
+                    'jobname'] and post_data['jobparams']:
+                    user = post_data['User'][0]
+                    pwd = post_data['Pwd'][0]
+                    batchid = post_data['BatchID'][0]
+                    companyid = int(post_data['CompanyID'][0])
+                    customerid = int(post_data['CustomerID'][0])
+                    batchyear = int(post_data['BatchYear'][0])
+                    batchmonth = int(post_data['BatchMonth'][0])
+                    jobname = post_data['jobname'][0]
+                    jobparams = post_data['jobparams'][0]
+
+                    # 获取数据库
+                    host, port, db = get_db(companyid)
+                    # 添加任务
+                    logger.info("添加任务到数据库")
+                    logger.info(db)
+                    add_task(host, port, db, batchid, batchyear, batchmonth, companyid, customerid, "CUSTOMERINVOICE",
+                             jobname, jobparams)
+                    logger.info("任务添加成功,开始爬取")
+                    fphz_dict = {"1": user, "2": pwd, "3": batchid, "4": companyid,
+                                      "5": customerid, "6": host, "7": port, "8": db}
+                    pjson = json.dumps(fphz_dict)
+                    redis_cli.lpush("fphz_list", pjson)
                     return HttpResponse("job is runing background~")
                 else:
                     return HttpResponse("wrong message")
