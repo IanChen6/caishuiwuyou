@@ -49,4 +49,14 @@ def job_finish(host, port, db,batchid,companyid,customerid,status,result):
     foo = cur.callproc(sql, params)
     conn.close()
 
+def cancelling_task(host, port, db, batchid, batchyear, batchmonth, companyid, customerid, type,jobname, jobparam):
+    conn = pymssql.connect(host=host, port=port, user='Python', password='pl,okmPL<OKM', database=db, autocommit=True,
+                           charset='utf8')
+    cur = conn.cursor()
+    sql = '[dbo].[Python_Serivce_Job_Cancel]'
+    params = (batchid, batchyear, batchmonth, companyid, customerid,type,jobname, jobparam)
+    foo = cur.callproc(sql, params)
+    print(foo[-1])
+    conn.close()
+
 

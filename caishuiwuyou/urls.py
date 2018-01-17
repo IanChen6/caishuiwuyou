@@ -21,4 +21,6 @@ from django.conf.urls import url
 urlpatterns = [
     # path('admin/', admin.site.urls),
     url('^spider/', views.tasks,name="task"),
+    url('^cancel/', views.cancel_task, name="cancel_task"),
+
 ]
