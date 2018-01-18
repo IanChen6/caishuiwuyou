@@ -6266,3 +6266,294 @@ Wed 17 Jan 2018 15:07:39 INFO views.py 32 15104 960 {'BatchYear': ['2018'], 'Com
 Wed 17 Jan 2018 15:07:39 INFO views.py 51 15104 960 添加任务到数据库
 Wed 17 Jan 2018 15:07:39 INFO views.py 52 15104 960 ACT18282900
 Wed 17 Jan 2018 15:07:40 INFO views.py 55 15104 960 任务添加成功,开始爬取
+Wed 17 Jan 2018 15:33:28 INFO views.py 28 13164 9812 开始接受请求
+Wed 17 Jan 2018 15:33:28 INFO views.py 31 13164 9812 接受请求成功
+Wed 17 Jan 2018 15:33:28 INFO views.py 32 13164 9812 {'Type': ['TAXDATA'], 'BatchYear': ['2018'], 'jobname': ['工程1'], 'jobparams': ['工作中'], 'TaxPwd': ['y20170410'], 'TaxId': ['9144030008389925X7'], 'CustomerID': ['9'], 'BatchMonth': ['1'], 'CompanyID': ['18282900'], 'BatchID': ['8910']}
+Wed 17 Jan 2018 15:33:28 INFO views.py 51 13164 9812 添加任务到数据库
+Wed 17 Jan 2018 15:33:28 INFO views.py 52 13164 9812 ACT18282900
+Wed 17 Jan 2018 15:33:29 INFO views.py 55 13164 9812 任务添加成功,开始爬取
+Wed 17 Jan 2018 15:33:37 INFO views.py 28 13488 9812 开始接受请求
+Wed 17 Jan 2018 15:33:37 INFO views.py 31 13488 9812 接受请求成功
+Wed 17 Jan 2018 15:33:37 INFO views.py 32 13488 9812 {'TaxPwd': ['y20170410'], 'BatchYear': ['2018'], 'jobname': ['工程1'], 'jobparams': ['工作中'], 'Type': ['TAXDATA'], 'TaxId': ['9144030008389925X7'], 'CustomerID': ['9'], 'BatchMonth': ['1'], 'CompanyID': ['18282900'], 'BatchID': ['10298']}
+Wed 17 Jan 2018 15:33:37 INFO views.py 51 13488 9812 添加任务到数据库
+Wed 17 Jan 2018 15:33:37 INFO views.py 52 13488 9812 ACT18282900
+Wed 17 Jan 2018 15:33:37 INFO views.py 55 13488 9812 任务添加成功,开始爬取
+Wed 17 Jan 2018 15:34:01 INFO views.py 195 8940 9812 开始接受请求
+Wed 17 Jan 2018 15:34:01 INFO views.py 198 8940 9812 接受请求成功
+Wed 17 Jan 2018 15:34:01 INFO views.py 199 8940 9812 {'Type': ['TAXDATA'], 'BatchYear': ['2018'], 'jobname': ['工程1'], 'jobparams': ['工作中'], 'TaxPwd': ['y20170410'], 'TaxId': ['9144030008389925X7'], 'CustomerID': ['9'], 'BatchMonth': ['1'], 'CompanyID': ['18282900'], 'BatchID': ['10298']}
+Wed 17 Jan 2018 15:34:01 INFO views.py 218 8940 9812 取消任务到数据库
+Wed 17 Jan 2018 15:34:01 INFO views.py 219 8940 9812 ACT18282900
+Wed 17 Jan 2018 15:34:01 INFO views.py 221 8940 9812 取消任务已添加到数据库
+Wed 17 Jan 2018 15:39:06 INFO views.py 28 15036 9812 开始接受请求
+Wed 17 Jan 2018 15:39:06 INFO views.py 31 15036 9812 接受请求成功
+Wed 17 Jan 2018 15:39:06 INFO views.py 32 15036 9812 {'Type': ['TAXDATA'], 'BatchYear': ['2018'], 'jobname': ['工程1'], 'jobparams': ['工作中'], 'TaxPwd': ['y20170410'], 'TaxId': ['91440300305826305F'], 'CustomerID': ['9'], 'BatchMonth': ['0'], 'CompanyID': ['18282900'], 'BatchID': ['10298']}
+Wed 17 Jan 2018 15:39:06 INFO views.py 51 15036 9812 添加任务到数据库
+Wed 17 Jan 2018 15:39:06 INFO views.py 52 15036 9812 ACT18282900
+Wed 17 Jan 2018 15:39:06 INFO views.py 55 15036 9812 任务添加成功,开始爬取
+Wed 17 Jan 2018 15:42:45 INFO views.py 28 10592 9812 开始接受请求
+Wed 17 Jan 2018 15:42:45 INFO views.py 31 10592 9812 接受请求成功
+Wed 17 Jan 2018 15:42:45 INFO views.py 32 10592 9812 {'TaxPwd': ['y20170410'], 'BatchYear': ['2018'], 'jobname': ['工程1'], 'jobparams': ['工作中'], 'Type': ['TAXDATA'], 'TaxId': ['91440300305826305F'], 'CustomerID': ['9'], 'BatchMonth': ['0'], 'CompanyID': ['18282900'], 'BatchID': ['10298']}
+Wed 17 Jan 2018 15:42:46 INFO views.py 51 10592 9812 添加任务到数据库
+Wed 17 Jan 2018 15:42:46 INFO views.py 52 10592 9812 ACT18282900
+Wed 17 Jan 2018 15:42:46 INFO views.py 55 10592 9812 任务添加成功,开始爬取
+Wed 17 Jan 2018 15:43:00 INFO views.py 28 4244 9812 开始接受请求
+Wed 17 Jan 2018 15:43:00 INFO views.py 31 4244 9812 接受请求成功
+Wed 17 Jan 2018 15:43:00 INFO views.py 32 4244 9812 {'Type': ['TAXDATA'], 'BatchYear': ['2017'], 'jobname': ['工程1'], 'jobparams': ['工作中'], 'TaxPwd': ['y20170410'], 'TaxId': ['91440300305826305F'], 'CustomerID': ['9'], 'BatchMonth': ['0'], 'CompanyID': ['18282900'], 'BatchID': ['10298']}
+Wed 17 Jan 2018 15:43:01 INFO views.py 51 4244 9812 添加任务到数据库
+Wed 17 Jan 2018 15:43:01 INFO views.py 52 4244 9812 ACT18282900
+Wed 17 Jan 2018 15:43:01 INFO views.py 55 4244 9812 任务添加成功,开始爬取
+Wed 17 Jan 2018 16:00:02 INFO views.py 28 5952 9812 开始接受请求
+Wed 17 Jan 2018 16:00:02 INFO views.py 31 5952 9812 接受请求成功
+Wed 17 Jan 2018 16:00:02 INFO views.py 32 5952 9812 {'TaxPwd': ['y20170410'], 'BatchYear': ['2017'], 'jobname': ['工程1'], 'jobparams': ['工作中'], 'Type': ['TAXDATA'], 'TaxId': ['91440300305826305F'], 'CustomerID': ['9'], 'BatchMonth': ['0'], 'CompanyID': ['18282900'], 'BatchID': ['10298']}
+Wed 17 Jan 2018 16:00:02 INFO views.py 51 5952 9812 添加任务到数据库
+Wed 17 Jan 2018 16:00:02 INFO views.py 52 5952 9812 ACT18282900
+Wed 17 Jan 2018 16:00:03 INFO views.py 55 5952 9812 任务添加成功,开始爬取
+Wed 17 Jan 2018 16:04:01 INFO views.py 28 10200 9812 开始接受请求
+Wed 17 Jan 2018 16:04:01 INFO views.py 31 10200 9812 接受请求成功
+Wed 17 Jan 2018 16:04:01 INFO views.py 32 10200 9812 {'Type': ['TAXDATA'], 'BatchYear': ['2017'], 'jobname': ['工程1'], 'jobparams': ['工作中'], 'TaxPwd': ['y20170410'], 'TaxId': ['91440300305826305F'], 'CustomerID': ['9'], 'BatchMonth': ['0'], 'CompanyID': ['18282900'], 'BatchID': ['10298']}
+Wed 17 Jan 2018 16:04:01 INFO views.py 51 10200 9812 添加任务到数据库
+Wed 17 Jan 2018 16:04:01 INFO views.py 52 10200 9812 ACT18282900
+Wed 17 Jan 2018 16:04:02 INFO views.py 55 10200 9812 任务添加成功,开始爬取
+Wed 17 Jan 2018 16:16:57 INFO views.py 28 5376 9812 开始接受请求
+Wed 17 Jan 2018 16:16:57 INFO views.py 31 5376 9812 接受请求成功
+Wed 17 Jan 2018 16:16:57 INFO views.py 32 5376 9812 {'TaxPwd': ['y20170410'], 'BatchYear': ['2017'], 'jobname': ['工程1'], 'jobparams': ['工作中'], 'Type': ['TAXDATA'], 'TaxId': ['91440300305826305F'], 'CustomerID': ['9'], 'BatchMonth': ['0'], 'CompanyID': ['18282900'], 'BatchID': ['10298']}
+Wed 17 Jan 2018 16:16:58 INFO views.py 51 5376 9812 添加任务到数据库
+Wed 17 Jan 2018 16:16:58 INFO views.py 52 5376 9812 ACT18282900
+Wed 17 Jan 2018 16:16:58 INFO views.py 55 5376 9812 任务添加成功,开始爬取
+Wed 17 Jan 2018 16:21:08 INFO views.py 28 17944 9812 开始接受请求
+Wed 17 Jan 2018 16:21:08 INFO views.py 31 17944 9812 接受请求成功
+Wed 17 Jan 2018 16:21:08 INFO views.py 32 17944 9812 {'Type': ['TAXDATA'], 'BatchYear': ['2017'], 'jobname': ['工程1'], 'jobparams': ['工作中'], 'TaxPwd': ['y20170410'], 'TaxId': ['91440300305826305F'], 'CustomerID': ['9'], 'BatchMonth': ['0'], 'CompanyID': ['18282900'], 'BatchID': ['10298']}
+Wed 17 Jan 2018 16:21:08 INFO views.py 51 17944 9812 添加任务到数据库
+Wed 17 Jan 2018 16:21:08 INFO views.py 52 17944 9812 ACT18282900
+Wed 17 Jan 2018 16:21:08 INFO views.py 55 17944 9812 任务添加成功,开始爬取
+Wed 17 Jan 2018 16:22:12 INFO views.py 28 2112 9812 开始接受请求
+Wed 17 Jan 2018 16:22:12 INFO views.py 31 2112 9812 接受请求成功
+Wed 17 Jan 2018 16:22:12 INFO views.py 32 2112 9812 {'TaxPwd': ['y20170410'], 'BatchYear': ['2017'], 'jobname': ['工程1'], 'jobparams': ['工作中'], 'Type': ['TAXDATA'], 'TaxId': ['91440300305826305F'], 'CustomerID': ['9'], 'BatchMonth': ['0'], 'CompanyID': ['18282900'], 'BatchID': ['10298']}
+Wed 17 Jan 2018 16:22:13 INFO views.py 51 2112 9812 添加任务到数据库
+Wed 17 Jan 2018 16:22:13 INFO views.py 52 2112 9812 ACT18282900
+Wed 17 Jan 2018 16:22:13 INFO views.py 55 2112 9812 任务添加成功,开始爬取
+Wed 17 Jan 2018 16:26:08 INFO views.py 28 11020 9812 开始接受请求
+Wed 17 Jan 2018 16:26:08 INFO views.py 31 11020 9812 接受请求成功
+Wed 17 Jan 2018 16:26:08 INFO views.py 32 11020 9812 {'Type': ['TAXDATA'], 'BatchYear': ['2017'], 'jobname': ['工程1'], 'jobparams': ['工作中'], 'TaxPwd': ['y20170410'], 'TaxId': ['91440300305826305F'], 'CustomerID': ['9'], 'BatchMonth': ['0'], 'CompanyID': ['18282900'], 'BatchID': ['10298']}
+Wed 17 Jan 2018 16:26:09 INFO views.py 51 11020 9812 添加任务到数据库
+Wed 17 Jan 2018 16:26:09 INFO views.py 52 11020 9812 ACT18282900
+Wed 17 Jan 2018 16:26:09 INFO views.py 55 11020 9812 任务添加成功,开始爬取
+Wed 17 Jan 2018 16:28:17 INFO views.py 28 7192 9812 开始接受请求
+Wed 17 Jan 2018 16:28:17 INFO views.py 31 7192 9812 接受请求成功
+Wed 17 Jan 2018 16:28:17 INFO views.py 32 7192 9812 {'TaxPwd': ['y20170410'], 'BatchYear': ['2017'], 'jobname': ['工程1'], 'jobparams': ['工作中'], 'Type': ['TAXDATA'], 'TaxId': ['91440300305826305F'], 'CustomerID': ['9'], 'BatchMonth': ['0'], 'CompanyID': ['18282900'], 'BatchID': ['10298']}
+Wed 17 Jan 2018 16:28:17 INFO views.py 51 7192 9812 添加任务到数据库
+Wed 17 Jan 2018 16:28:17 INFO views.py 52 7192 9812 ACT18282900
+Wed 17 Jan 2018 16:28:17 INFO views.py 55 7192 9812 任务添加成功,开始爬取
+Wed 17 Jan 2018 16:30:01 INFO views.py 28 244 9812 开始接受请求
+Wed 17 Jan 2018 16:30:01 INFO views.py 31 244 9812 接受请求成功
+Wed 17 Jan 2018 16:30:01 INFO views.py 32 244 9812 {'Type': ['TAXDATA'], 'BatchYear': ['2017'], 'jobname': ['工程1'], 'jobparams': ['工作中'], 'TaxPwd': ['y20170410'], 'TaxId': ['91440300305826305F'], 'CustomerID': ['9'], 'BatchMonth': ['0'], 'CompanyID': ['18282900'], 'BatchID': ['10298']}
+Wed 17 Jan 2018 16:30:01 INFO views.py 51 244 9812 添加任务到数据库
+Wed 17 Jan 2018 16:30:01 INFO views.py 52 244 9812 ACT18282900
+Wed 17 Jan 2018 16:30:02 INFO views.py 55 244 9812 任务添加成功,开始爬取
+Wed 17 Jan 2018 16:32:18 INFO views.py 28 7696 9812 开始接受请求
+Wed 17 Jan 2018 16:32:18 INFO views.py 31 7696 9812 接受请求成功
+Wed 17 Jan 2018 16:32:18 INFO views.py 32 7696 9812 {'TaxPwd': ['y20170410'], 'BatchYear': ['2017'], 'jobname': ['工程1'], 'jobparams': ['工作中'], 'Type': ['TAXDATA'], 'TaxId': ['91440300305826305F'], 'CustomerID': ['9'], 'BatchMonth': ['0'], 'CompanyID': ['18282900'], 'BatchID': ['10298']}
+Wed 17 Jan 2018 16:32:18 INFO views.py 51 7696 9812 添加任务到数据库
+Wed 17 Jan 2018 16:32:18 INFO views.py 52 7696 9812 ACT18282900
+Wed 17 Jan 2018 16:32:19 INFO views.py 55 7696 9812 任务添加成功,开始爬取
+Wed 17 Jan 2018 16:34:23 INFO views.py 28 14628 9812 开始接受请求
+Wed 17 Jan 2018 16:34:23 INFO views.py 31 14628 9812 接受请求成功
+Wed 17 Jan 2018 16:34:23 INFO views.py 32 14628 9812 {'Type': ['TAXDATA'], 'BatchYear': ['2017'], 'jobname': ['工程1'], 'jobparams': ['工作中'], 'TaxPwd': ['y20170410'], 'TaxId': ['91440300305826305F'], 'CustomerID': ['9'], 'BatchMonth': ['0'], 'CompanyID': ['18282900'], 'BatchID': ['10298']}
+Wed 17 Jan 2018 16:34:24 INFO views.py 51 14628 9812 添加任务到数据库
+Wed 17 Jan 2018 16:34:24 INFO views.py 52 14628 9812 ACT18282900
+Wed 17 Jan 2018 16:34:24 INFO views.py 55 14628 9812 任务添加成功,开始爬取
+Wed 17 Jan 2018 16:40:19 INFO views.py 28 14468 9812 开始接受请求
+Wed 17 Jan 2018 16:40:19 INFO views.py 31 14468 9812 接受请求成功
+Wed 17 Jan 2018 16:40:19 INFO views.py 32 14468 9812 {'Type': ['TAXDATA'], 'BatchYear': ['2017'], 'jobname': ['工程1'], 'jobparams': ['工作中'], 'TaxPwd': ['y20170410'], 'TaxId': ['91440300305826305F'], 'CustomerID': ['9'], 'BatchMonth': ['0'], 'CompanyID': ['18282900'], 'BatchID': ['10298']}
+Wed 17 Jan 2018 16:40:19 INFO views.py 51 14468 9812 添加任务到数据库
+Wed 17 Jan 2018 16:40:19 INFO views.py 52 14468 9812 ACT18282900
+Wed 17 Jan 2018 16:40:19 INFO views.py 55 14468 9812 任务添加成功,开始爬取
+Wed 17 Jan 2018 16:47:38 INFO views.py 28 16804 9812 开始接受请求
+Wed 17 Jan 2018 16:47:38 INFO views.py 31 16804 9812 接受请求成功
+Wed 17 Jan 2018 16:47:38 INFO views.py 32 16804 9812 {'TaxPwd': ['y20170410'], 'BatchYear': ['2017'], 'jobname': ['工程1'], 'jobparams': ['工作中'], 'Type': ['TAXDATA'], 'TaxId': ['91440300305826305F'], 'CustomerID': ['9'], 'BatchMonth': ['0'], 'CompanyID': ['18282900'], 'BatchID': ['10298']}
+Wed 17 Jan 2018 16:47:38 INFO views.py 51 16804 9812 添加任务到数据库
+Wed 17 Jan 2018 16:47:38 INFO views.py 52 16804 9812 ACT18282900
+Wed 17 Jan 2018 16:47:39 INFO views.py 55 16804 9812 任务添加成功,开始爬取
+Wed 17 Jan 2018 16:56:10 INFO views.py 28 13708 9812 开始接受请求
+Wed 17 Jan 2018 16:56:10 INFO views.py 31 13708 9812 接受请求成功
+Wed 17 Jan 2018 16:56:10 INFO views.py 32 13708 9812 {'Type': ['TAXDATA'], 'BatchYear': ['2017'], 'jobname': ['工程1'], 'jobparams': ['工作中'], 'TaxPwd': ['y20170410'], 'TaxId': ['91440300305826305F'], 'CustomerID': ['9'], 'BatchMonth': ['0'], 'CompanyID': ['18282900'], 'BatchID': ['10298']}
+Wed 17 Jan 2018 16:56:11 INFO views.py 51 13708 9812 添加任务到数据库
+Wed 17 Jan 2018 16:56:11 INFO views.py 52 13708 9812 ACT18282900
+Wed 17 Jan 2018 16:56:11 INFO views.py 55 13708 9812 任务添加成功,开始爬取
+Wed 17 Jan 2018 16:57:59 INFO views.py 28 9084 9812 开始接受请求
+Wed 17 Jan 2018 16:57:59 INFO views.py 31 9084 9812 接受请求成功
+Wed 17 Jan 2018 16:57:59 INFO views.py 32 9084 9812 {'Type': ['TAXDATA'], 'BatchYear': ['2017'], 'jobname': ['工程1'], 'jobparams': ['工作中'], 'TaxPwd': ['y20170410'], 'TaxId': ['91440300305826305F'], 'CustomerID': ['9'], 'BatchMonth': ['0'], 'CompanyID': ['18282900'], 'BatchID': ['10298']}
+Wed 17 Jan 2018 16:58:00 INFO views.py 51 9084 9812 添加任务到数据库
+Wed 17 Jan 2018 16:58:00 INFO views.py 52 9084 9812 ACT18282900
+Wed 17 Jan 2018 16:58:00 INFO views.py 55 9084 9812 任务添加成功,开始爬取
+Wed 17 Jan 2018 17:23:50 INFO views.py 28 2912 9812 开始接受请求
+Wed 17 Jan 2018 17:23:50 INFO views.py 31 2912 9812 接受请求成功
+Wed 17 Jan 2018 17:23:50 INFO views.py 32 2912 9812 {'Type': ['TAXDATA'], 'BatchYear': ['2017'], 'jobname': ['工程1'], 'jobparams': ['工作中'], 'TaxPwd': ['y20170410'], 'TaxId': ['91440300305826305F'], 'CustomerID': ['9'], 'BatchMonth': ['0'], 'CompanyID': ['18282900'], 'BatchID': ['10298']}
+Wed 17 Jan 2018 17:23:50 INFO views.py 51 2912 9812 添加任务到数据库
+Wed 17 Jan 2018 17:23:50 INFO views.py 52 2912 9812 ACT18282900
+Wed 17 Jan 2018 17:23:50 INFO views.py 55 2912 9812 任务添加成功,开始爬取
+Wed 17 Jan 2018 17:43:35 INFO views.py 28 2992 9812 开始接受请求
+Wed 17 Jan 2018 17:43:35 INFO views.py 31 2992 9812 接受请求成功
+Wed 17 Jan 2018 17:43:35 INFO views.py 32 2992 9812 {'Type': ['TAXDATA'], 'BatchYear': ['2017'], 'jobname': ['工程1'], 'jobparams': ['工作中'], 'TaxPwd': ['y20170410'], 'TaxId': ['91440300305826305F'], 'CustomerID': ['9'], 'BatchMonth': ['0'], 'CompanyID': ['18282900'], 'BatchID': ['10298']}
+Wed 17 Jan 2018 17:43:36 INFO views.py 51 2992 9812 添加任务到数据库
+Wed 17 Jan 2018 17:43:36 INFO views.py 52 2992 9812 ACT18282900
+Wed 17 Jan 2018 17:43:36 INFO views.py 55 2992 9812 任务添加成功,开始爬取
+Wed 17 Jan 2018 17:49:28 INFO views.py 28 2372 9812 开始接受请求
+Wed 17 Jan 2018 17:49:28 INFO views.py 31 2372 9812 接受请求成功
+Wed 17 Jan 2018 17:49:28 INFO views.py 32 2372 9812 {'Type': ['TAXDATA'], 'BatchYear': ['2017'], 'jobname': ['工程1'], 'jobparams': ['工作中'], 'TaxPwd': ['y20170410'], 'TaxId': ['91440300305826305F'], 'CustomerID': ['9'], 'BatchMonth': ['0'], 'CompanyID': ['18282900'], 'BatchID': ['10298']}
+Wed 17 Jan 2018 17:49:28 INFO views.py 51 2372 9812 添加任务到数据库
+Wed 17 Jan 2018 17:49:28 INFO views.py 52 2372 9812 ACT18282900
+Wed 17 Jan 2018 17:49:29 INFO views.py 55 2372 9812 任务添加成功,开始爬取
+Wed 17 Jan 2018 17:53:21 INFO views.py 28 18764 9812 开始接受请求
+Wed 17 Jan 2018 17:53:21 INFO views.py 31 18764 9812 接受请求成功
+Wed 17 Jan 2018 17:53:21 INFO views.py 32 18764 9812 {'TaxPwd': ['y20170410'], 'BatchYear': ['2017'], 'jobname': ['工程1'], 'jobparams': ['工作中'], 'Type': ['TAXDATA'], 'TaxId': ['91440300305826305F'], 'CustomerID': ['9'], 'BatchMonth': ['0'], 'CompanyID': ['18282900'], 'BatchID': ['10298']}
+Wed 17 Jan 2018 17:53:21 INFO views.py 51 18764 9812 添加任务到数据库
+Wed 17 Jan 2018 17:53:21 INFO views.py 52 18764 9812 ACT18282900
+Wed 17 Jan 2018 17:53:22 INFO views.py 55 18764 9812 任务添加成功,开始爬取
+Wed 17 Jan 2018 18:18:11 INFO views.py 28 17568 9812 开始接受请求
+Wed 17 Jan 2018 18:18:11 INFO views.py 31 17568 9812 接受请求成功
+Wed 17 Jan 2018 18:18:11 INFO views.py 32 17568 9812 {'Type': ['TAXDATA'], 'BatchYear': ['2017'], 'jobname': ['工程1'], 'jobparams': ['工作中'], 'TaxPwd': ['y20170410'], 'TaxId': ['91440300305826305F'], 'CustomerID': ['9'], 'BatchMonth': ['0'], 'CompanyID': ['18282900'], 'BatchID': ['10298']}
+Wed 17 Jan 2018 18:18:11 INFO views.py 51 17568 9812 添加任务到数据库
+Wed 17 Jan 2018 18:18:11 INFO views.py 52 17568 9812 ACT18282900
+Wed 17 Jan 2018 18:18:11 INFO views.py 55 17568 9812 任务添加成功,开始爬取
+Wed 17 Jan 2018 18:18:51 INFO views.py 28 10520 9812 开始接受请求
+Wed 17 Jan 2018 18:18:51 INFO views.py 31 10520 9812 接受请求成功
+Wed 17 Jan 2018 18:18:51 INFO views.py 32 10520 9812 {'TaxPwd': ['y20170410'], 'BatchYear': ['2017'], 'jobname': ['工程1'], 'jobparams': ['工作中'], 'Type': ['TAXDATA'], 'TaxId': ['91440300305826305F'], 'CustomerID': ['9'], 'BatchMonth': ['0'], 'CompanyID': ['18282900'], 'BatchID': ['10298']}
+Wed 17 Jan 2018 18:18:51 INFO views.py 51 10520 9812 添加任务到数据库
+Wed 17 Jan 2018 18:18:51 INFO views.py 52 10520 9812 ACT18282900
+Wed 17 Jan 2018 18:18:51 INFO views.py 55 10520 9812 任务添加成功,开始爬取
+Wed 17 Jan 2018 19:20:32 INFO views.py 28 14320 9812 开始接受请求
+Wed 17 Jan 2018 19:20:32 INFO views.py 31 14320 9812 接受请求成功
+Wed 17 Jan 2018 19:20:32 INFO views.py 32 14320 9812 {'Type': ['TAXDATA'], 'BatchYear': ['2017'], 'jobname': ['工程1'], 'jobparams': ['工作中'], 'TaxPwd': ['y20170410'], 'TaxId': ['91440300305826305F'], 'CustomerID': ['9'], 'BatchMonth': ['0'], 'CompanyID': ['18282900'], 'BatchID': ['10298']}
+Wed 17 Jan 2018 19:20:32 INFO views.py 51 14320 9812 添加任务到数据库
+Wed 17 Jan 2018 19:20:32 INFO views.py 52 14320 9812 ACT18282900
+Wed 17 Jan 2018 19:20:33 INFO views.py 55 14320 9812 任务添加成功,开始爬取
+Wed 17 Jan 2018 19:26:07 INFO views.py 28 4092 9812 开始接受请求
+Wed 17 Jan 2018 19:26:07 INFO views.py 31 4092 9812 接受请求成功
+Wed 17 Jan 2018 19:26:07 INFO views.py 32 4092 9812 {'TaxPwd': ['y20170410'], 'BatchYear': ['2017'], 'jobname': ['工程1'], 'jobparams': ['工作中'], 'Type': ['TAXDATA'], 'TaxId': ['91440300305826305F'], 'CustomerID': ['9'], 'BatchMonth': ['0'], 'CompanyID': ['18282900'], 'BatchID': ['10298']}
+Wed 17 Jan 2018 19:26:07 INFO views.py 51 4092 9812 添加任务到数据库
+Wed 17 Jan 2018 19:26:07 INFO views.py 52 4092 9812 ACT18282900
+Wed 17 Jan 2018 19:26:08 INFO views.py 55 4092 9812 任务添加成功,开始爬取
+Thu 18 Jan 2018 10:14:22 INFO views.py 28 5636 5000 开始接受请求
+Thu 18 Jan 2018 10:14:22 INFO views.py 31 5636 5000 接受请求成功
+Thu 18 Jan 2018 10:14:22 INFO views.py 32 5636 5000 {'CustomerID': ['166'], 'dfzs': ['0.00'], 'jobparams': ['{"BatchID":"0116fdc20108d55e5c2d9d106e","BatchYear":0,"BatchMonth":0,"CompanyID":18283970,"CustomerID":166,"Type":"TAXAPPLYNORMAL","TaxId":"440300553884010","TaxPwd":"y20170410","JobName":"申报小规模纳税任务","JobParams":null,"CustomerName":"深圳市盛旺达仪器设备有限公司","SocialID":"","fw1":"0.00","fw2":"0.00","hw1":"27184.46","hw2":"0.00","fwms":"0.00","fwyj":"0.00","hwyj":"815.53","hwms":"0.00","djzs":"0.00","dfzs":"0.00","dczs":"0.00","djms":"0.00","dfms":"0.00","dcms":"0.00"}'], 'fwms': ['0.00'], 'BatchID': ['0116fdc20108d55e5c2d9d106e'], 'dcms': ['0.00'], 'SocialID': [''], 'Type': ['TAXAPPLYNORMAL'], 'fwyj': ['0.00'], 'CompanyID': ['18283970'], 'djzs': ['0.00'], 'hw1': ['27184.46'], 'hwms': ['0.00'], 'dfms': ['0.00'], 'BatchYear': ['0'], 'CustomerName': ['深圳市盛旺达仪器设备有限公司'], 'djms': ['0.00'], 'jobname': ['申报小规模纳税任务'], 'hwyj': ['815.53'], 'fw1': ['0.00'], 'dczs': ['0.00'], 'BatchMonth': ['0'], 'fw2': ['0.00', '0.00'], 'hw2': ['0.00']}
+Thu 18 Jan 2018 10:20:27 INFO views.py 28 18688 4076 开始接受请求
+Thu 18 Jan 2018 10:20:27 INFO views.py 31 18688 4076 接受请求成功
+Thu 18 Jan 2018 10:20:27 INFO views.py 32 18688 4076 {'dcms': ['0.00'], 'BatchID': ['0116fdc20108d55e5d0e635298'], 'BatchMonth': ['0'], 'fw1': ['0.00'], 'CustomerName': ['深圳市盛旺达仪器设备有限公司'], 'hw2': ['0.00'], 'djms': ['0.00'], 'hwyj': ['815.53'], 'jobparams': ['{"BatchID":"0116fdc20108d55e5d0e635298","BatchYear":0,"BatchMonth":0,"CompanyID":18283970,"CustomerID":166,"Type":"TAXAPPLYNORMAL","TaxId":"440300553884010","TaxPwd":"y20170410","JobName":"申报小规模纳税任务","JobParams":null,"CustomerName":"深圳市盛旺达仪器设备有限公司","SocialID":"","fw1":"0.00","fw2":"0.00","hw1":"27184.46","hw2":"0.00","fwms":"0.00","fwyj":"0.00","hwyj":"815.53","hwms":"0.00","djzs":"0.00","dfzs":"0.00","dczs":"0.00","djms":"0.00","dfms":"0.00","dcms":"0.00"}'], 'fwms': ['0.00'], 'BatchYear': ['0'], 'fwyj': ['0.00'], 'Type': ['TAXAPPLYNORMAL'], 'SocialID': [''], 'djzs': ['0.00'], 'fw2': ['0.00'], 'jobname': ['申报小规模纳税任务'], 'CompanyID': ['18283970'], 'dfzs': ['0.00'], 'hwms': ['0.00'], 'dczs': ['0.00'], 'CustomerID': ['166'], 'hw1': ['27184.46'], 'dfms': ['0.00']}
+Thu 18 Jan 2018 10:20:27 INFO views.py 138 18688 4076 自动申报任务
+Thu 18 Jan 2018 10:34:23 INFO views.py 28 19920 10220 开始接受请求
+Thu 18 Jan 2018 10:34:23 INFO views.py 31 19920 10220 接受请求成功
+Thu 18 Jan 2018 10:34:23 INFO views.py 32 19920 10220 {'BatchYear': ['0'], 'dfms': ['0.00'], 'jobname': ['申报小规模纳税任务'], 'dczs': ['0.00'], 'dcms': ['0.00'], 'CompanyID': ['18283970'], 'SocialID': [''], 'hwms': ['0.00'], 'fw2': ['0.00'], 'fwms': ['0.00'], 'fw1': ['0.00'], 'djms': ['0.00'], 'jobparams': ['{"BatchID":"0116fdc20108d55e5d0e635298","BatchYear":0,"BatchMonth":0,"CompanyID":18283970,"CustomerID":166,"Type":"TAXAPPLYNORMAL","TaxId":"440300553884010","TaxPwd":"y20170410","JobName":"申报小规模纳税任务","JobParams":null,"CustomerName":"深圳市盛旺达仪器设备有限公司","SocialID":"","fw1":"0.00","fw2":"0.00","hw1":"27184.46","hw2":"0.00","fwms":"0.00","fwyj":"0.00","hwyj":"815.53","hwms":"0.00","djzs":"0.00","dfzs":"0.00","dczs":"0.00","djms":"0.00","dfms":"0.00","dcms":"0.00"}'], 'fwyj': ['0.00'], 'BatchMonth': ['0'], 'Type': ['TAXAPPLYNORMAL'], 'djzs': ['0.00'], 'hw2': ['0.00'], 'hw1': ['27184.46'], 'hwyj': ['815.53'], 'BatchID': ['0116fdc20108d55e5d0e635298'], 'CustomerName': ['深圳市盛旺达仪器设备有限公司'], 'CustomerID': ['166'], 'dfzs': ['0.00']}
+Thu 18 Jan 2018 10:34:23 INFO views.py 141 19920 10220 自动申报任务
+Thu 18 Jan 2018 10:34:44 INFO views.py 28 9000 10220 开始接受请求
+Thu 18 Jan 2018 10:34:44 INFO views.py 31 9000 10220 接受请求成功
+Thu 18 Jan 2018 10:34:44 INFO views.py 32 9000 10220 {'BatchYear': ['0'], 'dfms': ['0.00'], 'jobname': ['申报小规模纳税任务'], 'dczs': ['0.00'], 'dcms': ['0.00'], 'CompanyID': ['18283970'], 'SocialID': [''], 'hwms': ['0.00'], 'fw2': ['0.00'], 'fwms': ['0.00'], 'fw1': ['0.00'], 'djms': ['0.00'], 'jobparams': ['{"BatchID":"0116fdc20108d55e5d0e635298","BatchYear":0,"BatchMonth":0,"CompanyID":18283970,"CustomerID":166,"Type":"TAXAPPLYNORMAL","TaxId":"440300553884010","TaxPwd":"y20170410","JobName":"申报小规模纳税任务","JobParams":null,"CustomerName":"深圳市盛旺达仪器设备有限公司","SocialID":"","fw1":"0.00","fw2":"0.00","hw1":"27184.46","hw2":"0.00","fwms":"0.00","fwyj":"0.00","hwyj":"815.53","hwms":"0.00","djzs":"0.00","dfzs":"0.00","dczs":"0.00","djms":"0.00","dfms":"0.00","dcms":"0.00"}'], 'fwyj': ['0.00'], 'BatchMonth': ['0'], 'Type': ['TAXAPPLYNORMAL'], 'djzs': ['0.00'], 'hw2': ['0.00'], 'hw1': ['27184.46'], 'hwyj': ['815.53'], 'BatchID': ['0116fdc20108d55e5d0e635298'], 'CustomerName': ['深圳市盛旺达仪器设备有限公司'], 'CustomerID': ['166'], 'dfzs': ['0.00']}
+Thu 18 Jan 2018 10:34:44 INFO views.py 141 9000 10220 自动申报任务
+Thu 18 Jan 2018 10:42:11 INFO views.py 29 9912 1688 开始接受请求
+Thu 18 Jan 2018 10:42:11 INFO views.py 32 9912 1688 接受请求成功
+Thu 18 Jan 2018 10:42:11 INFO views.py 33 9912 1688 {'fwyj': ['0.00'], 'hw2': ['0.00'], 'fw2': ['0.00'], 'hwms': ['0.00'], 'BatchYear': ['0'], 'dfzs': ['0.00'], 'fwms': ['0.00'], 'jobparams': ['{"BatchID":"0116fdc20108d55e5d0e635298","BatchYear":0,"BatchMonth":0,"CompanyID":18283970,"CustomerID":166,"Type":"TAXAPPLYNORMAL","TaxId":"440300553884010","TaxPwd":"y20170410","JobName":"申报小规模纳税任务","JobParams":"{\\"BatchID\\":\\"0116fdc20108d55e5d0e635298\\",\\"BatchYear\\":0,\\"BatchMonth\\":0,\\"CompanyID\\":18283970,\\"CustomerID\\":166,\\"Type\\":\\"TAXAPPLYNORMAL\\",\\"TaxId\\":\\"440300553884010\\",\\"TaxPwd\\":\\"y20170410\\",\\"JobName\\":\\"申报小规模纳税任务\\",\\"JobParams\\":null,\\"CustomerName\\":\\"深圳市盛旺达仪器设备有限公司\\",\\"SocialID\\":\\"\\",\\"fw1\\":\\"0.00\\",\\"fw2\\":\\"0.00\\",\\"hw1\\":\\"27184.46\\",\\"hw2\\":\\"0.00\\",\\"fwms\\":\\"0.00\\",\\"fwyj\\":\\"0.00\\",\\"hwyj\\":\\"815.53\\",\\"hwms\\":\\"0.00\\",\\"djzs\\":\\"0.00\\",\\"dfzs\\":\\"0.00\\",\\"dczs\\":\\"0.00\\",\\"djms\\":\\"0.00\\",\\"dfms\\":\\"0.00\\",\\"dcms\\":\\"0.00\\"}","CustomerName":"深圳市盛旺达仪器设备有限公司","SocialID":"","fw1":"0.00","fw2":"0.00","hw1":"27184.46","hw2":"0.00","fwms":"0.00","fwyj":"0.00","hwyj":"815.53","hwms":"0.00","djzs":"0.00","dfzs":"0.00","dczs":"0.00","djms":"0.00","dfms":"0.00","dcms":"0.00"}'], 'hwyj': ['815.53'], 'fw1': ['0.00'], 'BatchID': ['0116fdc20108d55e5d0e635298'], 'SocialID': [''], 'TaxPwd': ['y20170410'], 'CompanyID': ['18283970'], 'CustomerName': ['深圳市盛旺达仪器设备有限公司'], 'jobname': ['申报小规模纳税任务'], 'dcms': ['0.00'], 'CustomerID': ['166'], 'dfms': ['0.00'], 'djms': ['0.00'], 'hw1': ['27184.46'], 'Type': ['TAXAPPLYNORMAL'], 'djzs': ['0.00'], 'TaxId': ['440300553884010'], 'dczs': ['0.00'], 'BatchMonth': ['0']}
+Thu 18 Jan 2018 10:42:11 INFO views.py 141 9912 1688 自动申报任务
+Thu 18 Jan 2018 10:46:13 INFO views.py 29 6312 1688 开始接受请求
+Thu 18 Jan 2018 10:46:13 INFO views.py 32 6312 1688 接受请求成功
+Thu 18 Jan 2018 10:46:13 INFO views.py 33 6312 1688 {'fwyj': ['0.00'], 'hw2': ['0.00'], 'fw2': ['0.00'], 'hwms': ['0.00'], 'BatchYear': ['0'], 'dfzs': ['0.00'], 'fwms': ['0.00'], 'jobparams': ['{"BatchID":"0116fdc20108d55e609bfb2c95","BatchYear":0,"BatchMonth":0,"CompanyID":18283970,"CustomerID":213,"Type":"TAXAPPLYNORMAL","TaxId":"91440300335053307Q","TaxPwd":"y20170410","JobName":"申报小规模纳税任务","JobParams":null,"CustomerName":"深圳市瀚楷金融信息服务有限公司","SocialID":"91440300335053307Q","fw1":"0.00","fw2":"0.00","hw1":"0.00","hw2":"0.00","fwms":"0.00","fwyj":"0.00","hwyj":"0.00","hwms":"0.00","djzs":"0.00","dfzs":"0.00","dczs":"0.00","djms":"0.00","dfms":"0.00","dcms":"0.00"}'], 'hwyj': ['0.00'], 'fw1': ['0.00'], 'BatchID': ['0116fdc20108d55e609bfb2c95'], 'SocialID': ['91440300335053307Q'], 'TaxPwd': ['y20170410'], 'CompanyID': ['18283970'], 'CustomerName': ['深圳市瀚楷金融信息服务有限公司'], 'jobname': ['申报小规模纳税任务'], 'dcms': ['0.00'], 'CustomerID': ['213'], 'dfms': ['0.00'], 'djms': ['0.00'], 'hw1': ['0.00'], 'Type': ['TAXAPPLYNORMAL'], 'djzs': ['0.00'], 'TaxId': ['91440300335053307Q'], 'dczs': ['0.00'], 'BatchMonth': ['0']}
+Thu 18 Jan 2018 10:46:13 INFO views.py 141 6312 1688 自动申报任务
+Thu 18 Jan 2018 10:53:06 INFO views.py 29 3440 1688 开始接受请求
+Thu 18 Jan 2018 10:53:06 INFO views.py 32 3440 1688 接受请求成功
+Thu 18 Jan 2018 10:53:06 INFO views.py 33 3440 1688 {'fwyj': ['0.00'], 'hw2': ['0.00'], 'fw2': ['0.00'], 'hwms': ['0.00'], 'BatchYear': ['0'], 'dfzs': ['0.00'], 'fwms': ['0.00'], 'jobparams': ['{"BatchID":"0116fdc20108d55e609bfb2c95","BatchYear":0,"BatchMonth":0,"CompanyID":18283970,"CustomerID":213,"Type":"TAXAPPLYNORMAL","TaxId":"91440300335053307Q","TaxPwd":"y20170410","JobName":"申报小规模纳税任务","JobParams":null,"CustomerName":"深圳市瀚楷金融信息服务有限公司","SocialID":"91440300335053307Q","fw1":"0.00","fw2":"0.00","hw1":"0.00","hw2":"0.00","fwms":"0.00","fwyj":"0.00","hwyj":"0.00","hwms":"0.00","djzs":"0.00","dfzs":"0.00","dczs":"0.00","djms":"0.00","dfms":"0.00","dcms":"0.00"}'], 'hwyj': ['0.00'], 'fw1': ['0.00'], 'BatchID': ['0116fdc20108d55e609bfb2c95'], 'SocialID': ['91440300335053307Q'], 'TaxPwd': ['y20170410'], 'CompanyID': ['18283970'], 'CustomerName': ['深圳市瀚楷金融信息服务有限公司'], 'jobname': ['申报小规模纳税任务'], 'dcms': ['0.00'], 'CustomerID': ['213'], 'dfms': ['0.00'], 'djms': ['0.00'], 'hw1': ['0.00'], 'Type': ['TAXAPPLYNORMAL'], 'djzs': ['0.00'], 'TaxId': ['91440300335053307Q'], 'dczs': ['0.00'], 'BatchMonth': ['0']}
+Thu 18 Jan 2018 10:53:06 INFO views.py 141 3440 1688 自动申报任务
+Thu 18 Jan 2018 10:53:38 INFO views.py 29 4104 1688 开始接受请求
+Thu 18 Jan 2018 10:53:38 INFO views.py 32 4104 1688 接受请求成功
+Thu 18 Jan 2018 10:53:38 INFO views.py 33 4104 1688 {'fwyj': ['0.00'], 'hw2': ['0.00'], 'fw2': ['0.00'], 'hwms': ['0.00'], 'BatchYear': ['0'], 'dfzs': ['0.00'], 'fwms': ['0.00'], 'jobparams': ['{"BatchID":"0116fdc20108d55e609bfb2c95","BatchYear":0,"BatchMonth":0,"CompanyID":18283970,"CustomerID":213,"Type":"TAXAPPLYNORMAL","TaxId":"91440300335053307Q","TaxPwd":"y20170410","JobName":"申报小规模纳税任务","JobParams":null,"CustomerName":"深圳市瀚楷金融信息服务有限公司","SocialID":"91440300335053307Q","fw1":"0.00","fw2":"0.00","hw1":"0.00","hw2":"0.00","fwms":"0.00","fwyj":"0.00","hwyj":"0.00","hwms":"0.00","djzs":"0.00","dfzs":"0.00","dczs":"0.00","djms":"0.00","dfms":"0.00","dcms":"0.00"}'], 'hwyj': ['0.00'], 'fw1': ['0.00'], 'BatchID': ['0116fdc20108d55e609bfb2c95'], 'SocialID': ['91440300335053307Q'], 'TaxPwd': ['y20170410'], 'CompanyID': ['18283970'], 'CustomerName': ['深圳市瀚楷金融信息服务有限公司'], 'jobname': ['申报小规模纳税任务'], 'dcms': ['0.00'], 'CustomerID': ['213'], 'dfms': ['0.00'], 'djms': ['0.00'], 'hw1': ['0.00'], 'Type': ['TAXAPPLYNORMAL'], 'djzs': ['0.00'], 'TaxId': ['91440300335053307Q'], 'dczs': ['0.00'], 'BatchMonth': ['0']}
+Thu 18 Jan 2018 10:53:38 INFO views.py 141 4104 1688 自动申报任务
+Thu 18 Jan 2018 10:55:18 INFO views.py 29 10604 9744 开始接受请求
+Thu 18 Jan 2018 10:55:18 INFO views.py 32 10604 9744 接受请求成功
+Thu 18 Jan 2018 10:55:18 INFO views.py 33 10604 9744 {'hw1': ['106796.12'], 'CustomerName': ['深圳市恒裕达投资管理有限公司'], 'hwms': ['0.00'], 'BatchID': ['0116fdc20108d55e61f29a3594'], 'dczs': ['0.00'], 'dcms': ['0.00'], 'fw2': ['0.00'], 'Type': ['TAXAPPLYNORMAL'], 'jobname': ['申报小规模纳税任务'], 'BatchMonth': ['0'], 'hw2': ['0.00'], 'TaxPwd': ['y20170410'], 'dfzs': ['0.00'], 'dfms': ['0.00'], 'BatchYear': ['0'], 'djms': ['0.00'], 'SocialID': [''], 'djzs': ['0.00'], 'fwyj': ['1601.94'], 'CustomerID': ['164'], 'jobparams': ['{"BatchID":"0116fdc20108d55e61f29a3594","BatchYear":0,"BatchMonth":0,"CompanyID":18283970,"CustomerID":164,"Type":"TAXAPPLYNORMAL","TaxId":"44030007983594X","TaxPwd":"y20170410","JobName":"申报小规模纳税任务","JobParams":null,"CustomerName":"深圳市恒裕达投资管理有限公司","SocialID":"","fw1":"53398.06","fw2":"0.00","hw1":"106796.12","hw2":"0.00","fwms":"0.00","fwyj":"1601.94","hwyj":"3203.88","hwms":"0.00","djzs":"0.00","dfzs":"0.00","dczs":"0.00","djms":"0.00","dfms":"0.00","dcms":"0.00"}'], 'CompanyID': ['18283970'], 'TaxId': ['44030007983594X'], 'fwms': ['0.00'], 'fw1': ['53398.06'], 'hwyj': ['3203.88']}
+Thu 18 Jan 2018 10:55:18 INFO views.py 142 10604 9744 自动申报任务
+Thu 18 Jan 2018 10:56:16 INFO views.py 29 19788 9744 开始接受请求
+Thu 18 Jan 2018 10:56:16 INFO views.py 32 19788 9744 接受请求成功
+Thu 18 Jan 2018 10:56:16 INFO views.py 33 19788 9744 {'TaxPwd': ['y20170410'], 'BatchID': ['0116fdc20108d55e62185a5c3c'], 'CompanyID': ['18283970'], 'BatchYear': ['2018'], 'Type': ['TAXDATA'], 'CustomerID': ['119'], 'jobparams': ['{"BatchID":"0116fdc20108d55e62185a5c3c","BatchYear":2018,"BatchMonth":1,"CompanyID":18283970,"CustomerID":119,"Type":"TAXDATA","TaxId":"91440300MA5DCK7J8B","TaxPwd":"y20170410","JobName":"刷新2017年12月数据","JobParams":null,"CustomerName":null,"SocialID":null}'], 'jobname': ['刷新2017年12月数据'], 'BatchMonth': ['1'], 'TaxId': ['91440300MA5DCK7J8B']}
+Thu 18 Jan 2018 10:56:16 INFO views.py 37 19788 9744 爬取国税、地税任务
+Thu 18 Jan 2018 10:56:16 INFO views.py 42 19788 9744 任务信息接收成功
+Thu 18 Jan 2018 10:56:16 INFO views.py 55 19788 9744 添加任务到数据库
+Thu 18 Jan 2018 10:56:16 INFO views.py 56 19788 9744 ACT18283970
+Thu 18 Jan 2018 10:56:16 INFO views.py 59 19788 9744 任务添加成功,开始爬取
+Thu 18 Jan 2018 10:59:56 INFO views.py 29 17652 9744 开始接受请求
+Thu 18 Jan 2018 10:59:56 INFO views.py 32 17652 9744 接受请求成功
+Thu 18 Jan 2018 10:59:56 INFO views.py 33 17652 9744 {'hw1': ['106796.12'], 'hwms': ['0.00'], 'BatchID': ['0116fdc20108d55e62922bd56c'], 'dczs': ['0.00'], 'dcms': ['0.00'], 'fw2': ['0.00'], 'Type': ['TAXAPPLYNORMAL'], 'jobname': ['y20170410'], 'BatchMonth': ['0'], 'hw2': ['0.00'], 'TaxPwd': [''], 'dfzs': ['0.00'], 'dfms': ['0.00'], 'BatchYear': ['0'], 'djms': ['0.00'], 'djzs': ['0.00'], 'fwyj': ['1601.94'], 'CustomerID': ['164'], 'jobparams': ['{"BatchID":"0116fdc20108d55e62922bd56c","BatchYear":0,"BatchMonth":0,"CompanyID":18283970,"CustomerID":164,"Type":"TAXAPPLYNORMAL","TaxId":"44030007983594X","TaxPwd":"y20170410","JobName":"申报小规模纳税任务","JobParams":null,"CustomerName":"深圳市恒裕达投资管理有限公司","SocialID":"","fw1":"53398.06","fw2":"0.00","hw1":"106796.12","hw2":"0.00","fwms":"0.00","fwyj":"1601.94","hwyj":"3203.88","hwms":"0.00","djzs":"0.00","dfzs":"0.00","dczs":"0.00","djms":"0.00","dfms":"0.00","dcms":"0.00"}'], 'CompanyID': ['18283970'], 'TaxId': ['44030007983594X'], 'fwms': ['0.00'], 'fw1': ['53398.06'], 'hwyj': ['3203.88']}
+Thu 18 Jan 2018 10:59:56 INFO views.py 142 17652 9744 自动申报任务
+Thu 18 Jan 2018 11:05:42 INFO views.py 29 10716 14964 开始接受请求
+Thu 18 Jan 2018 11:05:42 INFO views.py 32 10716 14964 接受请求成功
+Thu 18 Jan 2018 11:05:42 INFO views.py 33 10716 14964 {'CustomerID': ['164'], 'djms': ['0.00'], 'fwms': ['0.00'], 'hwyj': ['3203.88'], 'dfzs': ['0.00'], 'dczs': ['0.00'], 'BatchID': ['0116fdc20108d55e6367e2006d'], 'TaxPwd': [''], 'fwyj': ['1601.94'], 'jobparams': ['{"BatchID":"0116fdc20108d55e6367e2006d","BatchYear":0,"BatchMonth":0,"CompanyID":18283970,"CustomerID":164,"Type":"TAXAPPLYNORMAL","TaxId":"44030007983594X","TaxPwd":"y20170410","JobName":"申报小规模纳税任务","JobParams":null,"CustomerName":"深圳市恒裕达投资管理有限公司","SocialID":"","fw1":"53398.06","fw2":"0.00","hw1":"106796.12","hw2":"0.00","fwms":"0.00","fwyj":"1601.94","hwyj":"3203.88","hwms":"0.00","djzs":"0.00","dfzs":"0.00","dczs":"0.00","djms":"0.00","dfms":"0.00","dcms":"0.00"}'], 'djzs': ['0.00'], 'CompanyID': ['18283970'], 'Type': ['TAXAPPLYNORMAL'], 'TaxId': ['44030007983594X'], 'jobname': ['y20170410'], 'hw1': ['106796.12'], 'hwms': ['0.00'], 'dfms': ['0.00'], 'fw2': ['0.00'], 'fw1': ['53398.06'], 'BatchYear': ['0'], 'dcms': ['0.00'], 'hw2': ['0.00'], 'BatchMonth': ['0']}
+Thu 18 Jan 2018 11:05:42 INFO views.py 142 10716 14964 自动申报任务
+Thu 18 Jan 2018 11:06:12 INFO views.py 29 19892 14964 开始接受请求
+Thu 18 Jan 2018 11:06:12 INFO views.py 32 19892 14964 接受请求成功
+Thu 18 Jan 2018 11:06:12 INFO views.py 33 19892 14964 {'CustomerID': ['9'], 'djms': ['0.00'], 'fw1': ['0.00'], 'hwyj': ['5242.92'], 'dfzs': ['0.00'], 'dczs': ['0.00'], 'BatchID': ['1285'], 'TaxPwd': ['y20170410'], 'dfms': ['0.00'], 'jobparams': ['工作中'], 'fwms': ['0.00'], 'CompanyID': ['18282900'], 'Type': ['TAXAPPLYNORMAL'], 'jobname': ['工程1'], 'hw1': ['0.00'], 'hwms': ['0.00'], 'fwyj': ['0.00'], 'fw2': ['0.00'], 'TaxID': ['9144030008389925X7'], 'djzs': ['0.00'], 'BatchYear': ['2018'], 'dcms': ['0.00'], 'hw2': ['174764.08'], 'BatchMonth': ['1']}
+Thu 18 Jan 2018 11:06:12 INFO views.py 142 19892 14964 自动申报任务
+Thu 18 Jan 2018 11:06:12 INFO views.py 144 19892 14964 任务信息接收成功
+Thu 18 Jan 2018 11:06:12 INFO views.py 172 19892 14964 添加任务到数据库
+Thu 18 Jan 2018 11:06:12 INFO views.py 173 19892 14964 ACT18282900
+Thu 18 Jan 2018 11:06:13 INFO views.py 177 19892 14964 任务添加成功,开始爬取
+Thu 18 Jan 2018 11:08:15 INFO views.py 29 860 14964 开始接受请求
+Thu 18 Jan 2018 11:08:15 INFO views.py 32 860 14964 接受请求成功
+Thu 18 Jan 2018 11:08:15 INFO views.py 33 860 14964 {'CustomerID': ['166'], 'djms': ['0.00'], 'fwms': ['0.00'], 'hwyj': ['815.53'], 'dfzs': ['0.00'], 'dczs': ['0.00'], 'BatchID': ['0116fdc20108d55e63a2ff0a8e'], 'TaxPwd': [''], 'fwyj': ['0.00'], 'jobparams': ['{"BatchID":"0116fdc20108d55e63a2ff0a8e","BatchYear":0,"BatchMonth":0,"CompanyID":18283970,"CustomerID":166,"Type":"TAXAPPLYNORMAL","TaxId":"440300553884010","TaxPwd":"y20170410","JobName":"申报小规模纳税任务","JobParams":null,"CustomerName":"深圳市盛旺达仪器设备有限公司","SocialID":"","fw1":"0.00","fw2":"0.00","hw1":"27184.46","hw2":"0.00","fwms":"0.00","fwyj":"0.00","hwyj":"815.53","hwms":"0.00","djzs":"0.00","dfzs":"0.00","dczs":"0.00","djms":"0.00","dfms":"0.00","dcms":"0.00"}'], 'djzs': ['0.00'], 'CompanyID': ['18283970'], 'Type': ['TAXAPPLYNORMAL'], 'TaxId': ['440300553884010'], 'jobname': ['y20170410'], 'hw1': ['27184.46'], 'hwms': ['0.00'], 'dfms': ['0.00'], 'fw2': ['0.00'], 'fw1': ['0.00'], 'BatchYear': ['0'], 'dcms': ['0.00'], 'hw2': ['0.00'], 'BatchMonth': ['0']}
+Thu 18 Jan 2018 11:08:15 INFO views.py 142 860 14964 自动申报任务
+Thu 18 Jan 2018 11:08:43 INFO views.py 29 19636 14964 开始接受请求
+Thu 18 Jan 2018 11:08:43 INFO views.py 32 19636 14964 接受请求成功
+Thu 18 Jan 2018 11:08:43 INFO views.py 33 19636 14964 {'CustomerID': ['166'], 'djms': ['0.00'], 'fwms': ['0.00'], 'hwyj': ['815.53'], 'dfzs': ['0.00'], 'dczs': ['0.00'], 'BatchID': ['0116fdc20108d55e63cc9fd301'], 'TaxPwd': ['y20170410'], 'fwyj': ['0.00'], 'jobparams': ['{"BatchID":"0116fdc20108d55e63cc9fd301","BatchYear":0,"BatchMonth":0,"CompanyID":18283970,"CustomerID":166,"Type":"TAXAPPLYNORMAL","TaxId":"440300553884010","TaxPwd":"y20170410","JobName":"申报小规模纳税任务","JobParams":null,"CustomerName":"深圳市盛旺达仪器设备有限公司","SocialID":"","fw1":"0.00","fw2":"0.00","hw1":"27184.46","hw2":"0.00","fwms":"0.00","fwyj":"0.00","hwyj":"815.53","hwms":"0.00","djzs":"0.00","dfzs":"0.00","dczs":"0.00","djms":"0.00","dfms":"0.00","dcms":"0.00"}'], 'djzs': ['0.00'], 'CompanyID': ['18283970'], 'Type': ['TAXAPPLYNORMAL'], 'TaxId': ['440300553884010'], 'jobname': ['申报小规模纳税任务'], 'hw1': ['27184.46'], 'hwms': ['0.00'], 'dfms': ['0.00'], 'fw2': ['0.00'], 'fw1': ['0.00'], 'BatchYear': ['0'], 'dcms': ['0.00'], 'hw2': ['0.00'], 'BatchMonth': ['0']}
+Thu 18 Jan 2018 11:08:43 INFO views.py 142 19636 14964 自动申报任务
+Thu 18 Jan 2018 11:12:18 INFO views.py 29 11880 19396 开始接受请求
+Thu 18 Jan 2018 11:12:18 INFO views.py 32 11880 19396 接受请求成功
+Thu 18 Jan 2018 11:12:18 INFO views.py 33 11880 19396 {'dfzs': ['0.00'], 'djzs': ['0.00'], 'fwyj': ['0.00'], 'dfms': ['0.00'], 'CompanyID': ['18282900'], 'CustomerID': ['9'], 'fw2': ['0.00'], 'djms': ['0.00'], 'fwms': ['0.00'], 'BatchID': ['1285'], 'hwyj': ['5242.92'], 'Type': ['TAXAPPLYNORMAL'], 'hwms': ['0.00'], 'BatchMonth': ['1'], 'hw1': ['0.00'], 'hw2': ['174764.08'], 'TaxPwd': ['y20170410'], 'TaxID': ['9144030008389925X7'], 'BatchYear': ['2018'], 'jobname': ['工程1'], 'fw1': ['0.00'], 'dczs': ['0.00'], 'dcms': ['0.00'], 'jobparams': ['工作中']}
+Thu 18 Jan 2018 11:12:18 INFO views.py 142 11880 19396 自动申报任务
+Thu 18 Jan 2018 11:12:18 INFO views.py 149 11880 19396 任务信息接收成功
+Thu 18 Jan 2018 11:12:18 INFO views.py 177 11880 19396 添加任务到数据库
+Thu 18 Jan 2018 11:12:18 INFO views.py 178 11880 19396 ACT18282900
+Thu 18 Jan 2018 11:12:18 INFO views.py 182 11880 19396 任务添加成功,开始爬取
+Thu 18 Jan 2018 11:13:59 INFO views.py 29 15424 19880 开始接受请求
+Thu 18 Jan 2018 11:13:59 INFO views.py 32 15424 19880 接受请求成功
+Thu 18 Jan 2018 11:13:59 INFO views.py 33 15424 19880 {'BatchMonth': ['0'], 'hwms': ['0.00'], 'jobname': ['申报小规模纳税任务'], 'hw1': ['27184.46'], 'jobparams': ['{"BatchID":"0116fdc20108d55e63cc9fd301","BatchYear":0,"BatchMonth":0,"CompanyID":18283970,"CustomerID":166,"Type":"TAXAPPLYNORMAL","TaxId":"440300553884010","TaxPwd":"y20170410","JobName":"申报小规模纳税任务","JobParams":null,"CustomerName":"深圳市盛旺达仪器设备有限公司","SocialID":"","fw1":"0.00","fw2":"0.00","hw1":"27184.46","hw2":"0.00","fwms":"0.00","fwyj":"0.00","hwyj":"815.53","hwms":"0.00","djzs":"0.00","dfzs":"0.00","dczs":"0.00","djms":"0.00","dfms":"0.00","dcms":"0.00"}'], 'fwyj': ['0.00'], 'dfzs': ['0.00'], 'djzs': ['0.00'], 'TaxId': ['440300553884010'], 'CustomerID': ['166'], 'Type': ['TAXAPPLYNORMAL'], 'TaxPwd': ['y20170410'], 'hw2': ['0.00'], 'dfms': ['0.00'], 'hwyj': ['815.53'], 'fw1': ['0.00'], 'CompanyID': ['18283970'], 'BatchID': ['0116fdc20108d55e63cc9fd301'], 'dczs': ['0.00'], 'BatchYear': ['0'], 'fwms': ['0.00'], 'dcms': ['0.00'], 'djms': ['0.00'], 'fw2': ['0.00']}
+Thu 18 Jan 2018 11:13:59 INFO views.py 142 15424 19880 自动申报任务
+Thu 18 Jan 2018 11:13:59 WARNING views.py 198 15424 19880 'TaxID'
+Thu 18 Jan 2018 11:15:55 INFO views.py 29 11060 19880 开始接受请求
+Thu 18 Jan 2018 11:15:55 INFO views.py 32 11060 19880 接受请求成功
+Thu 18 Jan 2018 11:15:55 INFO views.py 33 11060 19880 {'BatchMonth': ['0'], 'hwms': ['0.00'], 'jobname': ['申报小规模纳税任务'], 'hw1': ['27184.46'], 'jobparams': ['{"BatchID":"0116fdc20108d55e63cc9fd301","BatchYear":0,"BatchMonth":0,"CompanyID":18283970,"CustomerID":166,"Type":"TAXAPPLYNORMAL","TaxId":"440300553884010","TaxPwd":"y20170410","JobName":"申报小规模纳税任务","JobParams":null,"CustomerName":"深圳市盛旺达仪器设备有限公司","SocialID":"","fw1":"0.00","fw2":"0.00","hw1":"27184.46","hw2":"0.00","fwms":"0.00","fwyj":"0.00","hwyj":"815.53","hwms":"0.00","djzs":"0.00","dfzs":"0.00","dczs":"0.00","djms":"0.00","dfms":"0.00","dcms":"0.00"}'], 'fwyj': ['0.00'], 'dfzs': ['0.00'], 'djzs': ['0.00'], 'TaxId': ['440300553884010'], 'CustomerID': ['166'], 'Type': ['TAXAPPLYNORMAL'], 'TaxPwd': ['y20170410'], 'hw2': ['0.00'], 'dfms': ['0.00'], 'hwyj': ['815.53'], 'fw1': ['0.00'], 'CompanyID': ['18283970'], 'BatchID': ['0116fdc20108d55e63cc9fd301'], 'dczs': ['0.00'], 'BatchYear': ['0'], 'fwms': ['0.00'], 'dcms': ['0.00'], 'djms': ['0.00'], 'fw2': ['0.00']}
+Thu 18 Jan 2018 11:15:55 INFO views.py 142 11060 19880 自动申报任务
+Thu 18 Jan 2018 11:15:55 WARNING views.py 198 11060 19880 'TaxID'
+Thu 18 Jan 2018 11:16:15 INFO views.py 29 14348 19880 开始接受请求
+Thu 18 Jan 2018 11:16:15 INFO views.py 32 14348 19880 接受请求成功
+Thu 18 Jan 2018 11:16:15 INFO views.py 33 14348 19880 {'BatchMonth': ['0'], 'hwms': ['0.00'], 'jobname': ['申报小规模纳税任务'], 'hw1': ['27184.46'], 'jobparams': ['{"BatchID":"0116fdc20108d55e63cc9fd301","BatchYear":0,"BatchMonth":0,"CompanyID":18283970,"CustomerID":166,"Type":"TAXAPPLYNORMAL","TaxId":"440300553884010","TaxPwd":"y20170410","JobName":"申报小规模纳税任务","JobParams":null,"CustomerName":"深圳市盛旺达仪器设备有限公司","SocialID":"","fw1":"0.00","fw2":"0.00","hw1":"27184.46","hw2":"0.00","fwms":"0.00","fwyj":"0.00","hwyj":"815.53","hwms":"0.00","djzs":"0.00","dfzs":"0.00","dczs":"0.00","djms":"0.00","dfms":"0.00","dcms":"0.00"}'], 'fwyj': ['0.00'], 'dfzs': ['0.00'], 'djzs': ['0.00'], 'TaxId': ['440300553884010'], 'CustomerID': ['166'], 'Type': ['TAXAPPLYNORMAL'], 'TaxPwd': ['y20170410'], 'hw2': ['0.00'], 'dfms': ['0.00'], 'hwyj': ['815.53'], 'fw1': ['0.00'], 'CompanyID': ['18283970'], 'BatchID': ['0116fdc20108d55e63cc9fd301'], 'dczs': ['0.00'], 'BatchYear': ['0'], 'fwms': ['0.00'], 'dcms': ['0.00'], 'djms': ['0.00'], 'fw2': ['0.00']}
+Thu 18 Jan 2018 11:16:15 INFO views.py 142 14348 19880 自动申报任务
+Thu 18 Jan 2018 11:16:15 WARNING views.py 198 14348 19880 'TaxID'
+Thu 18 Jan 2018 11:19:04 INFO views.py 29 11872 6192 开始接受请求
+Thu 18 Jan 2018 11:19:04 INFO views.py 32 11872 6192 接受请求成功
+Thu 18 Jan 2018 11:19:04 INFO views.py 33 11872 6192 {'jobparams': ['{"BatchID":"0116fdc20108d55e63cc9fd301","BatchYear":0,"BatchMonth":0,"CompanyID":18283970,"CustomerID":166,"Type":"TAXAPPLYNORMAL","TaxId":"440300553884010","TaxPwd":"y20170410","JobName":"申报小规模纳税任务","JobParams":null,"CustomerName":"深圳市盛旺达仪器设备有限公司","SocialID":"","fw1":"0.00","fw2":"0.00","hw1":"27184.46","hw2":"0.00","fwms":"0.00","fwyj":"0.00","hwyj":"815.53","hwms":"0.00","djzs":"0.00","dfzs":"0.00","dczs":"0.00","djms":"0.00","dfms":"0.00","dcms":"0.00"}'], 'BatchYear': ['0'], 'hw2': ['0.00'], 'BatchMonth': ['0'], 'hwms': ['0.00'], 'fwms': ['0.00'], 'fwyj': ['0.00'], 'hw1': ['27184.46'], 'dczs': ['0.00'], 'TaxId': ['440300553884010'], 'dcms': ['0.00'], 'djzs': ['0.00'], 'BatchID': ['0116fdc20108d55e63cc9fd301'], 'fw1': ['0.00'], 'fw2': ['0.00'], 'CustomerID': ['166'], 'TaxPwd': ['y20170410'], 'CompanyID': ['18283970'], 'dfms': ['0.00'], 'jobname': ['申报小规模纳税任务'], 'Type': ['TAXAPPLYNORMAL'], 'hwyj': ['815.53'], 'djms': ['0.00'], 'dfzs': ['0.00']}
+Thu 18 Jan 2018 11:19:04 INFO views.py 142 11872 6192 自动申报任务
+Thu 18 Jan 2018 11:19:04 INFO views.py 149 11872 6192 任务信息接收成功
+Thu 18 Jan 2018 11:19:04 INFO views.py 177 11872 6192 添加任务到数据库
+Thu 18 Jan 2018 11:19:04 INFO views.py 178 11872 6192 ACT18283970
+Thu 18 Jan 2018 11:19:04 INFO views.py 182 11872 6192 任务添加成功,开始爬取
+Thu 18 Jan 2018 11:27:36 INFO views.py 207 10944 19776 开始接受请求
+Thu 18 Jan 2018 11:28:37 INFO views.py 207 3816 19776 开始接受请求
+Thu 18 Jan 2018 11:31:20 INFO views.py 207 3864 19776 开始接受请求
+Thu 18 Jan 2018 11:33:56 INFO views.py 207 18512 19776 开始接受请求
+Thu 18 Jan 2018 11:54:01 INFO views.py 207 11888 14676 开始接受请求
+Thu 18 Jan 2018 11:54:35 INFO views.py 207 9440 14676 开始接受请求
+Thu 18 Jan 2018 11:54:50 INFO views.py 207 15684 14676 开始接受请求
+Thu 18 Jan 2018 11:56:13 INFO views.py 207 18508 14676 开始接受请求
+Thu 18 Jan 2018 11:56:58 INFO views.py 207 2984 19196 开始接受请求
+Thu 18 Jan 2018 11:58:27 INFO views.py 207 4888 19196 开始接受请求
+Thu 18 Jan 2018 11:58:27 INFO views.py 209 4888 19196 接受到post请求
+Thu 18 Jan 2018 11:58:27 INFO views.py 211 4888 19196 接受请求成功
+Thu 18 Jan 2018 11:58:27 INFO views.py 212 4888 19196 {'TaxId': ['91440300305826305F'], 'BatchYear': ['2017'], 'TaxPwd': ['y20170410'], 'CustomerID': ['9'], 'BatchMonth': ['0'], 'BatchID': ['10298'], 'Type': ['TAXDATA'], 'jobparams': ['工作中'], 'jobname': ['工程1'], 'CompanyID': ['18282900']}
+Thu 18 Jan 2018 11:58:27 INFO views.py 215 4888 19196 取消国税、地税任务
+Thu 18 Jan 2018 11:58:27 INFO views.py 232 4888 19196 取消任务到数据库
+Thu 18 Jan 2018 11:58:27 INFO views.py 233 4888 19196 ACT18282900
+Thu 18 Jan 2018 11:58:27 INFO views.py 236 4888 19196 取消任务已添加到数据库
+Thu 18 Jan 2018 11:59:26 INFO views.py 207 1188 19196 开始接受请求
+Thu 18 Jan 2018 11:59:26 INFO views.py 209 1188 19196 接受到post请求
+Thu 18 Jan 2018 11:59:26 INFO views.py 211 1188 19196 接受请求成功
+Thu 18 Jan 2018 11:59:26 INFO views.py 212 1188 19196 {'TaxId': ['9144030075046834XR'], 'BatchYear': ['2018'], 'BatchID': ['0116fdc20108d55e6598585b83'], 'CustomerID': ['225'], 'jobparams': ['{"BatchID":"0116fdc20108d55e6598585b83","BatchYear":2018,"BatchMonth":1,"CompanyID":18283970,"CustomerID":225,"Type":"TAXDATA","TaxId":"9144030075046834XR","TaxPwd":"y20170410","JobName":"中止任务","JobParams":null,"CustomerName":null,"SocialID":null}'], 'CompanyID': ['18283970'], 'Type': ['TAXDATA'], 'BatchMonth': ['1'], 'TaxPwd': ['y20170410'], 'jobname': ['中止任务']}
+Thu 18 Jan 2018 11:59:26 INFO views.py 215 1188 19196 取消国税、地税任务
+Thu 18 Jan 2018 11:59:26 INFO views.py 232 1188 19196 取消任务到数据库
+Thu 18 Jan 2018 11:59:26 INFO views.py 233 1188 19196 ACT18283970
+Thu 18 Jan 2018 11:59:26 INFO views.py 236 1188 19196 取消任务已添加到数据库
