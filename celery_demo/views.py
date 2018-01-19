@@ -73,11 +73,11 @@ def tasks(request):
                 logger.info("爬取信用信息")
                 if post_data['BatchID'] and post_data[
                     'CompanyID'] and post_data['CustomerID'] and post_data[
-                    'CustomerName'] and post_data['SocialID'] and post_data[
+                    'TaxId'] and post_data['TaxPwd'] and post_data[
                     'jobname'] and post_data['jobparams']:
                     logger.info("任务信息接收成功")
-                    cn = post_data['CustomerName'][0]
-                    sID = post_data['SocialID'][0]
+                    user = post_data['TaxId'][0]
+                    pwd = post_data['TaxPwd'][0]
                     batchid = post_data['BatchID'][0]
                     companyid = int(post_data['CompanyID'][0])
                     customerid = int(post_data['CustomerID'][0])
@@ -94,7 +94,7 @@ def tasks(request):
                     add_task(host, port, db, batchid, batchyear, batchmonth, companyid, customerid, "CUSTOMERINFO",
                              jobname, jobparams)
                     logger.info("任务添加成功,开始爬取")
-                    sz_credit_dict = {"1": cn, "2": sID, "3": batchid, "4": companyid,
+                    sz_credit_dict = {"1": user, "2": pwd, "3": batchid, "4": companyid,
                                       "5": customerid, "6": host, "7": port, "8": db}
                     pjson = json.dumps(sz_credit_dict)
                     redis_cli.lpush("sz_credit_list", pjson)

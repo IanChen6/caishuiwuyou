@@ -6557,3 +6557,59 @@ Thu 18 Jan 2018 11:59:26 INFO views.py 215 1188 19196 取消国税、地税任务
 Thu 18 Jan 2018 11:59:26 INFO views.py 232 1188 19196 取消任务到数据库
 Thu 18 Jan 2018 11:59:26 INFO views.py 233 1188 19196 ACT18283970
 Thu 18 Jan 2018 11:59:26 INFO views.py 236 1188 19196 取消任务已添加到数据库
+Thu 18 Jan 2018 14:24:53 INFO views.py 207 13888 14052 开始接受请求
+Thu 18 Jan 2018 14:24:53 INFO views.py 209 13888 14052 接受到post请求
+Thu 18 Jan 2018 14:24:53 INFO views.py 211 13888 14052 接受请求成功
+Thu 18 Jan 2018 14:24:53 INFO views.py 212 13888 14052 {'BatchYear': ['2018'], 'BatchID': ['1285'], 'dcms': ['0.00'], 'dfms': ['0.00'], 'CompanyID': ['18282900'], 'hw2': ['174764.08'], 'CustomerID': ['9'], 'jobname': ['工程1'], 'jobparams': ['工作中'], 'TaxId': ['9144030008389925X7'], 'fw1': ['0.00'], 'djzs': ['0.00'], 'djms': ['0.00'], 'fwms': ['0.00'], 'BatchMonth': ['1'], 'Type': ['TAXAPPLYNORMAL'], 'TaxPwd': ['y20170410'], 'dfzs': ['0.00'], 'hw1': ['0.00'], 'fw2': ['0.00'], 'hwms': ['0.00'], 'fwyj': ['0.00'], 'hwyj': ['5242.92'], 'dczs': ['0.00']}
+Thu 18 Jan 2018 14:24:53 INFO views.py 320 13888 14052 取消自动申报任务
+Thu 18 Jan 2018 14:24:53 INFO views.py 355 13888 14052 取消任务到数据库
+Thu 18 Jan 2018 14:24:53 INFO views.py 356 13888 14052 ACT18282900
+Thu 18 Jan 2018 14:24:53 INFO views.py 359 13888 14052 取消任务已添加到数据库
+Thu 18 Jan 2018 16:54:51 INFO views.py 29 14244 14052 开始接受请求
+Thu 18 Jan 2018 16:54:51 INFO views.py 32 14244 14052 接受请求成功
+Thu 18 Jan 2018 16:54:51 INFO views.py 33 14244 14052 {'BatchYear': ['2018'], 'BatchID': ['1285'], 'dcms': ['0.00'], 'dfms': ['0.00'], 'CompanyID': ['18282900'], 'fw2': ['0.00'], 'CustomerID': ['9'], 'dfzs': ['0.00'], 'jobparams': ['工作中'], 'TaxId': ['9144030008389925X7'], 'fw1': ['0.00'], 'Type': ['TAXAPPLYNORMAL'], 'djms': ['0.00'], 'fwms': ['0.00'], 'BatchMonth': ['1'], 'TaxPwd': ['y20170410'], 'jobname': ['工程1'], 'hw1': ['0.00'], 'djzs': ['0.00'], 'hw2': ['174764.08'], 'hwms': ['0.00'], 'fwyj': ['0.00'], 'hwyj': ['5242.92'], 'dczs': ['0.00']}
+Thu 18 Jan 2018 16:54:51 INFO views.py 142 14244 14052 自动申报任务
+Thu 18 Jan 2018 16:54:51 INFO views.py 149 14244 14052 任务信息接收成功
+Thu 18 Jan 2018 16:54:51 INFO views.py 177 14244 14052 添加任务到数据库
+Thu 18 Jan 2018 16:54:51 INFO views.py 178 14244 14052 ACT18282900
+Thu 18 Jan 2018 16:54:51 INFO views.py 182 14244 14052 任务添加成功,开始爬取
+Thu 18 Jan 2018 16:55:12 INFO views.py 29 10736 14052 开始接受请求
+Thu 18 Jan 2018 16:55:12 INFO views.py 32 10736 14052 接受请求成功
+Thu 18 Jan 2018 16:55:12 INFO views.py 33 10736 14052 {'BatchYear': ['2018'], 'BatchID': ['1285'], 'dcms': ['0.00'], 'dfms': ['0.00'], 'CompanyID': ['18282900'], 'fw2': ['0.00'], 'CustomerID': ['9'], 'dfzs': ['0.00'], 'jobparams': ['工作中'], 'TaxId': ['9144030008389925X7'], 'fw1': ['0.00'], 'Type': ['TAXAPPLYNORMAL'], 'djms': ['0.00'], 'fwms': ['0.00'], 'BatchMonth': ['1'], 'TaxPwd': ['y20170410'], 'jobname': ['工程1'], 'dczs': ['0.00'], 'djzs': ['0.00'], 'hw2': ['174764.08'], 'hwms': ['0.00'], 'fwyj': ['0.00'], 'hwyj': ['5242.92'], 'hw1': ['0.00']}
+Thu 18 Jan 2018 16:55:12 INFO views.py 142 10736 14052 自动申报任务
+Thu 18 Jan 2018 16:55:12 INFO views.py 149 10736 14052 任务信息接收成功
+Thu 18 Jan 2018 16:55:12 INFO views.py 177 10736 14052 添加任务到数据库
+Thu 18 Jan 2018 16:55:12 INFO views.py 178 10736 14052 ACT18282900
+Thu 18 Jan 2018 16:55:12 INFO views.py 182 10736 14052 任务添加成功,开始爬取
+Thu 18 Jan 2018 20:42:20 INFO views.py 207 14308 14052 开始接受请求
+Thu 18 Jan 2018 20:42:20 INFO views.py 209 14308 14052 接受到post请求
+Thu 18 Jan 2018 20:42:20 INFO views.py 211 14308 14052 接受请求成功
+Thu 18 Jan 2018 20:42:20 INFO views.py 212 14308 14052 {'Type': ['TAXDATA'], 'TaxPwd': ['y20170410'], 'BatchID': ['10298'], 'BatchMonth': ['0'], 'CompanyID': ['18282900'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'jobparams': ['工作中'], 'TaxId': ['91440300305826305F'], 'BatchYear': ['2017']}
+Thu 18 Jan 2018 20:42:20 INFO views.py 215 14308 14052 取消国税、地税任务
+Thu 18 Jan 2018 20:42:20 INFO views.py 232 14308 14052 取消任务到数据库
+Thu 18 Jan 2018 20:42:20 INFO views.py 233 14308 14052 ACT18282900
+Thu 18 Jan 2018 20:42:20 INFO views.py 236 14308 14052 取消任务已添加到数据库
+Thu 18 Jan 2018 20:43:11 INFO views.py 207 5660 14052 开始接受请求
+Thu 18 Jan 2018 20:43:11 INFO views.py 209 5660 14052 接受到post请求
+Thu 18 Jan 2018 20:43:11 INFO views.py 211 5660 14052 接受请求成功
+Thu 18 Jan 2018 20:43:11 INFO views.py 212 5660 14052 {'Type': ['TAXDATA'], 'BatchYear': ['2017'], 'BatchID': ['10298'], 'BatchMonth': ['0'], 'CompanyID': ['18282900'], 'TaxPwd': ['y20170410'], 'jobname': ['工程1'], 'CustomerID': ['9'], 'jobparams': ['工作中'], 'TaxId': ['91440300305826305F']}
+Thu 18 Jan 2018 20:43:11 INFO views.py 215 5660 14052 取消国税、地税任务
+Thu 18 Jan 2018 20:43:11 INFO views.py 232 5660 14052 取消任务到数据库
+Thu 18 Jan 2018 20:43:11 INFO views.py 233 5660 14052 ACT18282900
+Thu 18 Jan 2018 20:43:11 INFO views.py 236 5660 14052 取消任务已添加到数据库
+Thu 18 Jan 2018 20:44:50 INFO views.py 29 13968 14052 开始接受请求
+Thu 18 Jan 2018 20:44:50 INFO views.py 32 13968 14052 接受请求成功
+Thu 18 Jan 2018 20:44:50 INFO views.py 33 13968 14052 {'BatchYear': ['2018'], 'BatchID': ['1285'], 'dcms': ['0.00'], 'dfms': ['0.00'], 'CompanyID': ['18282900'], 'hw2': ['174764.08'], 'CustomerID': ['9'], 'jobname': ['工程1'], 'jobparams': ['工作中'], 'TaxId': ['9144030008389925X7'], 'fw1': ['0.00'], 'djzs': ['0.00'], 'djms': ['0.00'], 'fwms': ['0.00'], 'BatchMonth': ['1'], 'Type': ['TAXAPPLYNORMAL'], 'TaxPwd': ['y20170410'], 'dfzs': ['0.00'], 'dczs': ['0.00'], 'fw2': ['0.00'], 'hwms': ['0.00'], 'fwyj': ['0.00'], 'hwyj': ['5242.92'], 'hw1': ['0.00']}
+Thu 18 Jan 2018 20:44:50 INFO views.py 142 13968 14052 自动申报任务
+Thu 18 Jan 2018 20:44:50 INFO views.py 149 13968 14052 任务信息接收成功
+Thu 18 Jan 2018 20:44:50 INFO views.py 177 13968 14052 添加任务到数据库
+Thu 18 Jan 2018 20:44:50 INFO views.py 178 13968 14052 ACT18282900
+Thu 18 Jan 2018 20:44:50 INFO views.py 182 13968 14052 任务添加成功,开始爬取
+Thu 18 Jan 2018 20:46:39 INFO views.py 29 12220 14052 开始接受请求
+Thu 18 Jan 2018 20:46:39 INFO views.py 32 12220 14052 接受请求成功
+Thu 18 Jan 2018 20:46:39 INFO views.py 33 12220 14052 {'BatchYear': ['2018'], 'BatchID': ['1285'], 'dcms': ['0.00'], 'dfms': ['0.00'], 'CompanyID': ['18282900'], 'fw2': ['0.00'], 'CustomerID': ['9'], 'dfzs': ['0.00'], 'jobparams': ['工作中'], 'TaxId': ['9144030008389925X7'], 'fw1': ['0.00'], 'fwyj': ['0.00'], 'djms': ['0.00'], 'fwms': ['0.00'], 'BatchMonth': ['1'], 'Type': ['TAXAPPLYNORMAL'], 'TaxPwd': ['y20170410'], 'jobname': ['工程1'], 'hw1': ['0.00'], 'djzs': ['0.00'], 'hw2': ['174764.08'], 'hwms': ['0.00'], 'hwyj': ['5242.92'], 'dczs': ['0.00']}
+Thu 18 Jan 2018 20:46:39 INFO views.py 142 12220 14052 自动申报任务
+Thu 18 Jan 2018 20:46:39 INFO views.py 149 12220 14052 任务信息接收成功
+Thu 18 Jan 2018 20:46:39 INFO views.py 177 12220 14052 添加任务到数据库
+Thu 18 Jan 2018 20:46:39 INFO views.py 178 12220 14052 ACT18282900
+Thu 18 Jan 2018 20:46:39 INFO views.py 182 12220 14052 任务添加成功,开始爬取
