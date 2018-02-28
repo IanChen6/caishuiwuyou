@@ -7658,3 +7658,64 @@ Mon 29 Jan 2018 16:12:15 INFO views.py 201 10552 11104 任务信息接收成功
 Mon 29 Jan 2018 16:12:15 INFO views.py 215 10552 11104 添加任务到数据库
 Mon 29 Jan 2018 16:12:15 INFO views.py 216 10552 11104 ACT18282900
 Mon 29 Jan 2018 16:12:15 INFO views.py 220 10552 11104 任务添加成功,开始爬取
+Wed 28 Feb 2018 16:32:23 INFO views.py 29 9232 11352 开始接受请求
+Wed 28 Feb 2018 16:32:23 INFO views.py 32 9232 11352 接受请求成功
+Wed 28 Feb 2018 16:32:23 INFO views.py 33 9232 11352 {'BatchMonth': ['1'], 'CompanyID': ['18282900'], 'CustomerID': ['9'], 'TaxId': ['91440300MA5DFMBMXU'], 'BatchID': ['10298'], 'TaxPwd': ['741258'], 'jobname': ['工程1'], 'Type': ['TAXDATA'], 'BatchYear': ['2017'], 'jobparams': ['工作中']}
+Wed 28 Feb 2018 16:32:23 INFO views.py 37 9232 11352 爬取国税、地税任务
+Wed 28 Feb 2018 16:32:23 WARNING views.py 238 9232 11352 'JobExtend'
+Wed 28 Feb 2018 16:32:45 INFO views.py 29 2204 11352 开始接受请求
+Wed 28 Feb 2018 16:32:45 INFO views.py 32 2204 11352 接受请求成功
+Wed 28 Feb 2018 16:32:45 INFO views.py 33 2204 11352 {'BatchMonth': ['1'], 'CompanyID': ['18282900'], 'CustomerID': ['9'], 'TaxId': ['91440300MA5DFMBMXU'], 'BatchID': ['10298'], 'TaxPwd': ['741258'], 'jobname': ['工程1'], 'Type': ['TAXDATA'], 'BatchYear': ['2017'], 'JobExtend': ['aaa'], 'jobparams': ['工作中']}
+Wed 28 Feb 2018 16:32:45 INFO views.py 37 2204 11352 爬取国税、地税任务
+Wed 28 Feb 2018 16:32:45 INFO views.py 42 2204 11352 任务信息接收成功
+Wed 28 Feb 2018 16:32:45 INFO views.py 57 2204 11352 添加任务到数据库
+Wed 28 Feb 2018 16:32:45 INFO views.py 58 2204 11352 ACT18282900
+Wed 28 Feb 2018 16:32:45 WARNING views.py 238 2204 11352 add_task() takes 11 positional arguments but 12 were given
+Wed 28 Feb 2018 16:33:27 INFO views.py 29 15892 11884 开始接受请求
+Wed 28 Feb 2018 16:33:31 INFO views.py 32 15892 11884 接受请求成功
+Wed 28 Feb 2018 16:33:31 INFO views.py 33 15892 11884 {'TaxPwd': ['741258'], 'BatchYear': ['2017'], 'BatchID': ['10298'], 'TaxId': ['91440300MA5DFMBMXU'], 'CustomerID': ['9'], 'JobExtend': ['aaa'], 'jobparams': ['工作中'], 'CompanyID': ['18282900'], 'jobname': ['工程1'], 'Type': ['TAXDATA'], 'BatchMonth': ['1']}
+Wed 28 Feb 2018 16:33:33 INFO views.py 37 15892 11884 爬取国税、地税任务
+Wed 28 Feb 2018 16:33:34 INFO views.py 42 15892 11884 任务信息接收成功
+Wed 28 Feb 2018 16:33:39 INFO views.py 57 15892 11884 添加任务到数据库
+Wed 28 Feb 2018 16:33:40 INFO views.py 58 15892 11884 ACT18282900
+Wed 28 Feb 2018 16:33:44 WARNING views.py 238 15892 11884 add_task() takes 11 positional arguments but 12 were given
+Wed 28 Feb 2018 16:43:08 INFO views.py 29 18356 15544 开始接受请求
+Wed 28 Feb 2018 16:43:10 INFO views.py 32 18356 15544 接受请求成功
+Wed 28 Feb 2018 16:43:11 INFO views.py 33 18356 15544 {'BatchYear': ['2017'], 'jobname': ['工程1'], 'jobparams': ['工作中'], 'TaxId': ['91440300MA5DFMBMXU'], 'BatchMonth': ['1'], 'CustomerID': ['9'], 'TaxPwd': ['741258'], 'BatchID': ['10298'], 'Type': ['TAXDATA'], 'JobExtend': ['aaa'], 'CompanyID': ['18282900']}
+Wed 28 Feb 2018 16:43:12 INFO views.py 37 18356 15544 爬取国税、地税任务
+Wed 28 Feb 2018 16:43:12 INFO views.py 42 18356 15544 任务信息接收成功
+Wed 28 Feb 2018 16:43:15 INFO views.py 57 18356 15544 添加任务到数据库
+Wed 28 Feb 2018 16:43:15 INFO views.py 58 18356 15544 ACT18282900
+Wed 28 Feb 2018 16:43:17 WARNING views.py 237 18356 15544 add_task() takes 11 positional arguments but 12 were given
+Wed 28 Feb 2018 16:47:23 INFO views.py 29 13700 11072 开始接受请求
+Wed 28 Feb 2018 16:47:26 INFO views.py 32 13700 11072 接受请求成功
+Wed 28 Feb 2018 16:47:26 INFO views.py 33 13700 11072 {'TaxId': ['91440300MA5DFMBMXU'], 'CustomerID': ['9'], 'JobExtend': ['aaa'], 'jobparams': ['工作中'], 'CompanyID': ['18282900'], 'BatchID': ['10298'], 'BatchYear': ['2017'], 'BatchMonth': ['1'], 'Type': ['TAXDATA'], 'TaxPwd': ['741258'], 'jobname': ['工程1']}
+Wed 28 Feb 2018 16:47:27 INFO views.py 37 13700 11072 爬取国税、地税任务
+Wed 28 Feb 2018 16:47:28 INFO views.py 42 13700 11072 任务信息接收成功
+Wed 28 Feb 2018 16:47:32 INFO views.py 60 13700 11072 添加任务到数据库
+Wed 28 Feb 2018 16:47:32 INFO views.py 61 13700 11072 ACT18282900
+Wed 28 Feb 2018 16:47:37 WARNING views.py 253 13700 11072 add_task() takes 11 positional arguments but 12 were given
+Wed 28 Feb 2018 16:48:39 INFO views.py 29 1764 3008 开始接受请求
+Wed 28 Feb 2018 16:48:41 INFO views.py 32 1764 3008 接受请求成功
+Wed 28 Feb 2018 16:48:41 INFO views.py 33 1764 3008 {'CustomerID': ['9'], 'BatchMonth': ['1'], 'BatchYear': ['2017'], 'jobparams': ['工作中'], 'Type': ['TAXDATA'], 'TaxId': ['91440300MA5DFMBMXU'], 'CompanyID': ['18282900'], 'TaxPwd': ['741258'], 'jobname': ['工程1'], 'BatchID': ['10298'], 'JobExtend': ['aaa']}
+Wed 28 Feb 2018 16:48:42 INFO views.py 37 1764 3008 爬取国税、地税任务
+Wed 28 Feb 2018 16:48:43 INFO views.py 42 1764 3008 任务信息接收成功
+Wed 28 Feb 2018 16:48:45 INFO views.py 60 1764 3008 添加任务到数据库
+Wed 28 Feb 2018 16:48:45 INFO views.py 61 1764 3008 ACT18282900
+Wed 28 Feb 2018 16:48:47 INFO views.py 64 1764 3008 任务添加成功,开始爬取
+Wed 28 Feb 2018 16:49:02 INFO views.py 29 6212 4524 开始接受请求
+Wed 28 Feb 2018 16:49:02 INFO views.py 32 6212 4524 接受请求成功
+Wed 28 Feb 2018 16:49:02 INFO views.py 33 6212 4524 {'BatchID': ['10298'], 'jobparams': ['工作中'], 'BatchMonth': ['1'], 'CompanyID': ['18282900'], 'BatchYear': ['2017'], 'jobname': ['工程1'], 'TaxId': ['91440300MA5DFMBMXU'], 'JobExtend': ['aaa'], 'CustomerID': ['9'], 'Type': ['TAXDATA'], 'TaxPwd': ['741258']}
+Wed 28 Feb 2018 16:49:02 INFO views.py 37 6212 4524 爬取国税、地税任务
+Wed 28 Feb 2018 16:49:02 INFO views.py 42 6212 4524 任务信息接收成功
+Wed 28 Feb 2018 16:49:02 INFO views.py 60 6212 4524 添加任务到数据库
+Wed 28 Feb 2018 16:49:02 INFO views.py 61 6212 4524 ACT18282900
+Wed 28 Feb 2018 16:49:02 INFO views.py 64 6212 4524 任务添加成功,开始爬取
+Wed 28 Feb 2018 16:49:11 INFO views.py 29 15520 4524 开始接受请求
+Wed 28 Feb 2018 16:49:11 INFO views.py 32 15520 4524 接受请求成功
+Wed 28 Feb 2018 16:49:11 INFO views.py 33 15520 4524 {'BatchID': ['10298'], 'jobparams': ['工作中'], 'BatchMonth': ['1'], 'CompanyID': ['18282900'], 'BatchYear': ['2017'], 'jobname': ['工程1'], 'TaxId': ['91440300MA5DFMBMXU'], 'CustomerID': ['9'], 'Type': ['TAXDATA'], 'TaxPwd': ['741258']}
+Wed 28 Feb 2018 16:49:11 INFO views.py 37 15520 4524 爬取国税、地税任务
+Wed 28 Feb 2018 16:49:11 INFO views.py 42 15520 4524 任务信息接收成功
+Wed 28 Feb 2018 16:49:11 INFO views.py 60 15520 4524 添加任务到数据库
+Wed 28 Feb 2018 16:49:11 INFO views.py 61 15520 4524 ACT18282900
+Wed 28 Feb 2018 16:49:11 INFO views.py 64 15520 4524 任务添加成功,开始爬取

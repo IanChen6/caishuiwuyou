@@ -49,13 +49,18 @@ def tasks(request):
                     customerid = int(post_data['CustomerID'][0])
                     jobname = post_data['jobname'][0]
                     jobparams = post_data['jobparams'][0]
+                    try:
+                        jobextend = post_data['JobExtend'][0]
+                    except:
+                        jobextend=''
+                        pass
                     # 获取数据库
                     host, port, db = get_db(companyid)
                     # 添加任务
                     logger.info("添加任务到数据库")
                     logger.info(db)
                     add_task(host, port, db, batchid, batchyear, batchmonth, companyid, customerid, "TAXDATA", jobname,
-                             jobparams)
+                             jobparams, jobextend)
                     logger.info("任务添加成功,开始爬取")
                     pdict = {"1": account, "2": pwd, "3": batchid, "4": batchyear, "5": batchmonth, "6": companyid,
                              "7": customerid, "8": host, "9": port, "10": db}
@@ -85,14 +90,18 @@ def tasks(request):
                     batchmonth = int(post_data['BatchMonth'][0])
                     jobname = post_data['jobname'][0]
                     jobparams = post_data['jobparams'][0]
-
+                    try:
+                        jobextend = post_data['JobExtend'][0]
+                    except:
+                        jobextend=''
+                        pass
                     # 获取数据库
                     host, port, db = get_db(companyid)
                     # 添加任务
                     logger.info("添加任务到数据库")
                     logger.info(db)
                     add_task(host, port, db, batchid, batchyear, batchmonth, companyid, customerid, "CUSTOMERINFO",
-                             jobname, jobparams)
+                             jobname, jobparams, jobextend)
                     logger.info("任务添加成功,开始爬取")
                     sz_credit_dict = {"1": user, "2": pwd, "3": batchid, "4": companyid,
                                       "5": customerid, "6": host, "7": port, "8": db}
@@ -121,14 +130,18 @@ def tasks(request):
                     batchmonth = int(post_data['BatchMonth'][0])
                     jobname = post_data['jobname'][0]
                     jobparams = post_data['jobparams'][0]
-
+                    try:
+                        jobextend = post_data['JobExtend'][0]
+                    except:
+                        jobextend=''
+                        pass
                     # 获取数据库
                     host, port, db = get_db(companyid)
                     # 添加任务
                     logger.info("添加任务到数据库")
                     logger.info(db)
                     add_task(host, port, db, batchid, batchyear, batchmonth, companyid, customerid, "CUSTOMERINVOICE",
-                             jobname, jobparams)
+                             jobname, jobparams, jobextend)
                     logger.info("任务添加成功,开始爬取")
                     fphz_dict = {"1": user, "2": pwd, "3": batchid, "4": companyid,
                                  "5": customerid, "6": host, "7": port, "8": db}
@@ -170,15 +183,18 @@ def tasks(request):
                     djms = post_data['djms'][0]
                     dfms = post_data['dfms'][0]
                     dcms = post_data['dcms'][0]
-
+                    try:
+                        jobextend = post_data['JobExtend'][0]
+                    except:
+                        jobextend=''
+                        pass
                     # 获取数据库
                     host, port, db = get_db(companyid)
                     # 添加任务
                     logger.info("添加任务到数据库")
                     logger.info(db)
                     add_task(host, port, db, batchid, batchyear, batchmonth, companyid, customerid, "TAXAPPLYNORMAL",
-                             jobname,
-                             jobparams)
+                             jobname, jobparams, jobextend)
                     logger.info("任务添加成功,开始爬取")
                     pdict = {"1": user, "2": pwd, "3": batchid, "4": batchyear, "5": batchmonth, "6": companyid,
                              "7": customerid, "8": host, "9": port, "10": db, "11": fw1, "12": fw2, "13": hw1,
@@ -208,17 +224,21 @@ def tasks(request):
                     customerid = int(post_data['CustomerID'][0])
                     jobname = post_data['jobname'][0]
                     jobparams = post_data['jobparams'][0]
-
+                    try:
+                        jobextend = post_data['JobExtend'][0]
+                    except:
+                        jobextend=''
+                        pass
                     # 获取数据库
                     host, port, db = get_db(companyid)
                     # 添加任务
                     logger.info("添加任务到数据库")
                     logger.info(db)
                     add_task(host, port, db, batchid, batchyear, batchmonth, companyid, customerid, "TAXINVOICE",
-                             jobname,
-                             jobparams)
+                             jobname, jobparams, jobextend)
                     logger.info("任务添加成功,开始爬取")
-                    pdict = {"1": user, "2": pwd, "3": batchid,  "4": companyid, "5": customerid, "6": host, "7": port, "8": db}
+                    pdict = {"1": user, "2": pwd, "3": batchid, "4": companyid, "5": customerid, "6": host, "7": port,
+                             "8": db}
                     pjson = json.dumps(pdict)
                     redis_cli.lpush("daikai", pjson)
                     # ss=redis_cli.lpop("list")

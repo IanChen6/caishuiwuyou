@@ -30,12 +30,12 @@ def get_db(companyid):
     return host, port, db
 
 
-def add_task(host, port, db, batchid, batchyear, batchmonth, companyid, customerid, type,jobname, jobparam):
+def add_task(host, port, db, batchid, batchyear, batchmonth, companyid, customerid, type,jobname, jobparam,jobextend):
     conn = pymssql.connect(host=host, port=port, user='Python', password='pl,okmPL<OKM', database=db, autocommit=True,
                            charset='utf8')
     cur = conn.cursor()
-    sql = '[dbo].[Python_Serivce_Job_AddV1]'
-    params = (batchid, batchyear, batchmonth, companyid, customerid,type,jobname, jobparam)
+    sql = '[dbo].[Python_Serivce_Job_AddV2]'
+    params = (batchid, batchyear, batchmonth, companyid, customerid,type,jobname, jobparam,jobextend)
     foo = cur.callproc(sql, params)
     print(foo[-1])
     conn.close()
