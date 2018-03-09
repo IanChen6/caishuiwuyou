@@ -91,7 +91,10 @@ def tasks(request):
                     batchmonth = int(post_data['BatchMonth'][0])
                     jobname = post_data['jobname'][0]
                     jobparams = post_data['jobparams'][0]
-                    companyname=post_data['CustomerName'][0]
+                    try:
+                        companyname=post_data['CustomerName'][0]
+                    except:
+                        companyname=""
                     try:
                         jobextend = post_data['JobExtend'][0]
                     except:
