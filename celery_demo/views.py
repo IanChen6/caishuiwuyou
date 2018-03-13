@@ -314,6 +314,22 @@ def cancel_task(request):
 
             if post_data['Type'][0] == "CUSTOMERINFO":
                 logger.info("爬取信用信息")
+                if post_data['bathcancel']:
+                    logger.info("任务信息接收成功")
+                    batchid = post_data['bathcancel'][0]
+                    #
+                    logger.info("取消任务")
+                    a = redis_cli.lrange('sz_credit_list', 0, -1)
+                    for i in a:
+                        for batch in batchid:
+                            if batch in i:
+                                redis_cli.lrem('sz_credit_list', 1, i)
+                                logger.info("取消成功")
+                                print("取消成功")
+                    # ss=redis_cli.lpop("list")
+                    # print(redis_cli.lpop("list"))
+                    # result=run_test_suit.delay(user=account, pwd=pwd, batchid=batchid, batchyear=batchyear, batchmonth=batchmonth,companyid=companyid, customerid=customerid,host=host,port=port,db=db)
+                    return HttpResponse("job is cancelled successfully~")
                 if post_data['BatchID'] and post_data[
                     'CompanyID'] and post_data['CustomerID'] and post_data[
                     'TaxId'] and post_data['TaxPwd'] and post_data[

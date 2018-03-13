@@ -7952,3 +7952,831 @@ Fri 09 Mar 2018 10:35:07 INFO views.py 103 12092 21544 添加任务到数据库
 Fri 09 Mar 2018 10:35:07 INFO views.py 104 12092 21544 ACT12345678
 Fri 09 Mar 2018 10:35:20 INFO views.py 108 12092 21544 任务添加成功,开始爬取
 Fri 09 Mar 2018 10:35:27 INFO views.py 29 1936 21544 开始接受请求
+Fri 09 Mar 2018 11:37:37 INFO views.py 29 17096 17884 开始接受请求
+Fri 09 Mar 2018 11:37:37 INFO views.py 32 17096 17884 接受请求成功
+Fri 09 Mar 2018 11:37:37 INFO views.py 33 17096 17884 {'BatchMonth': ['1'], 'CustomerID': ['9'], 'CustomerName': ['CustomerName'], 'BatchID': ['5590'], 'jobparams': ['工作中'], 'Type': ['CUSTOMERINFO'], 'TaxPwd': ['xdh123456'], 'TaxId': ['440300683771524'], 'CompanyID': ['18282900'], 'jobname': ['工程1'], 'BatchYear': ['2018']}
+Fri 09 Mar 2018 11:37:37 INFO views.py 79 17096 17884 爬取信用信息
+Fri 09 Mar 2018 11:37:37 INFO views.py 84 17096 17884 任务信息接收成功
+Fri 09 Mar 2018 11:37:37 INFO views.py 106 17096 17884 添加任务到数据库
+Fri 09 Mar 2018 11:37:37 INFO views.py 107 17096 17884 ACT18282900
+Fri 09 Mar 2018 11:37:37 INFO views.py 111 17096 17884 任务添加成功,开始爬取
+Fri 09 Mar 2018 11:39:16 INFO views.py 29 6612 17884 开始接受请求
+Fri 09 Mar 2018 11:39:16 INFO views.py 32 6612 17884 接受请求成功
+Fri 09 Mar 2018 11:39:16 INFO views.py 33 6612 17884 {'BatchMonth': ['1'], 'CustomerID': ['9'], 'CustomerName': ['CustomerName'], 'BatchID': ['5590'], 'jobparams': ['工作中'], 'Type': ['CUSTOMERINFO'], 'TaxPwd': ['xdh123456'], 'TaxId': ['440300683771524'], 'CompanyID': ['18282900'], 'jobname': ['工程1'], 'BatchYear': ['2018']}
+Fri 09 Mar 2018 11:39:16 INFO views.py 79 6612 17884 爬取信用信息
+Fri 09 Mar 2018 11:39:16 INFO views.py 84 6612 17884 任务信息接收成功
+Fri 09 Mar 2018 11:39:16 INFO views.py 106 6612 17884 添加任务到数据库
+Fri 09 Mar 2018 11:39:16 INFO views.py 107 6612 17884 ACT18282900
+Fri 09 Mar 2018 11:39:16 INFO views.py 111 6612 17884 任务添加成功,开始爬取
+Fri 09 Mar 2018 11:42:18 INFO views.py 29 9068 17884 开始接受请求
+Fri 09 Mar 2018 11:42:18 INFO views.py 32 9068 17884 接受请求成功
+Fri 09 Mar 2018 11:42:18 INFO views.py 33 9068 17884 {'BatchMonth': ['1'], 'CustomerID': ['9'], 'CustomerName': ['CustomerName'], 'BatchID': ['5590'], 'jobparams': ['工作中'], 'Type': ['CUSTOMERINFO'], 'TaxPwd': ['xdh123456'], 'TaxId': ['440300683771524'], 'CompanyID': ['18282900'], 'BatchYear': ['2018'], 'jobname': ['工程1']}
+Fri 09 Mar 2018 11:42:18 INFO views.py 79 9068 17884 爬取信用信息
+Fri 09 Mar 2018 11:42:18 INFO views.py 84 9068 17884 任务信息接收成功
+Fri 09 Mar 2018 11:42:18 INFO views.py 106 9068 17884 添加任务到数据库
+Fri 09 Mar 2018 11:42:18 INFO views.py 107 9068 17884 ACT18282900
+Fri 09 Mar 2018 11:42:18 INFO views.py 111 9068 17884 任务添加成功,开始爬取
+Fri 09 Mar 2018 11:44:59 INFO views.py 29 7620 17884 开始接受请求
+Fri 09 Mar 2018 11:44:59 INFO views.py 32 7620 17884 接受请求成功
+Fri 09 Mar 2018 11:44:59 INFO views.py 33 7620 17884 {'BatchMonth': ['1'], 'CustomerID': ['9'], 'CustomerName': ['CustomerName'], 'BatchID': ['5590'], 'jobparams': ['工作中'], 'Type': ['CUSTOMERINFO'], 'TaxPwd': ['xdh123456'], 'TaxId': ['440300683771524'], 'CompanyID': ['18282900'], 'BatchYear': ['2018'], 'jobname': ['工程1']}
+Fri 09 Mar 2018 11:44:59 INFO views.py 79 7620 17884 爬取信用信息
+Fri 09 Mar 2018 11:44:59 INFO views.py 84 7620 17884 任务信息接收成功
+Fri 09 Mar 2018 11:44:59 INFO views.py 106 7620 17884 添加任务到数据库
+Fri 09 Mar 2018 11:44:59 INFO views.py 107 7620 17884 ACT18282900
+Fri 09 Mar 2018 11:44:59 INFO views.py 111 7620 17884 任务添加成功,开始爬取
+Fri 09 Mar 2018 11:50:05 INFO views.py 29 17676 17884 开始接受请求
+Fri 09 Mar 2018 11:50:05 INFO views.py 32 17676 17884 接受请求成功
+Fri 09 Mar 2018 11:50:05 INFO views.py 33 17676 17884 {'BatchMonth': ['1'], 'CustomerID': ['9'], 'CustomerName': ['伟亨实业（深圳）有限公司'], 'BatchID': ['5590'], 'jobparams': ['工作中'], 'Type': ['CUSTOMERINFO'], 'TaxPwd': ['xdh123456'], 'TaxId': ['440300683771524'], 'CompanyID': ['18282900'], 'jobname': ['工程1'], 'BatchYear': ['2018']}
+Fri 09 Mar 2018 11:50:05 INFO views.py 79 17676 17884 爬取信用信息
+Fri 09 Mar 2018 11:50:05 INFO views.py 84 17676 17884 任务信息接收成功
+Fri 09 Mar 2018 11:50:05 INFO views.py 106 17676 17884 添加任务到数据库
+Fri 09 Mar 2018 11:50:05 INFO views.py 107 17676 17884 ACT18282900
+Fri 09 Mar 2018 11:50:05 INFO views.py 111 17676 17884 任务添加成功,开始爬取
+Fri 09 Mar 2018 11:51:50 INFO views.py 29 7324 17884 开始接受请求
+Fri 09 Mar 2018 11:51:50 INFO views.py 32 7324 17884 接受请求成功
+Fri 09 Mar 2018 11:51:50 INFO views.py 33 7324 17884 {'BatchMonth': ['1'], 'CustomerID': ['9'], 'CustomerName': ['伟亨实业（深圳）有限公司'], 'BatchID': ['5590'], 'jobparams': ['工作中'], 'Type': ['CUSTOMERINFO'], 'TaxPwd': ['xdh123456'], 'TaxId': ['440300683771524'], 'CompanyID': ['18282900'], 'BatchYear': ['2018'], 'jobname': ['工程1']}
+Fri 09 Mar 2018 11:51:50 INFO views.py 79 7324 17884 爬取信用信息
+Fri 09 Mar 2018 11:51:50 INFO views.py 84 7324 17884 任务信息接收成功
+Fri 09 Mar 2018 11:51:50 INFO views.py 106 7324 17884 添加任务到数据库
+Fri 09 Mar 2018 11:51:50 INFO views.py 107 7324 17884 ACT18282900
+Fri 09 Mar 2018 11:51:50 INFO views.py 111 7324 17884 任务添加成功,开始爬取
+Fri 09 Mar 2018 11:53:21 INFO views.py 29 23848 17884 开始接受请求
+Fri 09 Mar 2018 11:53:21 INFO views.py 32 23848 17884 接受请求成功
+Fri 09 Mar 2018 11:53:21 INFO views.py 33 23848 17884 {'BatchMonth': ['1'], 'CustomerID': ['9'], 'CustomerName': ['深圳市九十九维信息咨询有限公司'], 'BatchID': ['5590'], 'jobparams': ['工作中'], 'Type': ['CUSTOMERINFO'], 'TaxPwd': ['xdh123456'], 'TaxId': ['440300683771524'], 'CompanyID': ['18282900'], 'BatchYear': ['2018'], 'jobname': ['工程1']}
+Fri 09 Mar 2018 11:53:21 INFO views.py 79 23848 17884 爬取信用信息
+Fri 09 Mar 2018 11:53:21 INFO views.py 84 23848 17884 任务信息接收成功
+Fri 09 Mar 2018 11:53:21 INFO views.py 106 23848 17884 添加任务到数据库
+Fri 09 Mar 2018 11:53:21 INFO views.py 107 23848 17884 ACT18282900
+Fri 09 Mar 2018 11:53:21 INFO views.py 111 23848 17884 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:40:22 INFO views.py 271 15952 19964 开始接受请求
+Tue 13 Mar 2018 16:40:22 INFO views.py 273 15952 19964 接受到post请求
+Tue 13 Mar 2018 16:40:22 INFO views.py 275 15952 19964 接受请求成功
+Tue 13 Mar 2018 16:40:22 INFO views.py 276 15952 19964 {'bathcancel': ['["0116f9940108d588fd6bab6b78","0116f9940108d588fd6bbfc210","0116f9940108d588fd6bce2f2d","0116f9940108d588fd6bdcb874","0116f9940108d588fd6beca42b","0116f9940108d588fd6bf8faa3","0116f9940108d588fd6c04e9a3","0116f9940108d588fd6c12afaa","0116f9940108d588fd6c209d7a","0116f9940108d588fd6c2d56be","0116f9940108d588fd6c3b1c89","0116f9940108d588fd6c4958ea","0116f9940108d588fd6c55f9a9","0116f9940108d588fd6c65367c","0116f9940108d588fd6c745f96","0116f9940108d588fd6c81744a","0116f9940108d588fd6c90537b","0116f9940108d588fd6c9c1b65","0116f9940108d588fd6ca8a807","0116f9940108d588fd6cb72fc6","0116f9940108d588fd6cc4a7be","0116f9940108d588fd6cd2954a","0116f9940108d588fd6ce2f545","0116f9940108d588fd6cf0d024","0116f9940108d588fd6cfebe5a","0116f9940108d588fd6d0de8f4","0116f9940108d588fd6d1f0d03","0116f9940108d588fd6d2dbeb4","0116f9940108d588fd6d3b5ca1","0116f9940108d588fd6d49e705","0116f9940108d588fd6d56fbd8"]'], 'Type': ['CUSTOMERINFO']}
+Tue 13 Mar 2018 16:40:22 INFO views.py 316 15952 19964 爬取信用信息
+Tue 13 Mar 2018 16:40:22 INFO views.py 318 15952 19964 任务信息接收成功
+Tue 13 Mar 2018 16:40:22 INFO views.py 321 15952 19964 取消任务
+Tue 13 Mar 2018 16:43:34 INFO views.py 29 14328 17612 开始接受请求
+Tue 13 Mar 2018 16:43:34 INFO views.py 32 14328 17612 接受请求成功
+Tue 13 Mar 2018 16:43:34 INFO views.py 33 14328 17612 {'jobname': ['批量初始化公司信息'], 'Type': ['CUSTOMERINFO'], 'BatchYear': ['0'], 'BatchMonth': ['0'], 'CustomerID': ['0'], 'CompanyID': ['18282900'], 'JobExtend': ['{}'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'BatchID': ['0116f9940108d589019022cc2c'], 'SocialID': [''], 'CustomerName': ['系统管理员'], 'jobparams': ['{"BatchID":"0116f9940108d589019022cc2c","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员1","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'TaxId': ['系统管理员1']}
+Tue 13 Mar 2018 16:43:34 INFO views.py 79 14328 17612 爬取信用信息
+Tue 13 Mar 2018 16:43:34 INFO views.py 84 14328 17612 任务信息接收成功
+Tue 13 Mar 2018 16:43:35 INFO views.py 106 14328 17612 添加任务到数据库
+Tue 13 Mar 2018 16:43:35 INFO views.py 107 14328 17612 ACT18282900
+Tue 13 Mar 2018 16:43:35 INFO views.py 111 14328 17612 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:43:35 INFO views.py 29 18040 17612 开始接受请求
+Tue 13 Mar 2018 16:43:35 INFO views.py 32 18040 17612 接受请求成功
+Tue 13 Mar 2018 16:43:35 INFO views.py 33 18040 17612 {'jobname': ['批量初始化公司信息'], 'Type': ['CUSTOMERINFO'], 'BatchYear': ['0'], 'BatchMonth': ['0'], 'CustomerID': ['0'], 'CompanyID': ['18282900'], 'JobExtend': ['{}'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'BatchID': ['0116f9940108d5890190431ebc'], 'SocialID': [''], 'CustomerName': ['系统管理员'], 'jobparams': ['{"BatchID":"0116f9940108d5890190431ebc","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员2","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'TaxId': ['系统管理员2']}
+Tue 13 Mar 2018 16:43:35 INFO views.py 79 18040 17612 爬取信用信息
+Tue 13 Mar 2018 16:43:35 INFO views.py 84 18040 17612 任务信息接收成功
+Tue 13 Mar 2018 16:43:35 INFO views.py 106 18040 17612 添加任务到数据库
+Tue 13 Mar 2018 16:43:35 INFO views.py 107 18040 17612 ACT18282900
+Tue 13 Mar 2018 16:43:35 INFO views.py 111 18040 17612 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:43:35 INFO views.py 29 15876 17612 开始接受请求
+Tue 13 Mar 2018 16:43:35 INFO views.py 32 15876 17612 接受请求成功
+Tue 13 Mar 2018 16:43:35 INFO views.py 33 15876 17612 {'jobname': ['批量初始化公司信息'], 'Type': ['CUSTOMERINFO'], 'BatchYear': ['0'], 'BatchMonth': ['0'], 'CustomerID': ['0'], 'CompanyID': ['18282900'], 'JobExtend': ['{}'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'BatchID': ['0116f9940108d589019057299d'], 'SocialID': [''], 'CustomerName': ['系统管理员'], 'jobparams': ['{"BatchID":"0116f9940108d589019057299d","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员3","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'TaxId': ['系统管理员3']}
+Tue 13 Mar 2018 16:43:35 INFO views.py 79 15876 17612 爬取信用信息
+Tue 13 Mar 2018 16:43:35 INFO views.py 84 15876 17612 任务信息接收成功
+Tue 13 Mar 2018 16:43:35 INFO views.py 106 15876 17612 添加任务到数据库
+Tue 13 Mar 2018 16:43:35 INFO views.py 107 15876 17612 ACT18282900
+Tue 13 Mar 2018 16:43:35 INFO views.py 111 15876 17612 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:43:35 INFO views.py 29 15480 17612 开始接受请求
+Tue 13 Mar 2018 16:43:35 INFO views.py 32 15480 17612 接受请求成功
+Tue 13 Mar 2018 16:43:35 INFO views.py 33 15480 17612 {'jobname': ['批量初始化公司信息'], 'Type': ['CUSTOMERINFO'], 'BatchYear': ['0'], 'BatchMonth': ['0'], 'CustomerID': ['0'], 'CompanyID': ['18282900'], 'JobExtend': ['{}'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'BatchID': ['0116f9940108d5890190689b35'], 'SocialID': [''], 'CustomerName': ['系统管理员'], 'jobparams': ['{"BatchID":"0116f9940108d5890190689b35","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员4","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'TaxId': ['系统管理员4']}
+Tue 13 Mar 2018 16:43:35 INFO views.py 79 15480 17612 爬取信用信息
+Tue 13 Mar 2018 16:43:35 INFO views.py 84 15480 17612 任务信息接收成功
+Tue 13 Mar 2018 16:43:35 INFO views.py 106 15480 17612 添加任务到数据库
+Tue 13 Mar 2018 16:43:35 INFO views.py 107 15480 17612 ACT18282900
+Tue 13 Mar 2018 16:43:35 INFO views.py 111 15480 17612 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:43:35 INFO views.py 29 20108 17612 开始接受请求
+Tue 13 Mar 2018 16:43:35 INFO views.py 32 20108 17612 接受请求成功
+Tue 13 Mar 2018 16:43:35 INFO views.py 33 20108 17612 {'jobname': ['批量初始化公司信息'], 'Type': ['CUSTOMERINFO'], 'BatchYear': ['0'], 'BatchMonth': ['0'], 'CustomerID': ['0'], 'CompanyID': ['18282900'], 'JobExtend': ['{}'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'BatchID': ['0116f9940108d58901907d42dd'], 'SocialID': [''], 'CustomerName': ['系统管理员'], 'jobparams': ['{"BatchID":"0116f9940108d58901907d42dd","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员5","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'TaxId': ['系统管理员5']}
+Tue 13 Mar 2018 16:43:35 INFO views.py 79 20108 17612 爬取信用信息
+Tue 13 Mar 2018 16:43:35 INFO views.py 84 20108 17612 任务信息接收成功
+Tue 13 Mar 2018 16:43:35 INFO views.py 106 20108 17612 添加任务到数据库
+Tue 13 Mar 2018 16:43:35 INFO views.py 107 20108 17612 ACT18282900
+Tue 13 Mar 2018 16:43:35 INFO views.py 111 20108 17612 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:43:35 INFO views.py 29 11780 17612 开始接受请求
+Tue 13 Mar 2018 16:43:35 INFO views.py 32 11780 17612 接受请求成功
+Tue 13 Mar 2018 16:43:35 INFO views.py 33 11780 17612 {'jobname': ['批量初始化公司信息'], 'Type': ['CUSTOMERINFO'], 'BatchYear': ['0'], 'BatchMonth': ['0'], 'CustomerID': ['0'], 'CompanyID': ['18282900'], 'JobExtend': ['{}'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'BatchID': ['0116f9940108d58901908f780e'], 'SocialID': [''], 'CustomerName': ['系统管理员'], 'jobparams': ['{"BatchID":"0116f9940108d58901908f780e","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员6","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'TaxId': ['系统管理员6']}
+Tue 13 Mar 2018 16:43:35 INFO views.py 79 11780 17612 爬取信用信息
+Tue 13 Mar 2018 16:43:35 INFO views.py 84 11780 17612 任务信息接收成功
+Tue 13 Mar 2018 16:43:35 INFO views.py 106 11780 17612 添加任务到数据库
+Tue 13 Mar 2018 16:43:35 INFO views.py 107 11780 17612 ACT18282900
+Tue 13 Mar 2018 16:43:35 INFO views.py 111 11780 17612 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:43:35 INFO views.py 29 19952 17612 开始接受请求
+Tue 13 Mar 2018 16:43:35 INFO views.py 32 19952 17612 接受请求成功
+Tue 13 Mar 2018 16:43:35 INFO views.py 33 19952 17612 {'jobname': ['批量初始化公司信息'], 'Type': ['CUSTOMERINFO'], 'BatchYear': ['0'], 'BatchMonth': ['0'], 'CustomerID': ['0'], 'CompanyID': ['18282900'], 'JobExtend': ['{}'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'BatchID': ['0116f9940108d58901909eec0c'], 'SocialID': [''], 'CustomerName': ['系统管理员'], 'jobparams': ['{"BatchID":"0116f9940108d58901909eec0c","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员7","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'TaxId': ['系统管理员7']}
+Tue 13 Mar 2018 16:43:35 INFO views.py 79 19952 17612 爬取信用信息
+Tue 13 Mar 2018 16:43:35 INFO views.py 84 19952 17612 任务信息接收成功
+Tue 13 Mar 2018 16:43:35 INFO views.py 106 19952 17612 添加任务到数据库
+Tue 13 Mar 2018 16:43:35 INFO views.py 107 19952 17612 ACT18282900
+Tue 13 Mar 2018 16:43:35 INFO views.py 111 19952 17612 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:43:35 INFO views.py 29 7788 17612 开始接受请求
+Tue 13 Mar 2018 16:43:35 INFO views.py 32 7788 17612 接受请求成功
+Tue 13 Mar 2018 16:43:35 INFO views.py 33 7788 17612 {'jobname': ['批量初始化公司信息'], 'Type': ['CUSTOMERINFO'], 'BatchYear': ['0'], 'BatchMonth': ['0'], 'CustomerID': ['0'], 'CompanyID': ['18282900'], 'JobExtend': ['{}'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'BatchID': ['0116f9940108d5890190ae876a'], 'SocialID': [''], 'CustomerName': ['系统管理员'], 'jobparams': ['{"BatchID":"0116f9940108d5890190ae876a","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员8","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'TaxId': ['系统管理员8']}
+Tue 13 Mar 2018 16:43:35 INFO views.py 79 7788 17612 爬取信用信息
+Tue 13 Mar 2018 16:43:35 INFO views.py 84 7788 17612 任务信息接收成功
+Tue 13 Mar 2018 16:43:35 INFO views.py 106 7788 17612 添加任务到数据库
+Tue 13 Mar 2018 16:43:35 INFO views.py 107 7788 17612 ACT18282900
+Tue 13 Mar 2018 16:43:35 INFO views.py 111 7788 17612 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:43:35 INFO views.py 29 19492 17612 开始接受请求
+Tue 13 Mar 2018 16:43:35 INFO views.py 32 19492 17612 接受请求成功
+Tue 13 Mar 2018 16:43:35 INFO views.py 33 19492 17612 {'jobname': ['批量初始化公司信息'], 'Type': ['CUSTOMERINFO'], 'BatchYear': ['0'], 'BatchMonth': ['0'], 'CustomerID': ['0'], 'CompanyID': ['18282900'], 'JobExtend': ['{}'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'BatchID': ['0116f9940108d5890190c32eeb'], 'SocialID': [''], 'CustomerName': ['系统管理员'], 'jobparams': ['{"BatchID":"0116f9940108d5890190c32eeb","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员9","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'TaxId': ['系统管理员9']}
+Tue 13 Mar 2018 16:43:35 INFO views.py 79 19492 17612 爬取信用信息
+Tue 13 Mar 2018 16:43:35 INFO views.py 84 19492 17612 任务信息接收成功
+Tue 13 Mar 2018 16:43:35 INFO views.py 106 19492 17612 添加任务到数据库
+Tue 13 Mar 2018 16:43:35 INFO views.py 107 19492 17612 ACT18282900
+Tue 13 Mar 2018 16:43:36 INFO views.py 111 19492 17612 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:43:36 INFO views.py 29 19768 17612 开始接受请求
+Tue 13 Mar 2018 16:43:36 INFO views.py 32 19768 17612 接受请求成功
+Tue 13 Mar 2018 16:43:36 INFO views.py 33 19768 17612 {'jobname': ['批量初始化公司信息'], 'Type': ['CUSTOMERINFO'], 'BatchYear': ['0'], 'BatchMonth': ['0'], 'CustomerID': ['0'], 'CompanyID': ['18282900'], 'JobExtend': ['{}'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'BatchID': ['0116f9940108d5890190cf166c'], 'SocialID': [''], 'CustomerName': ['系统管理员'], 'jobparams': ['{"BatchID":"0116f9940108d5890190cf166c","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员10","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'TaxId': ['系统管理员10']}
+Tue 13 Mar 2018 16:43:36 INFO views.py 79 19768 17612 爬取信用信息
+Tue 13 Mar 2018 16:43:36 INFO views.py 84 19768 17612 任务信息接收成功
+Tue 13 Mar 2018 16:43:36 INFO views.py 106 19768 17612 添加任务到数据库
+Tue 13 Mar 2018 16:43:36 INFO views.py 107 19768 17612 ACT18282900
+Tue 13 Mar 2018 16:43:36 INFO views.py 111 19768 17612 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:43:36 INFO views.py 29 16688 17612 开始接受请求
+Tue 13 Mar 2018 16:43:36 INFO views.py 32 16688 17612 接受请求成功
+Tue 13 Mar 2018 16:43:36 INFO views.py 33 16688 17612 {'jobname': ['批量初始化公司信息'], 'Type': ['CUSTOMERINFO'], 'BatchYear': ['0'], 'BatchMonth': ['0'], 'CustomerID': ['0'], 'CompanyID': ['18282900'], 'JobExtend': ['{}'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'BatchID': ['0116f9940108d5890190eac7de'], 'SocialID': [''], 'CustomerName': ['系统管理员'], 'jobparams': ['{"BatchID":"0116f9940108d5890190eac7de","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员11","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'TaxId': ['系统管理员11']}
+Tue 13 Mar 2018 16:43:36 INFO views.py 79 16688 17612 爬取信用信息
+Tue 13 Mar 2018 16:43:36 INFO views.py 84 16688 17612 任务信息接收成功
+Tue 13 Mar 2018 16:43:36 INFO views.py 106 16688 17612 添加任务到数据库
+Tue 13 Mar 2018 16:43:36 INFO views.py 107 16688 17612 ACT18282900
+Tue 13 Mar 2018 16:43:36 INFO views.py 111 16688 17612 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:43:36 INFO views.py 29 19412 17612 开始接受请求
+Tue 13 Mar 2018 16:43:36 INFO views.py 32 19412 17612 接受请求成功
+Tue 13 Mar 2018 16:43:36 INFO views.py 33 19412 17612 {'jobname': ['批量初始化公司信息'], 'Type': ['CUSTOMERINFO'], 'BatchYear': ['0'], 'BatchMonth': ['0'], 'CustomerID': ['0'], 'CompanyID': ['18282900'], 'JobExtend': ['{}'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'BatchID': ['0116f9940108d5890190fdd6ce'], 'SocialID': [''], 'CustomerName': ['系统管理员'], 'jobparams': ['{"BatchID":"0116f9940108d5890190fdd6ce","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员12","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'TaxId': ['系统管理员12']}
+Tue 13 Mar 2018 16:43:36 INFO views.py 79 19412 17612 爬取信用信息
+Tue 13 Mar 2018 16:43:36 INFO views.py 84 19412 17612 任务信息接收成功
+Tue 13 Mar 2018 16:43:36 INFO views.py 106 19412 17612 添加任务到数据库
+Tue 13 Mar 2018 16:43:36 INFO views.py 107 19412 17612 ACT18282900
+Tue 13 Mar 2018 16:43:36 INFO views.py 111 19412 17612 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:43:36 INFO views.py 29 2972 17612 开始接受请求
+Tue 13 Mar 2018 16:43:36 INFO views.py 32 2972 17612 接受请求成功
+Tue 13 Mar 2018 16:43:36 INFO views.py 33 2972 17612 {'jobname': ['批量初始化公司信息'], 'Type': ['CUSTOMERINFO'], 'BatchYear': ['0'], 'BatchMonth': ['0'], 'CustomerID': ['0'], 'CompanyID': ['18282900'], 'JobExtend': ['{}'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'BatchID': ['0116f9940108d58901910fa752'], 'SocialID': [''], 'CustomerName': ['系统管理员'], 'jobparams': ['{"BatchID":"0116f9940108d58901910fa752","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员13","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'TaxId': ['系统管理员13']}
+Tue 13 Mar 2018 16:43:36 INFO views.py 79 2972 17612 爬取信用信息
+Tue 13 Mar 2018 16:43:36 INFO views.py 84 2972 17612 任务信息接收成功
+Tue 13 Mar 2018 16:43:36 INFO views.py 106 2972 17612 添加任务到数据库
+Tue 13 Mar 2018 16:43:36 INFO views.py 107 2972 17612 ACT18282900
+Tue 13 Mar 2018 16:43:36 INFO views.py 111 2972 17612 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:43:36 INFO views.py 29 9408 17612 开始接受请求
+Tue 13 Mar 2018 16:43:36 INFO views.py 32 9408 17612 接受请求成功
+Tue 13 Mar 2018 16:43:36 INFO views.py 33 9408 17612 {'jobname': ['批量初始化公司信息'], 'Type': ['CUSTOMERINFO'], 'BatchYear': ['0'], 'BatchMonth': ['0'], 'CustomerID': ['0'], 'CompanyID': ['18282900'], 'JobExtend': ['{}'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'BatchID': ['0116f9940108d5890191269ce6'], 'SocialID': [''], 'CustomerName': ['系统管理员'], 'jobparams': ['{"BatchID":"0116f9940108d5890191269ce6","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员14","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'TaxId': ['系统管理员14']}
+Tue 13 Mar 2018 16:43:36 INFO views.py 79 9408 17612 爬取信用信息
+Tue 13 Mar 2018 16:43:36 INFO views.py 84 9408 17612 任务信息接收成功
+Tue 13 Mar 2018 16:43:36 INFO views.py 106 9408 17612 添加任务到数据库
+Tue 13 Mar 2018 16:43:36 INFO views.py 107 9408 17612 ACT18282900
+Tue 13 Mar 2018 16:43:36 INFO views.py 111 9408 17612 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:43:36 INFO views.py 29 18668 17612 开始接受请求
+Tue 13 Mar 2018 16:43:36 INFO views.py 32 18668 17612 接受请求成功
+Tue 13 Mar 2018 16:43:36 INFO views.py 33 18668 17612 {'jobname': ['批量初始化公司信息'], 'Type': ['CUSTOMERINFO'], 'BatchYear': ['0'], 'BatchMonth': ['0'], 'CustomerID': ['0'], 'CompanyID': ['18282900'], 'JobExtend': ['{}'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'BatchID': ['0116f9940108d589019138ab34'], 'SocialID': [''], 'CustomerName': ['系统管理员'], 'jobparams': ['{"BatchID":"0116f9940108d589019138ab34","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员15","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'TaxId': ['系统管理员15']}
+Tue 13 Mar 2018 16:43:36 INFO views.py 79 18668 17612 爬取信用信息
+Tue 13 Mar 2018 16:43:36 INFO views.py 84 18668 17612 任务信息接收成功
+Tue 13 Mar 2018 16:43:36 INFO views.py 106 18668 17612 添加任务到数据库
+Tue 13 Mar 2018 16:43:36 INFO views.py 107 18668 17612 ACT18282900
+Tue 13 Mar 2018 16:43:36 INFO views.py 111 18668 17612 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:43:36 INFO views.py 29 20364 17612 开始接受请求
+Tue 13 Mar 2018 16:43:36 INFO views.py 32 20364 17612 接受请求成功
+Tue 13 Mar 2018 16:43:36 INFO views.py 33 20364 17612 {'jobname': ['批量初始化公司信息'], 'Type': ['CUSTOMERINFO'], 'BatchYear': ['0'], 'BatchMonth': ['0'], 'CustomerID': ['0'], 'CompanyID': ['18282900'], 'JobExtend': ['{}'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'BatchID': ['0116f9940108d58901914bdf8d'], 'SocialID': [''], 'CustomerName': ['系统管理员'], 'jobparams': ['{"BatchID":"0116f9940108d58901914bdf8d","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员16","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'TaxId': ['系统管理员16']}
+Tue 13 Mar 2018 16:43:36 INFO views.py 79 20364 17612 爬取信用信息
+Tue 13 Mar 2018 16:43:36 INFO views.py 84 20364 17612 任务信息接收成功
+Tue 13 Mar 2018 16:43:36 INFO views.py 106 20364 17612 添加任务到数据库
+Tue 13 Mar 2018 16:43:36 INFO views.py 107 20364 17612 ACT18282900
+Tue 13 Mar 2018 16:43:36 INFO views.py 111 20364 17612 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:43:36 INFO views.py 29 17888 17612 开始接受请求
+Tue 13 Mar 2018 16:43:36 INFO views.py 32 17888 17612 接受请求成功
+Tue 13 Mar 2018 16:43:36 INFO views.py 33 17888 17612 {'jobname': ['批量初始化公司信息'], 'Type': ['CUSTOMERINFO'], 'BatchYear': ['0'], 'BatchMonth': ['0'], 'CustomerID': ['0'], 'CompanyID': ['18282900'], 'JobExtend': ['{}'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'BatchID': ['0116f9940108d5890191619ba4'], 'SocialID': [''], 'CustomerName': ['系统管理员'], 'jobparams': ['{"BatchID":"0116f9940108d5890191619ba4","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员17","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'TaxId': ['系统管理员17']}
+Tue 13 Mar 2018 16:43:36 INFO views.py 79 17888 17612 爬取信用信息
+Tue 13 Mar 2018 16:43:36 INFO views.py 84 17888 17612 任务信息接收成功
+Tue 13 Mar 2018 16:43:37 INFO views.py 106 17888 17612 添加任务到数据库
+Tue 13 Mar 2018 16:43:37 INFO views.py 107 17888 17612 ACT18282900
+Tue 13 Mar 2018 16:43:37 INFO views.py 111 17888 17612 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:43:37 INFO views.py 29 16916 17612 开始接受请求
+Tue 13 Mar 2018 16:43:37 INFO views.py 32 16916 17612 接受请求成功
+Tue 13 Mar 2018 16:43:37 INFO views.py 33 16916 17612 {'jobname': ['批量初始化公司信息'], 'Type': ['CUSTOMERINFO'], 'BatchYear': ['0'], 'BatchMonth': ['0'], 'CustomerID': ['0'], 'CompanyID': ['18282900'], 'JobExtend': ['{}'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'BatchID': ['0116f9940108d589019170734a'], 'SocialID': [''], 'CustomerName': ['系统管理员'], 'jobparams': ['{"BatchID":"0116f9940108d589019170734a","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员18","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'TaxId': ['系统管理员18']}
+Tue 13 Mar 2018 16:43:37 INFO views.py 79 16916 17612 爬取信用信息
+Tue 13 Mar 2018 16:43:37 INFO views.py 84 16916 17612 任务信息接收成功
+Tue 13 Mar 2018 16:43:37 INFO views.py 106 16916 17612 添加任务到数据库
+Tue 13 Mar 2018 16:43:37 INFO views.py 107 16916 17612 ACT18282900
+Tue 13 Mar 2018 16:43:37 INFO views.py 111 16916 17612 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:43:37 INFO views.py 29 14640 17612 开始接受请求
+Tue 13 Mar 2018 16:43:37 INFO views.py 32 14640 17612 接受请求成功
+Tue 13 Mar 2018 16:43:37 INFO views.py 33 14640 17612 {'jobname': ['批量初始化公司信息'], 'Type': ['CUSTOMERINFO'], 'BatchYear': ['0'], 'BatchMonth': ['0'], 'CustomerID': ['0'], 'CompanyID': ['18282900'], 'JobExtend': ['{}'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'BatchID': ['0116f9940108d589019185f4a0'], 'SocialID': [''], 'CustomerName': ['系统管理员'], 'jobparams': ['{"BatchID":"0116f9940108d589019185f4a0","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员19","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'TaxId': ['系统管理员19']}
+Tue 13 Mar 2018 16:43:37 INFO views.py 79 14640 17612 爬取信用信息
+Tue 13 Mar 2018 16:43:37 INFO views.py 84 14640 17612 任务信息接收成功
+Tue 13 Mar 2018 16:43:37 INFO views.py 106 14640 17612 添加任务到数据库
+Tue 13 Mar 2018 16:43:37 INFO views.py 107 14640 17612 ACT18282900
+Tue 13 Mar 2018 16:43:37 INFO views.py 111 14640 17612 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:43:37 INFO views.py 29 19936 17612 开始接受请求
+Tue 13 Mar 2018 16:43:37 INFO views.py 32 19936 17612 接受请求成功
+Tue 13 Mar 2018 16:43:37 INFO views.py 33 19936 17612 {'jobname': ['批量初始化公司信息'], 'Type': ['CUSTOMERINFO'], 'BatchYear': ['0'], 'BatchMonth': ['0'], 'CustomerID': ['0'], 'CompanyID': ['18282900'], 'JobExtend': ['{}'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'BatchID': ['0116f9940108d5890191996410'], 'SocialID': [''], 'CustomerName': ['系统管理员'], 'jobparams': ['{"BatchID":"0116f9940108d5890191996410","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员20","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'TaxId': ['系统管理员20']}
+Tue 13 Mar 2018 16:43:37 INFO views.py 79 19936 17612 爬取信用信息
+Tue 13 Mar 2018 16:43:37 INFO views.py 84 19936 17612 任务信息接收成功
+Tue 13 Mar 2018 16:43:37 INFO views.py 106 19936 17612 添加任务到数据库
+Tue 13 Mar 2018 16:43:37 INFO views.py 107 19936 17612 ACT18282900
+Tue 13 Mar 2018 16:43:37 INFO views.py 111 19936 17612 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:43:37 INFO views.py 29 14932 17612 开始接受请求
+Tue 13 Mar 2018 16:43:37 INFO views.py 32 14932 17612 接受请求成功
+Tue 13 Mar 2018 16:43:37 INFO views.py 33 14932 17612 {'jobname': ['批量初始化公司信息'], 'Type': ['CUSTOMERINFO'], 'BatchYear': ['0'], 'BatchMonth': ['0'], 'CustomerID': ['0'], 'CompanyID': ['18282900'], 'JobExtend': ['{}'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'BatchID': ['0116f9940108d5890191ae5b3b'], 'SocialID': [''], 'CustomerName': ['系统管理员'], 'jobparams': ['{"BatchID":"0116f9940108d5890191ae5b3b","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员21","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'TaxId': ['系统管理员21']}
+Tue 13 Mar 2018 16:43:37 INFO views.py 79 14932 17612 爬取信用信息
+Tue 13 Mar 2018 16:43:37 INFO views.py 84 14932 17612 任务信息接收成功
+Tue 13 Mar 2018 16:43:37 INFO views.py 106 14932 17612 添加任务到数据库
+Tue 13 Mar 2018 16:43:37 INFO views.py 107 14932 17612 ACT18282900
+Tue 13 Mar 2018 16:43:37 INFO views.py 111 14932 17612 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:43:37 INFO views.py 29 992 17612 开始接受请求
+Tue 13 Mar 2018 16:43:37 INFO views.py 32 992 17612 接受请求成功
+Tue 13 Mar 2018 16:43:37 INFO views.py 33 992 17612 {'jobname': ['批量初始化公司信息'], 'Type': ['CUSTOMERINFO'], 'BatchYear': ['0'], 'BatchMonth': ['0'], 'CustomerID': ['0'], 'CompanyID': ['18282900'], 'JobExtend': ['{}'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'BatchID': ['0116f9940108d5890191c34d89'], 'SocialID': [''], 'CustomerName': ['系统管理员'], 'jobparams': ['{"BatchID":"0116f9940108d5890191c34d89","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员22","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'TaxId': ['系统管理员22']}
+Tue 13 Mar 2018 16:43:37 INFO views.py 79 992 17612 爬取信用信息
+Tue 13 Mar 2018 16:43:37 INFO views.py 84 992 17612 任务信息接收成功
+Tue 13 Mar 2018 16:43:37 INFO views.py 106 992 17612 添加任务到数据库
+Tue 13 Mar 2018 16:43:37 INFO views.py 107 992 17612 ACT18282900
+Tue 13 Mar 2018 16:43:37 INFO views.py 111 992 17612 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:43:37 INFO views.py 29 15600 17612 开始接受请求
+Tue 13 Mar 2018 16:43:37 INFO views.py 32 15600 17612 接受请求成功
+Tue 13 Mar 2018 16:43:37 INFO views.py 33 15600 17612 {'jobname': ['批量初始化公司信息'], 'Type': ['CUSTOMERINFO'], 'BatchYear': ['0'], 'BatchMonth': ['0'], 'CustomerID': ['0'], 'CompanyID': ['18282900'], 'JobExtend': ['{}'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'BatchID': ['0116f9940108d5890191d71f59'], 'SocialID': [''], 'CustomerName': ['系统管理员'], 'jobparams': ['{"BatchID":"0116f9940108d5890191d71f59","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员23","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'TaxId': ['系统管理员23']}
+Tue 13 Mar 2018 16:43:37 INFO views.py 79 15600 17612 爬取信用信息
+Tue 13 Mar 2018 16:43:37 INFO views.py 84 15600 17612 任务信息接收成功
+Tue 13 Mar 2018 16:43:37 INFO views.py 106 15600 17612 添加任务到数据库
+Tue 13 Mar 2018 16:43:37 INFO views.py 107 15600 17612 ACT18282900
+Tue 13 Mar 2018 16:43:37 INFO views.py 111 15600 17612 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:43:37 INFO views.py 29 20320 17612 开始接受请求
+Tue 13 Mar 2018 16:43:37 INFO views.py 32 20320 17612 接受请求成功
+Tue 13 Mar 2018 16:43:37 INFO views.py 33 20320 17612 {'jobname': ['批量初始化公司信息'], 'Type': ['CUSTOMERINFO'], 'BatchYear': ['0'], 'BatchMonth': ['0'], 'CustomerID': ['0'], 'CompanyID': ['18282900'], 'JobExtend': ['{}'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'BatchID': ['0116f9940108d5890191eaeb5d'], 'SocialID': [''], 'CustomerName': ['系统管理员'], 'jobparams': ['{"BatchID":"0116f9940108d5890191eaeb5d","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员24","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'TaxId': ['系统管理员24']}
+Tue 13 Mar 2018 16:43:37 INFO views.py 79 20320 17612 爬取信用信息
+Tue 13 Mar 2018 16:43:37 INFO views.py 84 20320 17612 任务信息接收成功
+Tue 13 Mar 2018 16:43:37 INFO views.py 106 20320 17612 添加任务到数据库
+Tue 13 Mar 2018 16:43:37 INFO views.py 107 20320 17612 ACT18282900
+Tue 13 Mar 2018 16:43:37 INFO views.py 111 20320 17612 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:43:38 INFO views.py 29 17896 17612 开始接受请求
+Tue 13 Mar 2018 16:43:38 INFO views.py 32 17896 17612 接受请求成功
+Tue 13 Mar 2018 16:43:38 INFO views.py 33 17896 17612 {'jobname': ['批量初始化公司信息'], 'Type': ['CUSTOMERINFO'], 'BatchYear': ['0'], 'BatchMonth': ['0'], 'CustomerID': ['0'], 'CompanyID': ['18282900'], 'JobExtend': ['{}'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'BatchID': ['0116f9940108d5890191fbe0a4'], 'SocialID': [''], 'CustomerName': ['系统管理员'], 'jobparams': ['{"BatchID":"0116f9940108d5890191fbe0a4","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员25","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'TaxId': ['系统管理员25']}
+Tue 13 Mar 2018 16:43:38 INFO views.py 79 17896 17612 爬取信用信息
+Tue 13 Mar 2018 16:43:38 INFO views.py 84 17896 17612 任务信息接收成功
+Tue 13 Mar 2018 16:43:38 INFO views.py 106 17896 17612 添加任务到数据库
+Tue 13 Mar 2018 16:43:38 INFO views.py 107 17896 17612 ACT18282900
+Tue 13 Mar 2018 16:43:38 INFO views.py 111 17896 17612 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:43:38 INFO views.py 29 13260 17612 开始接受请求
+Tue 13 Mar 2018 16:43:38 INFO views.py 32 13260 17612 接受请求成功
+Tue 13 Mar 2018 16:43:38 INFO views.py 33 13260 17612 {'jobname': ['批量初始化公司信息'], 'Type': ['CUSTOMERINFO'], 'BatchYear': ['0'], 'BatchMonth': ['0'], 'CustomerID': ['0'], 'CompanyID': ['18282900'], 'JobExtend': ['{}'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'BatchID': ['0116f9940108d589019213e3a0'], 'SocialID': [''], 'CustomerName': ['系统管理员'], 'jobparams': ['{"BatchID":"0116f9940108d589019213e3a0","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员26","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'TaxId': ['系统管理员26']}
+Tue 13 Mar 2018 16:43:38 INFO views.py 79 13260 17612 爬取信用信息
+Tue 13 Mar 2018 16:43:38 INFO views.py 84 13260 17612 任务信息接收成功
+Tue 13 Mar 2018 16:43:38 INFO views.py 106 13260 17612 添加任务到数据库
+Tue 13 Mar 2018 16:43:38 INFO views.py 107 13260 17612 ACT18282900
+Tue 13 Mar 2018 16:43:38 INFO views.py 111 13260 17612 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:43:38 INFO views.py 29 6988 17612 开始接受请求
+Tue 13 Mar 2018 16:43:38 INFO views.py 32 6988 17612 接受请求成功
+Tue 13 Mar 2018 16:43:38 INFO views.py 33 6988 17612 {'jobname': ['批量初始化公司信息'], 'Type': ['CUSTOMERINFO'], 'BatchYear': ['0'], 'BatchMonth': ['0'], 'CustomerID': ['0'], 'CompanyID': ['18282900'], 'JobExtend': ['{}'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'BatchID': ['0116f9940108d5890192257cc5'], 'SocialID': [''], 'CustomerName': ['系统管理员'], 'jobparams': ['{"BatchID":"0116f9940108d5890192257cc5","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员27","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'TaxId': ['系统管理员27']}
+Tue 13 Mar 2018 16:43:38 INFO views.py 79 6988 17612 爬取信用信息
+Tue 13 Mar 2018 16:43:38 INFO views.py 84 6988 17612 任务信息接收成功
+Tue 13 Mar 2018 16:43:38 INFO views.py 106 6988 17612 添加任务到数据库
+Tue 13 Mar 2018 16:43:38 INFO views.py 107 6988 17612 ACT18282900
+Tue 13 Mar 2018 16:43:38 INFO views.py 111 6988 17612 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:43:38 INFO views.py 29 20092 17612 开始接受请求
+Tue 13 Mar 2018 16:43:38 INFO views.py 32 20092 17612 接受请求成功
+Tue 13 Mar 2018 16:43:38 INFO views.py 33 20092 17612 {'jobname': ['批量初始化公司信息'], 'Type': ['CUSTOMERINFO'], 'BatchYear': ['0'], 'BatchMonth': ['0'], 'CustomerID': ['0'], 'CompanyID': ['18282900'], 'JobExtend': ['{}'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'BatchID': ['0116f9940108d58901923c5ed7'], 'SocialID': [''], 'CustomerName': ['系统管理员'], 'jobparams': ['{"BatchID":"0116f9940108d58901923c5ed7","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员28","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'TaxId': ['系统管理员28']}
+Tue 13 Mar 2018 16:43:38 INFO views.py 79 20092 17612 爬取信用信息
+Tue 13 Mar 2018 16:43:38 INFO views.py 84 20092 17612 任务信息接收成功
+Tue 13 Mar 2018 16:43:38 INFO views.py 106 20092 17612 添加任务到数据库
+Tue 13 Mar 2018 16:43:38 INFO views.py 107 20092 17612 ACT18282900
+Tue 13 Mar 2018 16:43:38 INFO views.py 111 20092 17612 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:43:38 INFO views.py 29 12804 17612 开始接受请求
+Tue 13 Mar 2018 16:43:38 INFO views.py 32 12804 17612 接受请求成功
+Tue 13 Mar 2018 16:43:38 INFO views.py 33 12804 17612 {'jobname': ['批量初始化公司信息'], 'Type': ['CUSTOMERINFO'], 'BatchYear': ['0'], 'BatchMonth': ['0'], 'CustomerID': ['0'], 'CompanyID': ['18282900'], 'JobExtend': ['{}'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'BatchID': ['0116f9940108d589019250326f'], 'SocialID': [''], 'CustomerName': ['系统管理员'], 'jobparams': ['{"BatchID":"0116f9940108d589019250326f","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员29","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'TaxId': ['系统管理员29']}
+Tue 13 Mar 2018 16:43:38 INFO views.py 79 12804 17612 爬取信用信息
+Tue 13 Mar 2018 16:43:38 INFO views.py 84 12804 17612 任务信息接收成功
+Tue 13 Mar 2018 16:43:38 INFO views.py 106 12804 17612 添加任务到数据库
+Tue 13 Mar 2018 16:43:38 INFO views.py 107 12804 17612 ACT18282900
+Tue 13 Mar 2018 16:43:38 INFO views.py 111 12804 17612 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:43:38 INFO views.py 29 1568 17612 开始接受请求
+Tue 13 Mar 2018 16:43:38 INFO views.py 32 1568 17612 接受请求成功
+Tue 13 Mar 2018 16:43:38 INFO views.py 33 1568 17612 {'jobname': ['批量初始化公司信息'], 'Type': ['CUSTOMERINFO'], 'BatchYear': ['0'], 'BatchMonth': ['0'], 'CustomerID': ['0'], 'CompanyID': ['18282900'], 'JobExtend': ['{}'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'BatchID': ['0116f9940108d5890192637a9d'], 'SocialID': [''], 'CustomerName': ['系统管理员'], 'jobparams': ['{"BatchID":"0116f9940108d5890192637a9d","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员30","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'TaxId': ['系统管理员30']}
+Tue 13 Mar 2018 16:43:38 INFO views.py 79 1568 17612 爬取信用信息
+Tue 13 Mar 2018 16:43:38 INFO views.py 84 1568 17612 任务信息接收成功
+Tue 13 Mar 2018 16:43:38 INFO views.py 106 1568 17612 添加任务到数据库
+Tue 13 Mar 2018 16:43:38 INFO views.py 107 1568 17612 ACT18282900
+Tue 13 Mar 2018 16:43:38 INFO views.py 111 1568 17612 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:43:38 INFO views.py 29 16696 17612 开始接受请求
+Tue 13 Mar 2018 16:43:38 INFO views.py 32 16696 17612 接受请求成功
+Tue 13 Mar 2018 16:43:38 INFO views.py 33 16696 17612 {'jobname': ['批量初始化公司信息'], 'Type': ['CUSTOMERINFO'], 'BatchYear': ['0'], 'BatchMonth': ['0'], 'CustomerID': ['0'], 'CompanyID': ['18282900'], 'JobExtend': ['{}'], 'TaxPwd': ['98TCQEMKABJ5ZU7'], 'BatchID': ['0116f9940108d58901927b0a65'], 'SocialID': [''], 'CustomerName': ['系统管理员'], 'jobparams': ['{"BatchID":"0116f9940108d58901927b0a65","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员31","TaxPwd":"98TCQEMKABJ5ZU7","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'TaxId': ['系统管理员31']}
+Tue 13 Mar 2018 16:43:38 INFO views.py 79 16696 17612 爬取信用信息
+Tue 13 Mar 2018 16:43:38 INFO views.py 84 16696 17612 任务信息接收成功
+Tue 13 Mar 2018 16:43:38 INFO views.py 106 16696 17612 添加任务到数据库
+Tue 13 Mar 2018 16:43:38 INFO views.py 107 16696 17612 ACT18282900
+Tue 13 Mar 2018 16:43:38 INFO views.py 111 16696 17612 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:43:50 INFO views.py 271 19848 17612 开始接受请求
+Tue 13 Mar 2018 16:43:50 INFO views.py 273 19848 17612 接受到post请求
+Tue 13 Mar 2018 16:43:50 INFO views.py 275 19848 17612 接受请求成功
+Tue 13 Mar 2018 16:43:50 INFO views.py 276 19848 17612 {'bathcancel': ['["0116f9940108d589019022cc2c","0116f9940108d5890190431ebc","0116f9940108d589019057299d","0116f9940108d5890190689b35","0116f9940108d58901907d42dd","0116f9940108d58901908f780e","0116f9940108d58901909eec0c","0116f9940108d5890190ae876a","0116f9940108d5890190c32eeb","0116f9940108d5890190cf166c","0116f9940108d5890190eac7de","0116f9940108d5890190fdd6ce","0116f9940108d58901910fa752","0116f9940108d5890191269ce6","0116f9940108d589019138ab34","0116f9940108d58901914bdf8d","0116f9940108d5890191619ba4","0116f9940108d589019170734a","0116f9940108d589019185f4a0","0116f9940108d5890191996410","0116f9940108d5890191ae5b3b","0116f9940108d5890191c34d89","0116f9940108d5890191d71f59","0116f9940108d5890191eaeb5d","0116f9940108d5890191fbe0a4","0116f9940108d589019213e3a0","0116f9940108d5890192257cc5","0116f9940108d58901923c5ed7","0116f9940108d589019250326f","0116f9940108d5890192637a9d","0116f9940108d58901927b0a65"]'], 'Type': ['CUSTOMERINFO']}
+Tue 13 Mar 2018 16:43:50 INFO views.py 316 19848 17612 爬取信用信息
+Tue 13 Mar 2018 16:43:50 INFO views.py 318 19848 17612 任务信息接收成功
+Tue 13 Mar 2018 16:43:50 INFO views.py 321 19848 17612 取消任务
+Tue 13 Mar 2018 16:46:24 INFO views.py 29 19692 10744 开始接受请求
+Tue 13 Mar 2018 16:46:24 INFO views.py 32 19692 10744 接受请求成功
+Tue 13 Mar 2018 16:46:24 INFO views.py 33 19692 10744 {'BatchMonth': ['0'], 'BatchID': ['0116f9940108d58901f513a192'], 'CustomerID': ['0'], 'jobparams': ['{"BatchID":"0116f9940108d58901f513a192","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员1","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'jobname': ['批量初始化公司信息'], 'TaxId': ['系统管理员1'], 'BatchYear': ['0'], 'Type': ['CUSTOMERINFO'], 'CompanyID': ['18282900'], 'SocialID': [''], 'CustomerName': ['系统管理员'], 'JobExtend': ['{}']}
+Tue 13 Mar 2018 16:46:24 INFO views.py 79 19692 10744 爬取信用信息
+Tue 13 Mar 2018 16:46:24 INFO views.py 84 19692 10744 任务信息接收成功
+Tue 13 Mar 2018 16:46:24 INFO views.py 106 19692 10744 添加任务到数据库
+Tue 13 Mar 2018 16:46:24 INFO views.py 107 19692 10744 ACT18282900
+Tue 13 Mar 2018 16:46:24 INFO views.py 111 19692 10744 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:46:24 INFO views.py 29 20456 10744 开始接受请求
+Tue 13 Mar 2018 16:46:24 INFO views.py 32 20456 10744 接受请求成功
+Tue 13 Mar 2018 16:46:24 INFO views.py 33 20456 10744 {'BatchMonth': ['0'], 'BatchID': ['0116f9940108d58901f530c271'], 'CustomerID': ['0'], 'jobparams': ['{"BatchID":"0116f9940108d58901f530c271","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员2","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'jobname': ['批量初始化公司信息'], 'TaxId': ['系统管理员2'], 'BatchYear': ['0'], 'Type': ['CUSTOMERINFO'], 'CompanyID': ['18282900'], 'SocialID': [''], 'CustomerName': ['系统管理员'], 'JobExtend': ['{}']}
+Tue 13 Mar 2018 16:46:24 INFO views.py 79 20456 10744 爬取信用信息
+Tue 13 Mar 2018 16:46:24 INFO views.py 84 20456 10744 任务信息接收成功
+Tue 13 Mar 2018 16:46:24 INFO views.py 106 20456 10744 添加任务到数据库
+Tue 13 Mar 2018 16:46:24 INFO views.py 107 20456 10744 ACT18282900
+Tue 13 Mar 2018 16:46:24 INFO views.py 111 20456 10744 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:46:24 INFO views.py 29 12180 10744 开始接受请求
+Tue 13 Mar 2018 16:46:24 INFO views.py 32 12180 10744 接受请求成功
+Tue 13 Mar 2018 16:46:24 INFO views.py 33 12180 10744 {'BatchMonth': ['0'], 'BatchID': ['0116f9940108d58901f545532a'], 'CustomerID': ['0'], 'jobparams': ['{"BatchID":"0116f9940108d58901f545532a","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员3","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'jobname': ['批量初始化公司信息'], 'TaxId': ['系统管理员3'], 'BatchYear': ['0'], 'Type': ['CUSTOMERINFO'], 'CompanyID': ['18282900'], 'SocialID': [''], 'CustomerName': ['系统管理员'], 'JobExtend': ['{}']}
+Tue 13 Mar 2018 16:46:24 INFO views.py 79 12180 10744 爬取信用信息
+Tue 13 Mar 2018 16:46:24 INFO views.py 84 12180 10744 任务信息接收成功
+Tue 13 Mar 2018 16:46:24 INFO views.py 106 12180 10744 添加任务到数据库
+Tue 13 Mar 2018 16:46:24 INFO views.py 107 12180 10744 ACT18282900
+Tue 13 Mar 2018 16:46:24 INFO views.py 111 12180 10744 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:46:24 INFO views.py 29 19132 10744 开始接受请求
+Tue 13 Mar 2018 16:46:24 INFO views.py 32 19132 10744 接受请求成功
+Tue 13 Mar 2018 16:46:24 INFO views.py 33 19132 10744 {'BatchMonth': ['0'], 'BatchID': ['0116f9940108d58901f5597d1a'], 'CustomerID': ['0'], 'jobparams': ['{"BatchID":"0116f9940108d58901f5597d1a","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员4","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'jobname': ['批量初始化公司信息'], 'TaxId': ['系统管理员4'], 'BatchYear': ['0'], 'Type': ['CUSTOMERINFO'], 'CompanyID': ['18282900'], 'SocialID': [''], 'CustomerName': ['系统管理员'], 'JobExtend': ['{}']}
+Tue 13 Mar 2018 16:46:24 INFO views.py 79 19132 10744 爬取信用信息
+Tue 13 Mar 2018 16:46:24 INFO views.py 84 19132 10744 任务信息接收成功
+Tue 13 Mar 2018 16:46:24 INFO views.py 106 19132 10744 添加任务到数据库
+Tue 13 Mar 2018 16:46:24 INFO views.py 107 19132 10744 ACT18282900
+Tue 13 Mar 2018 16:46:24 INFO views.py 111 19132 10744 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:46:24 INFO views.py 29 15400 10744 开始接受请求
+Tue 13 Mar 2018 16:46:24 INFO views.py 32 15400 10744 接受请求成功
+Tue 13 Mar 2018 16:46:24 INFO views.py 33 15400 10744 {'BatchMonth': ['0'], 'BatchID': ['0116f9940108d58901f56c9db2'], 'CustomerID': ['0'], 'jobparams': ['{"BatchID":"0116f9940108d58901f56c9db2","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员5","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'jobname': ['批量初始化公司信息'], 'TaxId': ['系统管理员5'], 'BatchYear': ['0'], 'Type': ['CUSTOMERINFO'], 'CompanyID': ['18282900'], 'SocialID': [''], 'CustomerName': ['系统管理员'], 'JobExtend': ['{}']}
+Tue 13 Mar 2018 16:46:24 INFO views.py 79 15400 10744 爬取信用信息
+Tue 13 Mar 2018 16:46:24 INFO views.py 84 15400 10744 任务信息接收成功
+Tue 13 Mar 2018 16:46:24 INFO views.py 106 15400 10744 添加任务到数据库
+Tue 13 Mar 2018 16:46:24 INFO views.py 107 15400 10744 ACT18282900
+Tue 13 Mar 2018 16:46:24 INFO views.py 111 15400 10744 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:46:24 INFO views.py 29 17744 10744 开始接受请求
+Tue 13 Mar 2018 16:46:24 INFO views.py 32 17744 10744 接受请求成功
+Tue 13 Mar 2018 16:46:24 INFO views.py 33 17744 10744 {'BatchMonth': ['0'], 'BatchID': ['0116f9940108d58901f57c0093'], 'CustomerID': ['0'], 'jobparams': ['{"BatchID":"0116f9940108d58901f57c0093","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员6","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'jobname': ['批量初始化公司信息'], 'TaxId': ['系统管理员6'], 'BatchYear': ['0'], 'Type': ['CUSTOMERINFO'], 'CompanyID': ['18282900'], 'SocialID': [''], 'CustomerName': ['系统管理员'], 'JobExtend': ['{}']}
+Tue 13 Mar 2018 16:46:24 INFO views.py 79 17744 10744 爬取信用信息
+Tue 13 Mar 2018 16:46:24 INFO views.py 84 17744 10744 任务信息接收成功
+Tue 13 Mar 2018 16:46:24 INFO views.py 106 17744 10744 添加任务到数据库
+Tue 13 Mar 2018 16:46:24 INFO views.py 107 17744 10744 ACT18282900
+Tue 13 Mar 2018 16:46:25 INFO views.py 111 17744 10744 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:46:25 INFO views.py 29 19184 10744 开始接受请求
+Tue 13 Mar 2018 16:46:25 INFO views.py 32 19184 10744 接受请求成功
+Tue 13 Mar 2018 16:46:25 INFO views.py 33 19184 10744 {'BatchMonth': ['0'], 'BatchID': ['0116f9940108d58901f58ff955'], 'CustomerID': ['0'], 'jobparams': ['{"BatchID":"0116f9940108d58901f58ff955","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员7","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'jobname': ['批量初始化公司信息'], 'TaxId': ['系统管理员7'], 'BatchYear': ['0'], 'Type': ['CUSTOMERINFO'], 'CompanyID': ['18282900'], 'SocialID': [''], 'CustomerName': ['系统管理员'], 'JobExtend': ['{}']}
+Tue 13 Mar 2018 16:46:25 INFO views.py 79 19184 10744 爬取信用信息
+Tue 13 Mar 2018 16:46:25 INFO views.py 84 19184 10744 任务信息接收成功
+Tue 13 Mar 2018 16:46:25 INFO views.py 106 19184 10744 添加任务到数据库
+Tue 13 Mar 2018 16:46:25 INFO views.py 107 19184 10744 ACT18282900
+Tue 13 Mar 2018 16:46:25 INFO views.py 111 19184 10744 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:46:25 INFO views.py 29 19784 10744 开始接受请求
+Tue 13 Mar 2018 16:46:25 INFO views.py 32 19784 10744 接受请求成功
+Tue 13 Mar 2018 16:46:25 INFO views.py 33 19784 10744 {'BatchMonth': ['0'], 'BatchID': ['0116f9940108d58901f5ab6259'], 'CustomerID': ['0'], 'jobparams': ['{"BatchID":"0116f9940108d58901f5ab6259","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员8","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'jobname': ['批量初始化公司信息'], 'TaxId': ['系统管理员8'], 'BatchYear': ['0'], 'Type': ['CUSTOMERINFO'], 'CompanyID': ['18282900'], 'SocialID': [''], 'CustomerName': ['系统管理员'], 'JobExtend': ['{}']}
+Tue 13 Mar 2018 16:46:25 INFO views.py 79 19784 10744 爬取信用信息
+Tue 13 Mar 2018 16:46:25 INFO views.py 84 19784 10744 任务信息接收成功
+Tue 13 Mar 2018 16:46:25 INFO views.py 106 19784 10744 添加任务到数据库
+Tue 13 Mar 2018 16:46:25 INFO views.py 107 19784 10744 ACT18282900
+Tue 13 Mar 2018 16:46:25 INFO views.py 111 19784 10744 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:46:25 INFO views.py 29 12608 10744 开始接受请求
+Tue 13 Mar 2018 16:46:25 INFO views.py 32 12608 10744 接受请求成功
+Tue 13 Mar 2018 16:46:25 INFO views.py 33 12608 10744 {'BatchMonth': ['0'], 'BatchID': ['0116f9940108d58901f5bef19b'], 'CustomerID': ['0'], 'jobparams': ['{"BatchID":"0116f9940108d58901f5bef19b","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员9","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'jobname': ['批量初始化公司信息'], 'TaxId': ['系统管理员9'], 'BatchYear': ['0'], 'Type': ['CUSTOMERINFO'], 'CompanyID': ['18282900'], 'SocialID': [''], 'CustomerName': ['系统管理员'], 'JobExtend': ['{}']}
+Tue 13 Mar 2018 16:46:25 INFO views.py 79 12608 10744 爬取信用信息
+Tue 13 Mar 2018 16:46:25 INFO views.py 84 12608 10744 任务信息接收成功
+Tue 13 Mar 2018 16:46:25 INFO views.py 106 12608 10744 添加任务到数据库
+Tue 13 Mar 2018 16:46:25 INFO views.py 107 12608 10744 ACT18282900
+Tue 13 Mar 2018 16:46:25 INFO views.py 111 12608 10744 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:46:25 INFO views.py 29 3852 10744 开始接受请求
+Tue 13 Mar 2018 16:46:25 INFO views.py 32 3852 10744 接受请求成功
+Tue 13 Mar 2018 16:46:25 INFO views.py 33 3852 10744 {'BatchMonth': ['0'], 'BatchID': ['0116f9940108d58901f5d4d296'], 'CustomerID': ['0'], 'jobparams': ['{"BatchID":"0116f9940108d58901f5d4d296","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员10","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'jobname': ['批量初始化公司信息'], 'TaxId': ['系统管理员10'], 'BatchYear': ['0'], 'Type': ['CUSTOMERINFO'], 'CompanyID': ['18282900'], 'SocialID': [''], 'CustomerName': ['系统管理员'], 'JobExtend': ['{}']}
+Tue 13 Mar 2018 16:46:25 INFO views.py 79 3852 10744 爬取信用信息
+Tue 13 Mar 2018 16:46:25 INFO views.py 84 3852 10744 任务信息接收成功
+Tue 13 Mar 2018 16:46:25 INFO views.py 106 3852 10744 添加任务到数据库
+Tue 13 Mar 2018 16:46:25 INFO views.py 107 3852 10744 ACT18282900
+Tue 13 Mar 2018 16:46:25 INFO views.py 111 3852 10744 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:46:25 INFO views.py 29 1692 10744 开始接受请求
+Tue 13 Mar 2018 16:46:25 INFO views.py 32 1692 10744 接受请求成功
+Tue 13 Mar 2018 16:46:25 INFO views.py 33 1692 10744 {'BatchMonth': ['0'], 'BatchID': ['0116f9940108d58901f5e58064'], 'CustomerID': ['0'], 'jobparams': ['{"BatchID":"0116f9940108d58901f5e58064","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员11","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'jobname': ['批量初始化公司信息'], 'TaxId': ['系统管理员11'], 'BatchYear': ['0'], 'Type': ['CUSTOMERINFO'], 'CompanyID': ['18282900'], 'SocialID': [''], 'CustomerName': ['系统管理员'], 'JobExtend': ['{}']}
+Tue 13 Mar 2018 16:46:25 INFO views.py 79 1692 10744 爬取信用信息
+Tue 13 Mar 2018 16:46:25 INFO views.py 84 1692 10744 任务信息接收成功
+Tue 13 Mar 2018 16:46:25 INFO views.py 106 1692 10744 添加任务到数据库
+Tue 13 Mar 2018 16:46:25 INFO views.py 107 1692 10744 ACT18282900
+Tue 13 Mar 2018 16:46:25 INFO views.py 111 1692 10744 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:46:25 INFO views.py 29 20308 10744 开始接受请求
+Tue 13 Mar 2018 16:46:25 INFO views.py 32 20308 10744 接受请求成功
+Tue 13 Mar 2018 16:46:25 INFO views.py 33 20308 10744 {'BatchMonth': ['0'], 'BatchID': ['0116f9940108d58901f5fb3aa6'], 'CustomerID': ['0'], 'jobparams': ['{"BatchID":"0116f9940108d58901f5fb3aa6","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员12","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'jobname': ['批量初始化公司信息'], 'TaxId': ['系统管理员12'], 'BatchYear': ['0'], 'Type': ['CUSTOMERINFO'], 'CompanyID': ['18282900'], 'SocialID': [''], 'CustomerName': ['系统管理员'], 'JobExtend': ['{}']}
+Tue 13 Mar 2018 16:46:25 INFO views.py 79 20308 10744 爬取信用信息
+Tue 13 Mar 2018 16:46:25 INFO views.py 84 20308 10744 任务信息接收成功
+Tue 13 Mar 2018 16:46:25 INFO views.py 106 20308 10744 添加任务到数据库
+Tue 13 Mar 2018 16:46:25 INFO views.py 107 20308 10744 ACT18282900
+Tue 13 Mar 2018 16:46:25 INFO views.py 111 20308 10744 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:46:25 INFO views.py 29 20292 10744 开始接受请求
+Tue 13 Mar 2018 16:46:25 INFO views.py 32 20292 10744 接受请求成功
+Tue 13 Mar 2018 16:46:25 INFO views.py 33 20292 10744 {'BatchMonth': ['0'], 'BatchID': ['0116f9940108d58901f60a12f0'], 'CustomerID': ['0'], 'jobparams': ['{"BatchID":"0116f9940108d58901f60a12f0","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员13","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'jobname': ['批量初始化公司信息'], 'TaxId': ['系统管理员13'], 'BatchYear': ['0'], 'Type': ['CUSTOMERINFO'], 'CompanyID': ['18282900'], 'SocialID': [''], 'CustomerName': ['系统管理员'], 'JobExtend': ['{}']}
+Tue 13 Mar 2018 16:46:25 INFO views.py 79 20292 10744 爬取信用信息
+Tue 13 Mar 2018 16:46:25 INFO views.py 84 20292 10744 任务信息接收成功
+Tue 13 Mar 2018 16:46:25 INFO views.py 106 20292 10744 添加任务到数据库
+Tue 13 Mar 2018 16:46:25 INFO views.py 107 20292 10744 ACT18282900
+Tue 13 Mar 2018 16:46:25 INFO views.py 111 20292 10744 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:46:26 INFO views.py 29 14544 10744 开始接受请求
+Tue 13 Mar 2018 16:46:26 INFO views.py 32 14544 10744 接受请求成功
+Tue 13 Mar 2018 16:46:26 INFO views.py 33 14544 10744 {'BatchMonth': ['0'], 'BatchID': ['0116f9940108d58901f61fba13'], 'CustomerID': ['0'], 'jobparams': ['{"BatchID":"0116f9940108d58901f61fba13","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员14","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'jobname': ['批量初始化公司信息'], 'TaxId': ['系统管理员14'], 'BatchYear': ['0'], 'Type': ['CUSTOMERINFO'], 'CompanyID': ['18282900'], 'SocialID': [''], 'CustomerName': ['系统管理员'], 'JobExtend': ['{}']}
+Tue 13 Mar 2018 16:46:26 INFO views.py 79 14544 10744 爬取信用信息
+Tue 13 Mar 2018 16:46:26 INFO views.py 84 14544 10744 任务信息接收成功
+Tue 13 Mar 2018 16:46:26 INFO views.py 106 14544 10744 添加任务到数据库
+Tue 13 Mar 2018 16:46:26 INFO views.py 107 14544 10744 ACT18282900
+Tue 13 Mar 2018 16:46:26 INFO views.py 111 14544 10744 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:46:26 INFO views.py 29 19384 10744 开始接受请求
+Tue 13 Mar 2018 16:46:26 INFO views.py 32 19384 10744 接受请求成功
+Tue 13 Mar 2018 16:46:26 INFO views.py 33 19384 10744 {'BatchMonth': ['0'], 'BatchID': ['0116f9940108d58901f63461bf'], 'CustomerID': ['0'], 'jobparams': ['{"BatchID":"0116f9940108d58901f63461bf","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员15","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'jobname': ['批量初始化公司信息'], 'TaxId': ['系统管理员15'], 'BatchYear': ['0'], 'Type': ['CUSTOMERINFO'], 'CompanyID': ['18282900'], 'SocialID': [''], 'CustomerName': ['系统管理员'], 'JobExtend': ['{}']}
+Tue 13 Mar 2018 16:46:26 INFO views.py 79 19384 10744 爬取信用信息
+Tue 13 Mar 2018 16:46:26 INFO views.py 84 19384 10744 任务信息接收成功
+Tue 13 Mar 2018 16:46:26 INFO views.py 106 19384 10744 添加任务到数据库
+Tue 13 Mar 2018 16:46:26 INFO views.py 107 19384 10744 ACT18282900
+Tue 13 Mar 2018 16:46:26 INFO views.py 111 19384 10744 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:46:26 INFO views.py 29 11052 10744 开始接受请求
+Tue 13 Mar 2018 16:46:26 INFO views.py 32 11052 10744 接受请求成功
+Tue 13 Mar 2018 16:46:26 INFO views.py 33 11052 10744 {'BatchMonth': ['0'], 'BatchID': ['0116f9940108d58901f647617e'], 'CustomerID': ['0'], 'jobparams': ['{"BatchID":"0116f9940108d58901f647617e","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员16","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'jobname': ['批量初始化公司信息'], 'TaxId': ['系统管理员16'], 'BatchYear': ['0'], 'Type': ['CUSTOMERINFO'], 'CompanyID': ['18282900'], 'SocialID': [''], 'CustomerName': ['系统管理员'], 'JobExtend': ['{}']}
+Tue 13 Mar 2018 16:46:26 INFO views.py 79 11052 10744 爬取信用信息
+Tue 13 Mar 2018 16:46:26 INFO views.py 84 11052 10744 任务信息接收成功
+Tue 13 Mar 2018 16:46:26 INFO views.py 106 11052 10744 添加任务到数据库
+Tue 13 Mar 2018 16:46:26 INFO views.py 107 11052 10744 ACT18282900
+Tue 13 Mar 2018 16:46:26 INFO views.py 111 11052 10744 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:46:26 INFO views.py 29 14580 10744 开始接受请求
+Tue 13 Mar 2018 16:46:26 INFO views.py 32 14580 10744 接受请求成功
+Tue 13 Mar 2018 16:46:26 INFO views.py 33 14580 10744 {'BatchMonth': ['0'], 'BatchID': ['0116f9940108d58901f65ad6da'], 'CustomerID': ['0'], 'jobparams': ['{"BatchID":"0116f9940108d58901f65ad6da","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员17","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'jobname': ['批量初始化公司信息'], 'TaxId': ['系统管理员17'], 'BatchYear': ['0'], 'Type': ['CUSTOMERINFO'], 'CompanyID': ['18282900'], 'SocialID': [''], 'CustomerName': ['系统管理员'], 'JobExtend': ['{}']}
+Tue 13 Mar 2018 16:46:26 INFO views.py 79 14580 10744 爬取信用信息
+Tue 13 Mar 2018 16:46:26 INFO views.py 84 14580 10744 任务信息接收成功
+Tue 13 Mar 2018 16:46:26 INFO views.py 106 14580 10744 添加任务到数据库
+Tue 13 Mar 2018 16:46:26 INFO views.py 107 14580 10744 ACT18282900
+Tue 13 Mar 2018 16:46:26 INFO views.py 111 14580 10744 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:46:26 INFO views.py 29 11380 10744 开始接受请求
+Tue 13 Mar 2018 16:46:26 INFO views.py 32 11380 10744 接受请求成功
+Tue 13 Mar 2018 16:46:26 INFO views.py 33 11380 10744 {'BatchMonth': ['0'], 'BatchID': ['0116f9940108d58901f67266aa'], 'CustomerID': ['0'], 'jobparams': ['{"BatchID":"0116f9940108d58901f67266aa","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员18","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'jobname': ['批量初始化公司信息'], 'TaxId': ['系统管理员18'], 'BatchYear': ['0'], 'Type': ['CUSTOMERINFO'], 'CompanyID': ['18282900'], 'SocialID': [''], 'CustomerName': ['系统管理员'], 'JobExtend': ['{}']}
+Tue 13 Mar 2018 16:46:26 INFO views.py 79 11380 10744 爬取信用信息
+Tue 13 Mar 2018 16:46:26 INFO views.py 84 11380 10744 任务信息接收成功
+Tue 13 Mar 2018 16:46:26 INFO views.py 106 11380 10744 添加任务到数据库
+Tue 13 Mar 2018 16:46:26 INFO views.py 107 11380 10744 ACT18282900
+Tue 13 Mar 2018 16:46:26 INFO views.py 111 11380 10744 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:46:26 INFO views.py 29 9768 10744 开始接受请求
+Tue 13 Mar 2018 16:46:26 INFO views.py 32 9768 10744 接受请求成功
+Tue 13 Mar 2018 16:46:26 INFO views.py 33 9768 10744 {'BatchMonth': ['0'], 'BatchID': ['0116f9940108d58901f685fc42'], 'CustomerID': ['0'], 'jobparams': ['{"BatchID":"0116f9940108d58901f685fc42","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员19","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'jobname': ['批量初始化公司信息'], 'TaxId': ['系统管理员19'], 'BatchYear': ['0'], 'Type': ['CUSTOMERINFO'], 'CompanyID': ['18282900'], 'SocialID': [''], 'CustomerName': ['系统管理员'], 'JobExtend': ['{}']}
+Tue 13 Mar 2018 16:46:26 INFO views.py 79 9768 10744 爬取信用信息
+Tue 13 Mar 2018 16:46:26 INFO views.py 84 9768 10744 任务信息接收成功
+Tue 13 Mar 2018 16:46:26 INFO views.py 106 9768 10744 添加任务到数据库
+Tue 13 Mar 2018 16:46:26 INFO views.py 107 9768 10744 ACT18282900
+Tue 13 Mar 2018 16:46:26 INFO views.py 111 9768 10744 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:46:26 INFO views.py 29 4648 10744 开始接受请求
+Tue 13 Mar 2018 16:46:26 INFO views.py 32 4648 10744 接受请求成功
+Tue 13 Mar 2018 16:46:26 INFO views.py 33 4648 10744 {'BatchMonth': ['0'], 'BatchID': ['0116f9940108d58901f69a55a6'], 'CustomerID': ['0'], 'jobparams': ['{"BatchID":"0116f9940108d58901f69a55a6","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员20","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'jobname': ['批量初始化公司信息'], 'TaxId': ['系统管理员20'], 'BatchYear': ['0'], 'Type': ['CUSTOMERINFO'], 'CompanyID': ['18282900'], 'SocialID': [''], 'CustomerName': ['系统管理员'], 'JobExtend': ['{}']}
+Tue 13 Mar 2018 16:46:26 INFO views.py 79 4648 10744 爬取信用信息
+Tue 13 Mar 2018 16:46:26 INFO views.py 84 4648 10744 任务信息接收成功
+Tue 13 Mar 2018 16:46:26 INFO views.py 106 4648 10744 添加任务到数据库
+Tue 13 Mar 2018 16:46:26 INFO views.py 107 4648 10744 ACT18282900
+Tue 13 Mar 2018 16:46:26 INFO views.py 111 4648 10744 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:46:26 INFO views.py 29 17504 10744 开始接受请求
+Tue 13 Mar 2018 16:46:26 INFO views.py 32 17504 10744 接受请求成功
+Tue 13 Mar 2018 16:46:26 INFO views.py 33 17504 10744 {'BatchMonth': ['0'], 'BatchID': ['0116f9940108d58901f6ac6371'], 'CustomerID': ['0'], 'jobparams': ['{"BatchID":"0116f9940108d58901f6ac6371","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员21","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'jobname': ['批量初始化公司信息'], 'TaxId': ['系统管理员21'], 'BatchYear': ['0'], 'Type': ['CUSTOMERINFO'], 'CompanyID': ['18282900'], 'SocialID': [''], 'CustomerName': ['系统管理员'], 'JobExtend': ['{}']}
+Tue 13 Mar 2018 16:46:26 INFO views.py 79 17504 10744 爬取信用信息
+Tue 13 Mar 2018 16:46:26 INFO views.py 84 17504 10744 任务信息接收成功
+Tue 13 Mar 2018 16:46:27 INFO views.py 106 17504 10744 添加任务到数据库
+Tue 13 Mar 2018 16:46:27 INFO views.py 107 17504 10744 ACT18282900
+Tue 13 Mar 2018 16:46:27 INFO views.py 111 17504 10744 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:46:27 INFO views.py 29 10376 10744 开始接受请求
+Tue 13 Mar 2018 16:46:27 INFO views.py 32 10376 10744 接受请求成功
+Tue 13 Mar 2018 16:46:27 INFO views.py 33 10376 10744 {'BatchMonth': ['0'], 'BatchID': ['0116f9940108d58901f6c35839'], 'CustomerID': ['0'], 'jobparams': ['{"BatchID":"0116f9940108d58901f6c35839","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员22","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'jobname': ['批量初始化公司信息'], 'TaxId': ['系统管理员22'], 'BatchYear': ['0'], 'Type': ['CUSTOMERINFO'], 'CompanyID': ['18282900'], 'SocialID': [''], 'CustomerName': ['系统管理员'], 'JobExtend': ['{}']}
+Tue 13 Mar 2018 16:46:27 INFO views.py 79 10376 10744 爬取信用信息
+Tue 13 Mar 2018 16:46:27 INFO views.py 84 10376 10744 任务信息接收成功
+Tue 13 Mar 2018 16:46:27 INFO views.py 106 10376 10744 添加任务到数据库
+Tue 13 Mar 2018 16:46:27 INFO views.py 107 10376 10744 ACT18282900
+Tue 13 Mar 2018 16:46:27 INFO views.py 111 10376 10744 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:46:27 INFO views.py 29 15080 10744 开始接受请求
+Tue 13 Mar 2018 16:46:27 INFO views.py 32 15080 10744 接受请求成功
+Tue 13 Mar 2018 16:46:27 INFO views.py 33 15080 10744 {'BatchMonth': ['0'], 'BatchID': ['0116f9940108d58901f6d1f783'], 'CustomerID': ['0'], 'jobparams': ['{"BatchID":"0116f9940108d58901f6d1f783","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员23","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'jobname': ['批量初始化公司信息'], 'TaxId': ['系统管理员23'], 'BatchYear': ['0'], 'Type': ['CUSTOMERINFO'], 'CompanyID': ['18282900'], 'SocialID': [''], 'CustomerName': ['系统管理员'], 'JobExtend': ['{}']}
+Tue 13 Mar 2018 16:46:27 INFO views.py 79 15080 10744 爬取信用信息
+Tue 13 Mar 2018 16:46:27 INFO views.py 84 15080 10744 任务信息接收成功
+Tue 13 Mar 2018 16:46:27 INFO views.py 106 15080 10744 添加任务到数据库
+Tue 13 Mar 2018 16:46:27 INFO views.py 107 15080 10744 ACT18282900
+Tue 13 Mar 2018 16:46:27 INFO views.py 111 15080 10744 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:46:27 INFO views.py 29 4292 10744 开始接受请求
+Tue 13 Mar 2018 16:46:27 INFO views.py 32 4292 10744 接受请求成功
+Tue 13 Mar 2018 16:46:27 INFO views.py 33 4292 10744 {'BatchMonth': ['0'], 'BatchID': ['0116f9940108d58901f6e6d9f6'], 'CustomerID': ['0'], 'jobparams': ['{"BatchID":"0116f9940108d58901f6e6d9f6","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员24","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'jobname': ['批量初始化公司信息'], 'TaxId': ['系统管理员24'], 'BatchYear': ['0'], 'Type': ['CUSTOMERINFO'], 'CompanyID': ['18282900'], 'SocialID': [''], 'CustomerName': ['系统管理员'], 'JobExtend': ['{}']}
+Tue 13 Mar 2018 16:46:27 INFO views.py 79 4292 10744 爬取信用信息
+Tue 13 Mar 2018 16:46:27 INFO views.py 84 4292 10744 任务信息接收成功
+Tue 13 Mar 2018 16:46:27 INFO views.py 106 4292 10744 添加任务到数据库
+Tue 13 Mar 2018 16:46:27 INFO views.py 107 4292 10744 ACT18282900
+Tue 13 Mar 2018 16:46:27 INFO views.py 111 4292 10744 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:46:27 INFO views.py 29 16668 10744 开始接受请求
+Tue 13 Mar 2018 16:46:27 INFO views.py 32 16668 10744 接受请求成功
+Tue 13 Mar 2018 16:46:27 INFO views.py 33 16668 10744 {'BatchMonth': ['0'], 'BatchID': ['0116f9940108d58901f6f90f2f'], 'CustomerID': ['0'], 'jobparams': ['{"BatchID":"0116f9940108d58901f6f90f2f","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员25","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'jobname': ['批量初始化公司信息'], 'TaxId': ['系统管理员25'], 'BatchYear': ['0'], 'Type': ['CUSTOMERINFO'], 'CompanyID': ['18282900'], 'SocialID': [''], 'CustomerName': ['系统管理员'], 'JobExtend': ['{}']}
+Tue 13 Mar 2018 16:46:27 INFO views.py 79 16668 10744 爬取信用信息
+Tue 13 Mar 2018 16:46:27 INFO views.py 84 16668 10744 任务信息接收成功
+Tue 13 Mar 2018 16:46:27 INFO views.py 106 16668 10744 添加任务到数据库
+Tue 13 Mar 2018 16:46:27 INFO views.py 107 16668 10744 ACT18282900
+Tue 13 Mar 2018 16:46:27 INFO views.py 111 16668 10744 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:46:27 INFO views.py 29 14980 10744 开始接受请求
+Tue 13 Mar 2018 16:46:27 INFO views.py 32 14980 10744 接受请求成功
+Tue 13 Mar 2018 16:46:27 INFO views.py 33 14980 10744 {'BatchMonth': ['0'], 'BatchID': ['0116f9940108d58901f70aa739'], 'CustomerID': ['0'], 'jobparams': ['{"BatchID":"0116f9940108d58901f70aa739","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员26","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'jobname': ['批量初始化公司信息'], 'TaxId': ['系统管理员26'], 'BatchYear': ['0'], 'Type': ['CUSTOMERINFO'], 'CompanyID': ['18282900'], 'SocialID': [''], 'CustomerName': ['系统管理员'], 'JobExtend': ['{}']}
+Tue 13 Mar 2018 16:46:27 INFO views.py 79 14980 10744 爬取信用信息
+Tue 13 Mar 2018 16:46:27 INFO views.py 84 14980 10744 任务信息接收成功
+Tue 13 Mar 2018 16:46:27 INFO views.py 106 14980 10744 添加任务到数据库
+Tue 13 Mar 2018 16:46:27 INFO views.py 107 14980 10744 ACT18282900
+Tue 13 Mar 2018 16:46:27 INFO views.py 111 14980 10744 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:46:27 INFO views.py 29 14232 10744 开始接受请求
+Tue 13 Mar 2018 16:46:27 INFO views.py 32 14232 10744 接受请求成功
+Tue 13 Mar 2018 16:46:27 INFO views.py 33 14232 10744 {'BatchMonth': ['0'], 'BatchID': ['0116f9940108d58901f722008f'], 'CustomerID': ['0'], 'jobparams': ['{"BatchID":"0116f9940108d58901f722008f","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员27","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'jobname': ['批量初始化公司信息'], 'TaxId': ['系统管理员27'], 'BatchYear': ['0'], 'Type': ['CUSTOMERINFO'], 'CompanyID': ['18282900'], 'SocialID': [''], 'CustomerName': ['系统管理员'], 'JobExtend': ['{}']}
+Tue 13 Mar 2018 16:46:27 INFO views.py 79 14232 10744 爬取信用信息
+Tue 13 Mar 2018 16:46:27 INFO views.py 84 14232 10744 任务信息接收成功
+Tue 13 Mar 2018 16:46:27 INFO views.py 106 14232 10744 添加任务到数据库
+Tue 13 Mar 2018 16:46:27 INFO views.py 107 14232 10744 ACT18282900
+Tue 13 Mar 2018 16:46:27 INFO views.py 111 14232 10744 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:46:27 INFO views.py 29 17376 10744 开始接受请求
+Tue 13 Mar 2018 16:46:27 INFO views.py 32 17376 10744 接受请求成功
+Tue 13 Mar 2018 16:46:27 INFO views.py 33 17376 10744 {'BatchMonth': ['0'], 'BatchID': ['0116f9940108d58901f737e14b'], 'CustomerID': ['0'], 'jobparams': ['{"BatchID":"0116f9940108d58901f737e14b","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员28","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'jobname': ['批量初始化公司信息'], 'TaxId': ['系统管理员28'], 'BatchYear': ['0'], 'Type': ['CUSTOMERINFO'], 'CompanyID': ['18282900'], 'SocialID': [''], 'CustomerName': ['系统管理员'], 'JobExtend': ['{}']}
+Tue 13 Mar 2018 16:46:27 INFO views.py 79 17376 10744 爬取信用信息
+Tue 13 Mar 2018 16:46:27 INFO views.py 84 17376 10744 任务信息接收成功
+Tue 13 Mar 2018 16:46:27 INFO views.py 106 17376 10744 添加任务到数据库
+Tue 13 Mar 2018 16:46:27 INFO views.py 107 17376 10744 ACT18282900
+Tue 13 Mar 2018 16:46:28 INFO views.py 111 17376 10744 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:46:28 INFO views.py 29 7656 10744 开始接受请求
+Tue 13 Mar 2018 16:46:28 INFO views.py 32 7656 10744 接受请求成功
+Tue 13 Mar 2018 16:46:28 INFO views.py 33 7656 10744 {'BatchMonth': ['0'], 'BatchID': ['0116f9940108d58901f766b2e7'], 'CustomerID': ['0'], 'jobparams': ['{"BatchID":"0116f9940108d58901f766b2e7","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员29","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'jobname': ['批量初始化公司信息'], 'TaxId': ['系统管理员29'], 'BatchYear': ['0'], 'Type': ['CUSTOMERINFO'], 'CompanyID': ['18282900'], 'SocialID': [''], 'CustomerName': ['系统管理员'], 'JobExtend': ['{}']}
+Tue 13 Mar 2018 16:46:28 INFO views.py 79 7656 10744 爬取信用信息
+Tue 13 Mar 2018 16:46:28 INFO views.py 84 7656 10744 任务信息接收成功
+Tue 13 Mar 2018 16:46:28 INFO views.py 106 7656 10744 添加任务到数据库
+Tue 13 Mar 2018 16:46:28 INFO views.py 107 7656 10744 ACT18282900
+Tue 13 Mar 2018 16:46:28 INFO views.py 111 7656 10744 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:46:28 INFO views.py 29 8284 10744 开始接受请求
+Tue 13 Mar 2018 16:46:28 INFO views.py 32 8284 10744 接受请求成功
+Tue 13 Mar 2018 16:46:28 INFO views.py 33 8284 10744 {'BatchMonth': ['0'], 'BatchID': ['0116f9940108d58901f7788645'], 'CustomerID': ['0'], 'jobparams': ['{"BatchID":"0116f9940108d58901f7788645","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员30","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'jobname': ['批量初始化公司信息'], 'TaxId': ['系统管理员30'], 'BatchYear': ['0'], 'Type': ['CUSTOMERINFO'], 'CompanyID': ['18282900'], 'SocialID': [''], 'CustomerName': ['系统管理员'], 'JobExtend': ['{}']}
+Tue 13 Mar 2018 16:46:28 INFO views.py 79 8284 10744 爬取信用信息
+Tue 13 Mar 2018 16:46:28 INFO views.py 84 8284 10744 任务信息接收成功
+Tue 13 Mar 2018 16:46:28 INFO views.py 106 8284 10744 添加任务到数据库
+Tue 13 Mar 2018 16:46:28 INFO views.py 107 8284 10744 ACT18282900
+Tue 13 Mar 2018 16:46:28 INFO views.py 111 8284 10744 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:46:28 INFO views.py 29 16500 10744 开始接受请求
+Tue 13 Mar 2018 16:46:28 INFO views.py 32 16500 10744 接受请求成功
+Tue 13 Mar 2018 16:46:28 INFO views.py 33 16500 10744 {'BatchMonth': ['0'], 'BatchID': ['0116f9940108d58901f78e1c24'], 'CustomerID': ['0'], 'jobparams': ['{"BatchID":"0116f9940108d58901f78e1c24","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员31","TaxPwd":"98TCQEMKABJ5ZU7","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'TaxPwd': ['98TCQEMKABJ5ZU7'], 'jobname': ['批量初始化公司信息'], 'TaxId': ['系统管理员31'], 'BatchYear': ['0'], 'Type': ['CUSTOMERINFO'], 'CompanyID': ['18282900'], 'SocialID': [''], 'CustomerName': ['系统管理员'], 'JobExtend': ['{}']}
+Tue 13 Mar 2018 16:46:28 INFO views.py 79 16500 10744 爬取信用信息
+Tue 13 Mar 2018 16:46:28 INFO views.py 84 16500 10744 任务信息接收成功
+Tue 13 Mar 2018 16:46:28 INFO views.py 106 16500 10744 添加任务到数据库
+Tue 13 Mar 2018 16:46:28 INFO views.py 107 16500 10744 ACT18282900
+Tue 13 Mar 2018 16:46:28 INFO views.py 111 16500 10744 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:46:34 INFO views.py 271 10300 10744 开始接受请求
+Tue 13 Mar 2018 16:46:34 INFO views.py 273 10300 10744 接受到post请求
+Tue 13 Mar 2018 16:46:34 INFO views.py 275 10300 10744 接受请求成功
+Tue 13 Mar 2018 16:46:34 INFO views.py 276 10300 10744 {'Type': ['CUSTOMERINFO'], 'bathcancel': ['["0116f9940108d58901f513a192","0116f9940108d58901f530c271","0116f9940108d58901f545532a","0116f9940108d58901f5597d1a","0116f9940108d58901f56c9db2","0116f9940108d58901f57c0093","0116f9940108d58901f58ff955","0116f9940108d58901f5ab6259","0116f9940108d58901f5bef19b","0116f9940108d58901f5d4d296","0116f9940108d58901f5e58064","0116f9940108d58901f5fb3aa6","0116f9940108d58901f60a12f0","0116f9940108d58901f61fba13","0116f9940108d58901f63461bf","0116f9940108d58901f647617e","0116f9940108d58901f65ad6da","0116f9940108d58901f67266aa","0116f9940108d58901f685fc42","0116f9940108d58901f69a55a6","0116f9940108d58901f6ac6371","0116f9940108d58901f6c35839","0116f9940108d58901f6d1f783","0116f9940108d58901f6e6d9f6","0116f9940108d58901f6f90f2f","0116f9940108d58901f70aa739","0116f9940108d58901f722008f","0116f9940108d58901f737e14b","0116f9940108d58901f766b2e7","0116f9940108d58901f7788645","0116f9940108d58901f78e1c24"]']}
+Tue 13 Mar 2018 16:46:34 INFO views.py 316 10300 10744 爬取信用信息
+Tue 13 Mar 2018 16:46:34 INFO views.py 318 10300 10744 任务信息接收成功
+Tue 13 Mar 2018 16:46:34 INFO views.py 321 10300 10744 取消任务
+Tue 13 Mar 2018 16:48:01 INFO views.py 29 17784 4820 开始接受请求
+Tue 13 Mar 2018 16:48:01 INFO views.py 32 17784 4820 接受请求成功
+Tue 13 Mar 2018 16:48:01 INFO views.py 33 17784 4820 {'Type': ['CUSTOMERINFO'], 'JobExtend': ['{}'], 'jobname': ['批量初始化公司信息'], 'CustomerName': ['系统管理员'], 'CompanyID': ['18282900'], 'CustomerID': ['0'], 'TaxId': ['系统管理员1'], 'jobparams': ['{"BatchID":"0116f9940108d589022ed6faef","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员1","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'BatchYear': ['0'], 'BatchID': ['0116f9940108d589022ed6faef'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'SocialID': [''], 'BatchMonth': ['0']}
+Tue 13 Mar 2018 16:48:01 INFO views.py 79 17784 4820 爬取信用信息
+Tue 13 Mar 2018 16:48:01 INFO views.py 84 17784 4820 任务信息接收成功
+Tue 13 Mar 2018 16:48:01 INFO views.py 106 17784 4820 添加任务到数据库
+Tue 13 Mar 2018 16:48:01 INFO views.py 107 17784 4820 ACT18282900
+Tue 13 Mar 2018 16:48:01 INFO views.py 111 17784 4820 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:48:01 INFO views.py 29 12152 4820 开始接受请求
+Tue 13 Mar 2018 16:48:01 INFO views.py 32 12152 4820 接受请求成功
+Tue 13 Mar 2018 16:48:01 INFO views.py 33 12152 4820 {'Type': ['CUSTOMERINFO'], 'JobExtend': ['{}'], 'jobname': ['批量初始化公司信息'], 'CustomerName': ['系统管理员'], 'CompanyID': ['18282900'], 'CustomerID': ['0'], 'TaxId': ['系统管理员2'], 'jobparams': ['{"BatchID":"0116f9940108d589022ef3b104","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员2","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'BatchYear': ['0'], 'BatchID': ['0116f9940108d589022ef3b104'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'SocialID': [''], 'BatchMonth': ['0']}
+Tue 13 Mar 2018 16:48:01 INFO views.py 79 12152 4820 爬取信用信息
+Tue 13 Mar 2018 16:48:01 INFO views.py 84 12152 4820 任务信息接收成功
+Tue 13 Mar 2018 16:48:01 INFO views.py 106 12152 4820 添加任务到数据库
+Tue 13 Mar 2018 16:48:01 INFO views.py 107 12152 4820 ACT18282900
+Tue 13 Mar 2018 16:48:01 INFO views.py 111 12152 4820 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:48:01 INFO views.py 29 15756 4820 开始接受请求
+Tue 13 Mar 2018 16:48:01 INFO views.py 32 15756 4820 接受请求成功
+Tue 13 Mar 2018 16:48:01 INFO views.py 33 15756 4820 {'Type': ['CUSTOMERINFO'], 'JobExtend': ['{}'], 'jobname': ['批量初始化公司信息'], 'CustomerName': ['系统管理员'], 'CompanyID': ['18282900'], 'CustomerID': ['0'], 'TaxId': ['系统管理员3'], 'jobparams': ['{"BatchID":"0116f9940108d589022f047b2d","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员3","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'BatchYear': ['0'], 'BatchID': ['0116f9940108d589022f047b2d'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'SocialID': [''], 'BatchMonth': ['0']}
+Tue 13 Mar 2018 16:48:01 INFO views.py 79 15756 4820 爬取信用信息
+Tue 13 Mar 2018 16:48:01 INFO views.py 84 15756 4820 任务信息接收成功
+Tue 13 Mar 2018 16:48:01 INFO views.py 106 15756 4820 添加任务到数据库
+Tue 13 Mar 2018 16:48:01 INFO views.py 107 15756 4820 ACT18282900
+Tue 13 Mar 2018 16:48:01 INFO views.py 111 15756 4820 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:48:01 INFO views.py 29 8900 4820 开始接受请求
+Tue 13 Mar 2018 16:48:01 INFO views.py 32 8900 4820 接受请求成功
+Tue 13 Mar 2018 16:48:01 INFO views.py 33 8900 4820 {'Type': ['CUSTOMERINFO'], 'JobExtend': ['{}'], 'jobname': ['批量初始化公司信息'], 'CustomerName': ['系统管理员'], 'CompanyID': ['18282900'], 'CustomerID': ['0'], 'TaxId': ['系统管理员4'], 'jobparams': ['{"BatchID":"0116f9940108d589022f16d75e","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员4","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'BatchYear': ['0'], 'BatchID': ['0116f9940108d589022f16d75e'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'SocialID': [''], 'BatchMonth': ['0']}
+Tue 13 Mar 2018 16:48:01 INFO views.py 79 8900 4820 爬取信用信息
+Tue 13 Mar 2018 16:48:01 INFO views.py 84 8900 4820 任务信息接收成功
+Tue 13 Mar 2018 16:48:01 INFO views.py 106 8900 4820 添加任务到数据库
+Tue 13 Mar 2018 16:48:01 INFO views.py 107 8900 4820 ACT18282900
+Tue 13 Mar 2018 16:48:01 INFO views.py 111 8900 4820 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:48:01 INFO views.py 29 1568 4820 开始接受请求
+Tue 13 Mar 2018 16:48:01 INFO views.py 32 1568 4820 接受请求成功
+Tue 13 Mar 2018 16:48:01 INFO views.py 33 1568 4820 {'Type': ['CUSTOMERINFO'], 'JobExtend': ['{}'], 'jobname': ['批量初始化公司信息'], 'CustomerName': ['系统管理员'], 'CompanyID': ['18282900'], 'CustomerID': ['0'], 'TaxId': ['系统管理员5'], 'jobparams': ['{"BatchID":"0116f9940108d589022f27ce34","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员5","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'BatchYear': ['0'], 'BatchID': ['0116f9940108d589022f27ce34'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'SocialID': [''], 'BatchMonth': ['0']}
+Tue 13 Mar 2018 16:48:01 INFO views.py 79 1568 4820 爬取信用信息
+Tue 13 Mar 2018 16:48:01 INFO views.py 84 1568 4820 任务信息接收成功
+Tue 13 Mar 2018 16:48:01 INFO views.py 106 1568 4820 添加任务到数据库
+Tue 13 Mar 2018 16:48:01 INFO views.py 107 1568 4820 ACT18282900
+Tue 13 Mar 2018 16:48:01 INFO views.py 111 1568 4820 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:48:01 INFO views.py 29 16696 4820 开始接受请求
+Tue 13 Mar 2018 16:48:01 INFO views.py 32 16696 4820 接受请求成功
+Tue 13 Mar 2018 16:48:01 INFO views.py 33 16696 4820 {'Type': ['CUSTOMERINFO'], 'JobExtend': ['{}'], 'jobname': ['批量初始化公司信息'], 'CustomerName': ['系统管理员'], 'CompanyID': ['18282900'], 'CustomerID': ['0'], 'TaxId': ['系统管理员6'], 'jobparams': ['{"BatchID":"0116f9940108d589022f37a7f0","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员6","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'BatchYear': ['0'], 'BatchID': ['0116f9940108d589022f37a7f0'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'SocialID': [''], 'BatchMonth': ['0']}
+Tue 13 Mar 2018 16:48:01 INFO views.py 79 16696 4820 爬取信用信息
+Tue 13 Mar 2018 16:48:01 INFO views.py 84 16696 4820 任务信息接收成功
+Tue 13 Mar 2018 16:48:01 INFO views.py 106 16696 4820 添加任务到数据库
+Tue 13 Mar 2018 16:48:01 INFO views.py 107 16696 4820 ACT18282900
+Tue 13 Mar 2018 16:48:01 INFO views.py 111 16696 4820 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:48:01 INFO views.py 29 17488 4820 开始接受请求
+Tue 13 Mar 2018 16:48:01 INFO views.py 32 17488 4820 接受请求成功
+Tue 13 Mar 2018 16:48:01 INFO views.py 33 17488 4820 {'Type': ['CUSTOMERINFO'], 'JobExtend': ['{}'], 'jobname': ['批量初始化公司信息'], 'CustomerName': ['系统管理员'], 'CompanyID': ['18282900'], 'CustomerID': ['0'], 'TaxId': ['系统管理员7'], 'jobparams': ['{"BatchID":"0116f9940108d589022f4d12e3","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员7","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'BatchYear': ['0'], 'BatchID': ['0116f9940108d589022f4d12e3'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'SocialID': [''], 'BatchMonth': ['0']}
+Tue 13 Mar 2018 16:48:01 INFO views.py 79 17488 4820 爬取信用信息
+Tue 13 Mar 2018 16:48:01 INFO views.py 84 17488 4820 任务信息接收成功
+Tue 13 Mar 2018 16:48:01 INFO views.py 106 17488 4820 添加任务到数据库
+Tue 13 Mar 2018 16:48:01 INFO views.py 107 17488 4820 ACT18282900
+Tue 13 Mar 2018 16:48:02 INFO views.py 111 17488 4820 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:48:02 INFO views.py 29 12492 4820 开始接受请求
+Tue 13 Mar 2018 16:48:02 INFO views.py 32 12492 4820 接受请求成功
+Tue 13 Mar 2018 16:48:02 INFO views.py 33 12492 4820 {'Type': ['CUSTOMERINFO'], 'JobExtend': ['{}'], 'jobname': ['批量初始化公司信息'], 'CustomerName': ['系统管理员'], 'CompanyID': ['18282900'], 'CustomerID': ['0'], 'TaxId': ['系统管理员8'], 'jobparams': ['{"BatchID":"0116f9940108d589022f616cd2","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员8","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'BatchYear': ['0'], 'BatchID': ['0116f9940108d589022f616cd2'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'SocialID': [''], 'BatchMonth': ['0']}
+Tue 13 Mar 2018 16:48:02 INFO views.py 79 12492 4820 爬取信用信息
+Tue 13 Mar 2018 16:48:02 INFO views.py 84 12492 4820 任务信息接收成功
+Tue 13 Mar 2018 16:48:02 INFO views.py 106 12492 4820 添加任务到数据库
+Tue 13 Mar 2018 16:48:02 INFO views.py 107 12492 4820 ACT18282900
+Tue 13 Mar 2018 16:48:02 INFO views.py 111 12492 4820 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:48:02 INFO views.py 29 19272 4820 开始接受请求
+Tue 13 Mar 2018 16:48:02 INFO views.py 32 19272 4820 接受请求成功
+Tue 13 Mar 2018 16:48:02 INFO views.py 33 19272 4820 {'Type': ['CUSTOMERINFO'], 'JobExtend': ['{}'], 'jobname': ['批量初始化公司信息'], 'CustomerName': ['系统管理员'], 'CompanyID': ['18282900'], 'CustomerID': ['0'], 'TaxId': ['系统管理员9'], 'jobparams': ['{"BatchID":"0116f9940108d589022f7578e7","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员9","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'BatchYear': ['0'], 'BatchID': ['0116f9940108d589022f7578e7'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'SocialID': [''], 'BatchMonth': ['0']}
+Tue 13 Mar 2018 16:48:02 INFO views.py 79 19272 4820 爬取信用信息
+Tue 13 Mar 2018 16:48:02 INFO views.py 84 19272 4820 任务信息接收成功
+Tue 13 Mar 2018 16:48:02 INFO views.py 106 19272 4820 添加任务到数据库
+Tue 13 Mar 2018 16:48:02 INFO views.py 107 19272 4820 ACT18282900
+Tue 13 Mar 2018 16:48:02 INFO views.py 111 19272 4820 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:48:02 INFO views.py 29 15732 4820 开始接受请求
+Tue 13 Mar 2018 16:48:02 INFO views.py 32 15732 4820 接受请求成功
+Tue 13 Mar 2018 16:48:02 INFO views.py 33 15732 4820 {'Type': ['CUSTOMERINFO'], 'JobExtend': ['{}'], 'jobname': ['批量初始化公司信息'], 'CustomerName': ['系统管理员'], 'CompanyID': ['18282900'], 'CustomerID': ['0'], 'TaxId': ['系统管理员10'], 'jobparams': ['{"BatchID":"0116f9940108d589022f8428ed","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员10","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'BatchYear': ['0'], 'BatchID': ['0116f9940108d589022f8428ed'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'SocialID': [''], 'BatchMonth': ['0']}
+Tue 13 Mar 2018 16:48:02 INFO views.py 79 15732 4820 爬取信用信息
+Tue 13 Mar 2018 16:48:02 INFO views.py 84 15732 4820 任务信息接收成功
+Tue 13 Mar 2018 16:48:02 INFO views.py 106 15732 4820 添加任务到数据库
+Tue 13 Mar 2018 16:48:02 INFO views.py 107 15732 4820 ACT18282900
+Tue 13 Mar 2018 16:48:02 INFO views.py 111 15732 4820 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:48:02 INFO views.py 29 18124 4820 开始接受请求
+Tue 13 Mar 2018 16:48:02 INFO views.py 32 18124 4820 接受请求成功
+Tue 13 Mar 2018 16:48:02 INFO views.py 33 18124 4820 {'Type': ['CUSTOMERINFO'], 'JobExtend': ['{}'], 'jobname': ['批量初始化公司信息'], 'CustomerName': ['系统管理员'], 'CompanyID': ['18282900'], 'CustomerID': ['0'], 'TaxId': ['系统管理员11'], 'jobparams': ['{"BatchID":"0116f9940108d589022f98a9aa","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员11","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'BatchYear': ['0'], 'BatchID': ['0116f9940108d589022f98a9aa'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'SocialID': [''], 'BatchMonth': ['0']}
+Tue 13 Mar 2018 16:48:02 INFO views.py 79 18124 4820 爬取信用信息
+Tue 13 Mar 2018 16:48:02 INFO views.py 84 18124 4820 任务信息接收成功
+Tue 13 Mar 2018 16:48:02 INFO views.py 106 18124 4820 添加任务到数据库
+Tue 13 Mar 2018 16:48:02 INFO views.py 107 18124 4820 ACT18282900
+Tue 13 Mar 2018 16:48:02 INFO views.py 111 18124 4820 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:48:02 INFO views.py 29 10036 4820 开始接受请求
+Tue 13 Mar 2018 16:48:02 INFO views.py 32 10036 4820 接受请求成功
+Tue 13 Mar 2018 16:48:02 INFO views.py 33 10036 4820 {'Type': ['CUSTOMERINFO'], 'JobExtend': ['{}'], 'jobname': ['批量初始化公司信息'], 'CustomerName': ['系统管理员'], 'CompanyID': ['18282900'], 'CustomerID': ['0'], 'TaxId': ['系统管理员12'], 'jobparams': ['{"BatchID":"0116f9940108d589022faf9cf2","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员12","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'BatchYear': ['0'], 'BatchID': ['0116f9940108d589022faf9cf2'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'SocialID': [''], 'BatchMonth': ['0']}
+Tue 13 Mar 2018 16:48:02 INFO views.py 79 10036 4820 爬取信用信息
+Tue 13 Mar 2018 16:48:02 INFO views.py 84 10036 4820 任务信息接收成功
+Tue 13 Mar 2018 16:48:02 INFO views.py 106 10036 4820 添加任务到数据库
+Tue 13 Mar 2018 16:48:02 INFO views.py 107 10036 4820 ACT18282900
+Tue 13 Mar 2018 16:48:02 INFO views.py 111 10036 4820 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:48:02 INFO views.py 29 8084 4820 开始接受请求
+Tue 13 Mar 2018 16:48:02 INFO views.py 32 8084 4820 接受请求成功
+Tue 13 Mar 2018 16:48:02 INFO views.py 33 8084 4820 {'Type': ['CUSTOMERINFO'], 'JobExtend': ['{}'], 'jobname': ['批量初始化公司信息'], 'CustomerName': ['系统管理员'], 'CompanyID': ['18282900'], 'CustomerID': ['0'], 'TaxId': ['系统管理员13'], 'jobparams': ['{"BatchID":"0116f9940108d589022fc705dc","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员13","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'BatchYear': ['0'], 'BatchID': ['0116f9940108d589022fc705dc'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'SocialID': [''], 'BatchMonth': ['0']}
+Tue 13 Mar 2018 16:48:02 INFO views.py 79 8084 4820 爬取信用信息
+Tue 13 Mar 2018 16:48:02 INFO views.py 84 8084 4820 任务信息接收成功
+Tue 13 Mar 2018 16:48:02 INFO views.py 106 8084 4820 添加任务到数据库
+Tue 13 Mar 2018 16:48:02 INFO views.py 107 8084 4820 ACT18282900
+Tue 13 Mar 2018 16:48:02 INFO views.py 111 8084 4820 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:48:02 INFO views.py 29 20008 4820 开始接受请求
+Tue 13 Mar 2018 16:48:02 INFO views.py 32 20008 4820 接受请求成功
+Tue 13 Mar 2018 16:48:02 INFO views.py 33 20008 4820 {'Type': ['CUSTOMERINFO'], 'JobExtend': ['{}'], 'jobname': ['批量初始化公司信息'], 'CustomerName': ['系统管理员'], 'CompanyID': ['18282900'], 'CustomerID': ['0'], 'TaxId': ['系统管理员14'], 'jobparams': ['{"BatchID":"0116f9940108d589022fde6038","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员14","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'BatchYear': ['0'], 'BatchID': ['0116f9940108d589022fde6038'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'SocialID': [''], 'BatchMonth': ['0']}
+Tue 13 Mar 2018 16:48:02 INFO views.py 79 20008 4820 爬取信用信息
+Tue 13 Mar 2018 16:48:02 INFO views.py 84 20008 4820 任务信息接收成功
+Tue 13 Mar 2018 16:48:02 INFO views.py 106 20008 4820 添加任务到数据库
+Tue 13 Mar 2018 16:48:02 INFO views.py 107 20008 4820 ACT18282900
+Tue 13 Mar 2018 16:48:02 INFO views.py 111 20008 4820 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:48:03 INFO views.py 29 15908 4820 开始接受请求
+Tue 13 Mar 2018 16:48:03 INFO views.py 32 15908 4820 接受请求成功
+Tue 13 Mar 2018 16:48:03 INFO views.py 33 15908 4820 {'Type': ['CUSTOMERINFO'], 'JobExtend': ['{}'], 'jobname': ['批量初始化公司信息'], 'CustomerName': ['系统管理员'], 'CompanyID': ['18282900'], 'CustomerID': ['0'], 'TaxId': ['系统管理员15'], 'jobparams': ['{"BatchID":"0116f9940108d589022ff3301c","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员15","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'BatchYear': ['0'], 'BatchID': ['0116f9940108d589022ff3301c'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'SocialID': [''], 'BatchMonth': ['0']}
+Tue 13 Mar 2018 16:48:03 INFO views.py 79 15908 4820 爬取信用信息
+Tue 13 Mar 2018 16:48:03 INFO views.py 84 15908 4820 任务信息接收成功
+Tue 13 Mar 2018 16:48:03 INFO views.py 106 15908 4820 添加任务到数据库
+Tue 13 Mar 2018 16:48:03 INFO views.py 107 15908 4820 ACT18282900
+Tue 13 Mar 2018 16:48:03 INFO views.py 111 15908 4820 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:48:03 INFO views.py 29 16848 4820 开始接受请求
+Tue 13 Mar 2018 16:48:03 INFO views.py 32 16848 4820 接受请求成功
+Tue 13 Mar 2018 16:48:03 INFO views.py 33 16848 4820 {'Type': ['CUSTOMERINFO'], 'JobExtend': ['{}'], 'jobname': ['批量初始化公司信息'], 'CustomerName': ['系统管理员'], 'CompanyID': ['18282900'], 'CustomerID': ['0'], 'TaxId': ['系统管理员16'], 'jobparams': ['{"BatchID":"0116f9940108d58902300663ca","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员16","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'BatchYear': ['0'], 'BatchID': ['0116f9940108d58902300663ca'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'SocialID': [''], 'BatchMonth': ['0']}
+Tue 13 Mar 2018 16:48:03 INFO views.py 79 16848 4820 爬取信用信息
+Tue 13 Mar 2018 16:48:03 INFO views.py 84 16848 4820 任务信息接收成功
+Tue 13 Mar 2018 16:48:03 INFO views.py 106 16848 4820 添加任务到数据库
+Tue 13 Mar 2018 16:48:03 INFO views.py 107 16848 4820 ACT18282900
+Tue 13 Mar 2018 16:48:03 INFO views.py 111 16848 4820 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:48:03 INFO views.py 29 3968 4820 开始接受请求
+Tue 13 Mar 2018 16:48:03 INFO views.py 32 3968 4820 接受请求成功
+Tue 13 Mar 2018 16:48:03 INFO views.py 33 3968 4820 {'Type': ['CUSTOMERINFO'], 'JobExtend': ['{}'], 'jobname': ['批量初始化公司信息'], 'CustomerName': ['系统管理员'], 'CompanyID': ['18282900'], 'CustomerID': ['0'], 'TaxId': ['系统管理员17'], 'jobparams': ['{"BatchID":"0116f9940108d58902302105c8","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员17","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'BatchYear': ['0'], 'BatchID': ['0116f9940108d58902302105c8'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'SocialID': [''], 'BatchMonth': ['0']}
+Tue 13 Mar 2018 16:48:03 INFO views.py 79 3968 4820 爬取信用信息
+Tue 13 Mar 2018 16:48:03 INFO views.py 84 3968 4820 任务信息接收成功
+Tue 13 Mar 2018 16:48:03 INFO views.py 106 3968 4820 添加任务到数据库
+Tue 13 Mar 2018 16:48:03 INFO views.py 107 3968 4820 ACT18282900
+Tue 13 Mar 2018 16:48:03 INFO views.py 111 3968 4820 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:48:03 INFO views.py 29 14204 4820 开始接受请求
+Tue 13 Mar 2018 16:48:03 INFO views.py 32 14204 4820 接受请求成功
+Tue 13 Mar 2018 16:48:03 INFO views.py 33 14204 4820 {'Type': ['CUSTOMERINFO'], 'JobExtend': ['{}'], 'jobname': ['批量初始化公司信息'], 'CustomerName': ['系统管理员'], 'CompanyID': ['18282900'], 'CustomerID': ['0'], 'TaxId': ['系统管理员18'], 'jobparams': ['{"BatchID":"0116f9940108d5890230307a3b","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员18","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'BatchYear': ['0'], 'BatchID': ['0116f9940108d5890230307a3b'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'SocialID': [''], 'BatchMonth': ['0']}
+Tue 13 Mar 2018 16:48:03 INFO views.py 79 14204 4820 爬取信用信息
+Tue 13 Mar 2018 16:48:03 INFO views.py 84 14204 4820 任务信息接收成功
+Tue 13 Mar 2018 16:48:03 INFO views.py 106 14204 4820 添加任务到数据库
+Tue 13 Mar 2018 16:48:03 INFO views.py 107 14204 4820 ACT18282900
+Tue 13 Mar 2018 16:48:03 INFO views.py 111 14204 4820 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:48:03 INFO views.py 29 8096 4820 开始接受请求
+Tue 13 Mar 2018 16:48:03 INFO views.py 32 8096 4820 接受请求成功
+Tue 13 Mar 2018 16:48:03 INFO views.py 33 8096 4820 {'Type': ['CUSTOMERINFO'], 'JobExtend': ['{}'], 'jobname': ['批量初始化公司信息'], 'CustomerName': ['系统管理员'], 'CompanyID': ['18282900'], 'CustomerID': ['0'], 'TaxId': ['系统管理员19'], 'jobparams': ['{"BatchID":"0116f9940108d589023046d105","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员19","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'BatchYear': ['0'], 'BatchID': ['0116f9940108d589023046d105'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'SocialID': [''], 'BatchMonth': ['0']}
+Tue 13 Mar 2018 16:48:03 INFO views.py 79 8096 4820 爬取信用信息
+Tue 13 Mar 2018 16:48:03 INFO views.py 84 8096 4820 任务信息接收成功
+Tue 13 Mar 2018 16:48:03 INFO views.py 106 8096 4820 添加任务到数据库
+Tue 13 Mar 2018 16:48:03 INFO views.py 107 8096 4820 ACT18282900
+Tue 13 Mar 2018 16:48:03 INFO views.py 111 8096 4820 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:48:03 INFO views.py 29 18996 4820 开始接受请求
+Tue 13 Mar 2018 16:48:03 INFO views.py 32 18996 4820 接受请求成功
+Tue 13 Mar 2018 16:48:03 INFO views.py 33 18996 4820 {'Type': ['CUSTOMERINFO'], 'JobExtend': ['{}'], 'jobname': ['批量初始化公司信息'], 'CustomerName': ['系统管理员'], 'CompanyID': ['18282900'], 'CustomerID': ['0'], 'TaxId': ['系统管理员20'], 'jobparams': ['{"BatchID":"0116f9940108d589023059c9d9","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员20","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'BatchYear': ['0'], 'BatchID': ['0116f9940108d589023059c9d9'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'SocialID': [''], 'BatchMonth': ['0']}
+Tue 13 Mar 2018 16:48:03 INFO views.py 79 18996 4820 爬取信用信息
+Tue 13 Mar 2018 16:48:03 INFO views.py 84 18996 4820 任务信息接收成功
+Tue 13 Mar 2018 16:48:03 INFO views.py 106 18996 4820 添加任务到数据库
+Tue 13 Mar 2018 16:48:03 INFO views.py 107 18996 4820 ACT18282900
+Tue 13 Mar 2018 16:48:04 INFO views.py 111 18996 4820 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:48:04 INFO views.py 29 20460 4820 开始接受请求
+Tue 13 Mar 2018 16:48:04 INFO views.py 32 20460 4820 接受请求成功
+Tue 13 Mar 2018 16:48:04 INFO views.py 33 20460 4820 {'Type': ['CUSTOMERINFO'], 'JobExtend': ['{}'], 'jobname': ['批量初始化公司信息'], 'CustomerName': ['系统管理员'], 'CompanyID': ['18282900'], 'CustomerID': ['0'], 'TaxId': ['系统管理员21'], 'jobparams': ['{"BatchID":"0116f9940108d5890230cb7727","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员21","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'BatchYear': ['0'], 'BatchID': ['0116f9940108d5890230cb7727'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'SocialID': [''], 'BatchMonth': ['0']}
+Tue 13 Mar 2018 16:48:04 INFO views.py 79 20460 4820 爬取信用信息
+Tue 13 Mar 2018 16:48:04 INFO views.py 84 20460 4820 任务信息接收成功
+Tue 13 Mar 2018 16:48:04 INFO views.py 106 20460 4820 添加任务到数据库
+Tue 13 Mar 2018 16:48:04 INFO views.py 107 20460 4820 ACT18282900
+Tue 13 Mar 2018 16:48:04 INFO views.py 111 20460 4820 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:48:04 INFO views.py 29 18004 4820 开始接受请求
+Tue 13 Mar 2018 16:48:04 INFO views.py 32 18004 4820 接受请求成功
+Tue 13 Mar 2018 16:48:04 INFO views.py 33 18004 4820 {'Type': ['CUSTOMERINFO'], 'JobExtend': ['{}'], 'jobname': ['批量初始化公司信息'], 'CustomerName': ['系统管理员'], 'CompanyID': ['18282900'], 'CustomerID': ['0'], 'TaxId': ['系统管理员22'], 'jobparams': ['{"BatchID":"0116f9940108d5890230df0cf4","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员22","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'BatchYear': ['0'], 'BatchID': ['0116f9940108d5890230df0cf4'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'SocialID': [''], 'BatchMonth': ['0']}
+Tue 13 Mar 2018 16:48:04 INFO views.py 79 18004 4820 爬取信用信息
+Tue 13 Mar 2018 16:48:04 INFO views.py 84 18004 4820 任务信息接收成功
+Tue 13 Mar 2018 16:48:04 INFO views.py 106 18004 4820 添加任务到数据库
+Tue 13 Mar 2018 16:48:04 INFO views.py 107 18004 4820 ACT18282900
+Tue 13 Mar 2018 16:48:04 INFO views.py 111 18004 4820 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:48:04 INFO views.py 29 18560 4820 开始接受请求
+Tue 13 Mar 2018 16:48:04 INFO views.py 32 18560 4820 接受请求成功
+Tue 13 Mar 2018 16:48:04 INFO views.py 33 18560 4820 {'Type': ['CUSTOMERINFO'], 'JobExtend': ['{}'], 'jobname': ['批量初始化公司信息'], 'CustomerName': ['系统管理员'], 'CompanyID': ['18282900'], 'CustomerID': ['0'], 'TaxId': ['系统管理员23'], 'jobparams': ['{"BatchID":"0116f9940108d5890230f4a02b","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员23","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'BatchYear': ['0'], 'BatchID': ['0116f9940108d5890230f4a02b'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'SocialID': [''], 'BatchMonth': ['0']}
+Tue 13 Mar 2018 16:48:04 INFO views.py 79 18560 4820 爬取信用信息
+Tue 13 Mar 2018 16:48:04 INFO views.py 84 18560 4820 任务信息接收成功
+Tue 13 Mar 2018 16:48:04 INFO views.py 106 18560 4820 添加任务到数据库
+Tue 13 Mar 2018 16:48:04 INFO views.py 107 18560 4820 ACT18282900
+Tue 13 Mar 2018 16:48:04 INFO views.py 111 18560 4820 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:48:04 INFO views.py 29 8780 4820 开始接受请求
+Tue 13 Mar 2018 16:48:04 INFO views.py 32 8780 4820 接受请求成功
+Tue 13 Mar 2018 16:48:04 INFO views.py 33 8780 4820 {'Type': ['CUSTOMERINFO'], 'JobExtend': ['{}'], 'jobname': ['批量初始化公司信息'], 'CustomerName': ['系统管理员'], 'CompanyID': ['18282900'], 'CustomerID': ['0'], 'TaxId': ['系统管理员24'], 'jobparams': ['{"BatchID":"0116f9940108d58902310bcfbd","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员24","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'BatchYear': ['0'], 'BatchID': ['0116f9940108d58902310bcfbd'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'SocialID': [''], 'BatchMonth': ['0']}
+Tue 13 Mar 2018 16:48:04 INFO views.py 79 8780 4820 爬取信用信息
+Tue 13 Mar 2018 16:48:04 INFO views.py 84 8780 4820 任务信息接收成功
+Tue 13 Mar 2018 16:48:04 INFO views.py 106 8780 4820 添加任务到数据库
+Tue 13 Mar 2018 16:48:04 INFO views.py 107 8780 4820 ACT18282900
+Tue 13 Mar 2018 16:48:04 INFO views.py 111 8780 4820 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:48:04 INFO views.py 29 1420 4820 开始接受请求
+Tue 13 Mar 2018 16:48:04 INFO views.py 32 1420 4820 接受请求成功
+Tue 13 Mar 2018 16:48:04 INFO views.py 33 1420 4820 {'Type': ['CUSTOMERINFO'], 'JobExtend': ['{}'], 'jobname': ['批量初始化公司信息'], 'CustomerName': ['系统管理员'], 'CompanyID': ['18282900'], 'CustomerID': ['0'], 'TaxId': ['系统管理员25'], 'jobparams': ['{"BatchID":"0116f9940108d58902311e7a41","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员25","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'BatchYear': ['0'], 'BatchID': ['0116f9940108d58902311e7a41'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'SocialID': [''], 'BatchMonth': ['0']}
+Tue 13 Mar 2018 16:48:04 INFO views.py 79 1420 4820 爬取信用信息
+Tue 13 Mar 2018 16:48:04 INFO views.py 84 1420 4820 任务信息接收成功
+Tue 13 Mar 2018 16:48:05 INFO views.py 106 1420 4820 添加任务到数据库
+Tue 13 Mar 2018 16:48:05 INFO views.py 107 1420 4820 ACT18282900
+Tue 13 Mar 2018 16:48:05 INFO views.py 111 1420 4820 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:48:05 INFO views.py 29 16012 4820 开始接受请求
+Tue 13 Mar 2018 16:48:05 INFO views.py 32 16012 4820 接受请求成功
+Tue 13 Mar 2018 16:48:05 INFO views.py 33 16012 4820 {'Type': ['CUSTOMERINFO'], 'JobExtend': ['{}'], 'jobname': ['批量初始化公司信息'], 'CustomerName': ['系统管理员'], 'CompanyID': ['18282900'], 'CustomerID': ['0'], 'TaxId': ['系统管理员26'], 'jobparams': ['{"BatchID":"0116f9940108d58902313012a5","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员26","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'BatchYear': ['0'], 'BatchID': ['0116f9940108d58902313012a5'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'SocialID': [''], 'BatchMonth': ['0']}
+Tue 13 Mar 2018 16:48:05 INFO views.py 79 16012 4820 爬取信用信息
+Tue 13 Mar 2018 16:48:05 INFO views.py 84 16012 4820 任务信息接收成功
+Tue 13 Mar 2018 16:48:05 INFO views.py 106 16012 4820 添加任务到数据库
+Tue 13 Mar 2018 16:48:05 INFO views.py 107 16012 4820 ACT18282900
+Tue 13 Mar 2018 16:48:05 INFO views.py 111 16012 4820 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:48:05 INFO views.py 29 16312 4820 开始接受请求
+Tue 13 Mar 2018 16:48:05 INFO views.py 32 16312 4820 接受请求成功
+Tue 13 Mar 2018 16:48:05 INFO views.py 33 16312 4820 {'Type': ['CUSTOMERINFO'], 'JobExtend': ['{}'], 'jobname': ['批量初始化公司信息'], 'CustomerName': ['系统管理员'], 'CompanyID': ['18282900'], 'CustomerID': ['0'], 'TaxId': ['系统管理员27'], 'jobparams': ['{"BatchID":"0116f9940108d5890231454529","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员27","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'BatchYear': ['0'], 'BatchID': ['0116f9940108d5890231454529'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'SocialID': [''], 'BatchMonth': ['0']}
+Tue 13 Mar 2018 16:48:05 INFO views.py 79 16312 4820 爬取信用信息
+Tue 13 Mar 2018 16:48:05 INFO views.py 84 16312 4820 任务信息接收成功
+Tue 13 Mar 2018 16:48:05 INFO views.py 106 16312 4820 添加任务到数据库
+Tue 13 Mar 2018 16:48:05 INFO views.py 107 16312 4820 ACT18282900
+Tue 13 Mar 2018 16:48:05 INFO views.py 111 16312 4820 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:48:05 INFO views.py 29 19704 4820 开始接受请求
+Tue 13 Mar 2018 16:48:05 INFO views.py 32 19704 4820 接受请求成功
+Tue 13 Mar 2018 16:48:05 INFO views.py 33 19704 4820 {'Type': ['CUSTOMERINFO'], 'JobExtend': ['{}'], 'jobname': ['批量初始化公司信息'], 'CustomerName': ['系统管理员'], 'CompanyID': ['18282900'], 'CustomerID': ['0'], 'TaxId': ['系统管理员28'], 'jobparams': ['{"BatchID":"0116f9940108d58902315668da","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员28","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'BatchYear': ['0'], 'BatchID': ['0116f9940108d58902315668da'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'SocialID': [''], 'BatchMonth': ['0']}
+Tue 13 Mar 2018 16:48:05 INFO views.py 79 19704 4820 爬取信用信息
+Tue 13 Mar 2018 16:48:05 INFO views.py 84 19704 4820 任务信息接收成功
+Tue 13 Mar 2018 16:48:05 INFO views.py 106 19704 4820 添加任务到数据库
+Tue 13 Mar 2018 16:48:05 INFO views.py 107 19704 4820 ACT18282900
+Tue 13 Mar 2018 16:48:05 INFO views.py 111 19704 4820 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:48:05 INFO views.py 29 6108 4820 开始接受请求
+Tue 13 Mar 2018 16:48:05 INFO views.py 32 6108 4820 接受请求成功
+Tue 13 Mar 2018 16:48:05 INFO views.py 33 6108 4820 {'Type': ['CUSTOMERINFO'], 'JobExtend': ['{}'], 'jobname': ['批量初始化公司信息'], 'CustomerName': ['系统管理员'], 'CompanyID': ['18282900'], 'CustomerID': ['0'], 'TaxId': ['系统管理员29'], 'jobparams': ['{"BatchID":"0116f9940108d5890231676485","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员29","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'BatchYear': ['0'], 'BatchID': ['0116f9940108d5890231676485'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'SocialID': [''], 'BatchMonth': ['0']}
+Tue 13 Mar 2018 16:48:05 INFO views.py 79 6108 4820 爬取信用信息
+Tue 13 Mar 2018 16:48:05 INFO views.py 84 6108 4820 任务信息接收成功
+Tue 13 Mar 2018 16:48:05 INFO views.py 106 6108 4820 添加任务到数据库
+Tue 13 Mar 2018 16:48:05 INFO views.py 107 6108 4820 ACT18282900
+Tue 13 Mar 2018 16:48:05 INFO views.py 111 6108 4820 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:48:05 INFO views.py 29 16080 4820 开始接受请求
+Tue 13 Mar 2018 16:48:05 INFO views.py 32 16080 4820 接受请求成功
+Tue 13 Mar 2018 16:48:05 INFO views.py 33 16080 4820 {'Type': ['CUSTOMERINFO'], 'JobExtend': ['{}'], 'jobname': ['批量初始化公司信息'], 'CustomerName': ['系统管理员'], 'CompanyID': ['18282900'], 'CustomerID': ['0'], 'TaxId': ['系统管理员30'], 'jobparams': ['{"BatchID":"0116f9940108d5890231a12721","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员30","TaxPwd":"ZD0XLB76C7HRR08","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'BatchYear': ['0'], 'BatchID': ['0116f9940108d5890231a12721'], 'TaxPwd': ['ZD0XLB76C7HRR08'], 'SocialID': [''], 'BatchMonth': ['0']}
+Tue 13 Mar 2018 16:48:05 INFO views.py 79 16080 4820 爬取信用信息
+Tue 13 Mar 2018 16:48:05 INFO views.py 84 16080 4820 任务信息接收成功
+Tue 13 Mar 2018 16:48:05 INFO views.py 106 16080 4820 添加任务到数据库
+Tue 13 Mar 2018 16:48:05 INFO views.py 107 16080 4820 ACT18282900
+Tue 13 Mar 2018 16:48:05 INFO views.py 111 16080 4820 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:48:05 INFO views.py 29 13920 4820 开始接受请求
+Tue 13 Mar 2018 16:48:06 INFO views.py 32 13920 4820 接受请求成功
+Tue 13 Mar 2018 16:48:06 INFO views.py 33 13920 4820 {'Type': ['CUSTOMERINFO'], 'JobExtend': ['{}'], 'jobname': ['批量初始化公司信息'], 'CustomerName': ['系统管理员'], 'CompanyID': ['18282900'], 'CustomerID': ['0'], 'TaxId': ['系统管理员31'], 'jobparams': ['{"BatchID":"0116f9940108d5890231b757eb","BatchYear":0,"BatchMonth":0,"CompanyID":18282900,"CustomerID":0,"Type":"CUSTOMERINFO","TaxId":"系统管理员31","TaxPwd":"98TCQEMKABJ5ZU7","jobname":"批量初始化公司信息","jobparams":null,"CustomerName":"系统管理员","SocialID":null,"JobExtend":"{}"}'], 'BatchYear': ['0'], 'BatchID': ['0116f9940108d5890231b757eb'], 'TaxPwd': ['98TCQEMKABJ5ZU7'], 'SocialID': [''], 'BatchMonth': ['0']}
+Tue 13 Mar 2018 16:48:06 INFO views.py 79 13920 4820 爬取信用信息
+Tue 13 Mar 2018 16:48:06 INFO views.py 84 13920 4820 任务信息接收成功
+Tue 13 Mar 2018 16:48:06 INFO views.py 106 13920 4820 添加任务到数据库
+Tue 13 Mar 2018 16:48:06 INFO views.py 107 13920 4820 ACT18282900
+Tue 13 Mar 2018 16:48:06 INFO views.py 111 13920 4820 任务添加成功,开始爬取
+Tue 13 Mar 2018 16:48:17 INFO views.py 271 3236 19248 开始接受请求
+Tue 13 Mar 2018 16:48:19 INFO views.py 273 3236 19248 接受到post请求
+Tue 13 Mar 2018 16:48:19 INFO views.py 275 3236 19248 接受请求成功
+Tue 13 Mar 2018 16:48:19 INFO views.py 276 3236 19248 {'bathcancel': ['["0116f9940108d589022ed6faef","0116f9940108d589022ef3b104","0116f9940108d589022f047b2d","0116f9940108d589022f16d75e","0116f9940108d589022f27ce34","0116f9940108d589022f37a7f0","0116f9940108d589022f4d12e3","0116f9940108d589022f616cd2","0116f9940108d589022f7578e7","0116f9940108d589022f8428ed","0116f9940108d589022f98a9aa","0116f9940108d589022faf9cf2","0116f9940108d589022fc705dc","0116f9940108d589022fde6038","0116f9940108d589022ff3301c","0116f9940108d58902300663ca","0116f9940108d58902302105c8","0116f9940108d5890230307a3b","0116f9940108d589023046d105","0116f9940108d589023059c9d9","0116f9940108d5890230cb7727","0116f9940108d5890230df0cf4","0116f9940108d5890230f4a02b","0116f9940108d58902310bcfbd","0116f9940108d58902311e7a41","0116f9940108d58902313012a5","0116f9940108d5890231454529","0116f9940108d58902315668da","0116f9940108d5890231676485","0116f9940108d5890231a12721","0116f9940108d5890231b757eb"]'], 'Type': ['CUSTOMERINFO']}
+Tue 13 Mar 2018 16:48:21 INFO views.py 316 3236 19248 爬取信用信息
+Tue 13 Mar 2018 16:48:21 INFO views.py 318 3236 19248 任务信息接收成功
+Tue 13 Mar 2018 16:48:22 INFO views.py 321 3236 19248 取消任务
