@@ -325,6 +325,7 @@ def cancel_task(request):
                             if batch in i:
                                 redis_cli.lrem('sz_credit_list', 1, i)
                                 # 获取数据库
+                                i=json.loads(i)
                                 host, port, db = get_db(i["4"])
                                 # 添加任务
                                 logger.info("取消任务到数据库")
